@@ -94,7 +94,7 @@ The value of a company is
 Ownership is the share on the |econvalue|.
 
 The value of a company is associated to the members according an agreed function of *relevant* work at a time,
-it is thus a `partition of unit`_ over time.
+it is thus a `partition of unity`_ over time × people.
 
 Ownership vanishes if
 
@@ -126,7 +126,7 @@ Bigger investments, e.g. in special machines, are financed by loans (from owners
 There are different kinds of work. Every kind of work is its own asset.
 The work assets do not have a price in the outside economy until the econ has established a market.
 Internal work contributions constitute internal currencies.
-Their is a mapping to the |companyvalue| at all times, but this mapping can change over time.
+Their is a mapping to the |econvalue| at all times, but this mapping can change over time.
 
 .. _`wages`:
 
@@ -163,10 +163,12 @@ The extra risk is taken indirectly by the current owners.
 
 .. _`loan`:
 
+:loan:
+
 Founders, non-founders, owners or non-owners can give loans to the econ.
 The econ can give loans to the owners (wages).
 The interest varies, but is at least as high as inflation of outside economy.
 Loans do not change ownership.
 
 
-.. _`partition of unit`: https://en.wikipedia.org/wiki/Partition_of_unity
+.. _`partition of unity`: https://en.wikipedia.org/wiki/Partition_of_unity
