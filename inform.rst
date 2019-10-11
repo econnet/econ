@@ -23,17 +23,10 @@ are reorganized and extended using `pdt`_:
 - `do`_ contains rules
 - `test`_ contains the feedback mechanisms (monitoring and adaptation)
 
-The rules are formulated abstractly to be implementable in many areas.
-Starting focus is on technology companies.
+The rules are formulated abstractly,
+to be implementable in many areas,
+but the focus is on tec companies.
 
-.. _`econ`:
-
-:EcoN:
-Economic Node.
-
-- An econ is a company complying with this repo.
-- An econ interacts with the market transactionally, i.e. it sells products.
-  A service is also a product.
 
 
 .. _`plan`: https://github.com/rpuntaie/econ/blob/master/plan.rst
