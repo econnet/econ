@@ -1,1 +1,1 @@
-inform.rst
+info.rst

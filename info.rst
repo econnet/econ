@@ -12,15 +12,15 @@ Economic Nodes Without Employment
 :Status: drafting
 :Created: 2019-10-09
 
-.. _`informPurpose`:
+.. _`infopurpose`:
 
-:Purpose:
+:purpose:
 
 Ideas from the `inequality`_ blog
 are reorganized and extended using `pdt`_:
 
-- `inform`_: introduction and concepts for the context
-- `plan`_: ideas and motivations
+- `info`_: introduction and concepts for the context
+- `plan`_: ideas and motivations from the `inequality`_ blog
 - `do`_: concrete rules, processes and contracts
 - `test`_: feedback mechanisms (monitoring and adaptation)
 
@@ -37,7 +37,7 @@ Important points:
 Economy
 =======
 
-.. _`informevolution`:
+.. _`infoevolution`:
 
 :evolution:
 
@@ -47,14 +47,15 @@ which makes economy comparable to other
 `evolutionary systems`_.
 Information per time corresponds to energy.
 The variables depend on the system, therefore also the type of energy.
-In physics as in economy **work** is another name for energy.
 
 `Evolutionary systems`_ produce **encapsulations** to reduce energy consumption.
 In the economy, encapsulations down to a person are considered.
 
-.. _`informeconomy`:
+.. _`infoeconomy`:
 
 :economy:
+
+In physics as in economy **work** is related to energy (satisfaction in economy).
 
 The purpose of work is to satisfy the person's need.
 Maximizing a person's freedom is equivalent to maximizing the person's capital.
@@ -63,9 +64,28 @@ A free society is the sum over individual freedom.
 Maximizing the society's freedom is equivalent to well distributed capital, i.e.
 minimizing inequality.
 
-The purpose of economy is to maximize society's satisfaction.
+The purpose of economy is to
 
-.. _`informmoney`:
+- maximize society's satisfaction
+- with minimal work
+
+Economy is pivoting around *products*
+
+- creation of products (work)
+- selection of products (satisfaction = profit)
+
+Work needs to be linked to profit.
+But in current economy there is a separate work market,
+that is not linked to profit.
+
+Furthermore
+
+- too much competition
+- too little cooperation
+
+makes satisfaction more work than necessary.
+
+.. _`infomoney`:
 
 :money:
 
@@ -93,7 +113,7 @@ Stable money requires
 - reliability and
 - trust
 
-.. _`informinflation`:
+.. _`infoinflation`:
 
 The economy is not capable to keep its promise, because
 
@@ -109,7 +129,7 @@ but also due to limited precision (quantum).
 Inflation is not seen in the money figure.
 Inflation is a change in the unit (currency) with respect to other units.
 
-.. _`informinterest`:
+.. _`infointerest`:
 
 People should strive to be as reliable as possible,
 to be trustworthy economic partners.
@@ -121,7 +141,7 @@ This is encoded in an *interest rate*.
 
 The interest rate should at least balances the inflation rate.
 
-.. _`informrisk`:
+.. _`inforisk`:
 
 There is a risk associated with every endeavour.
 That is the reason of inflation.
@@ -141,7 +161,7 @@ Promising products are those that reduce the interactions, the economy.
 Planning and development better than the general economy
 should reduce the risk below inflation.
 
-.. _`informinvestment`:
+.. _`infoinvestment`:
 
 :investment:
 
@@ -156,7 +176,7 @@ by comparing with prices of similar work,
 if you want to include work in further calculations,
 e.g. to calculate your `return of investment`_ on work.
 
-.. _`informbookkeeping`:
+.. _`infobookkeeping`:
 
 :bookkeeping:
 
@@ -208,7 +228,7 @@ From cooperation follows a better distribution of effort and reward.
 Technically, easier needs to be defined and involves measuring and recording.
 
 
-.. _`informopenness`:
+.. _`infoopenness`:
 
 :openness:
 
@@ -289,7 +309,7 @@ Benefits of openness:
     even if the community abandons it
 
 
-.. _`informfairnessplan`:
+.. _`infofairnessplan`:
 
 :fairness plan:
 
@@ -332,14 +352,16 @@ The associated larger fairness effort motivates delegation.
 Since the fairness is not related to a product,
 a separate organization can do fairness checks (`audit`_).
 
-
+.. _`ombudsman`: https://en.wikipedia.org/wiki/Ombudsman
+.. _`return of investment`: https://en.wikipedia.org/wiki/Return_on_Investment
+.. _`fiat money`: https://en.wikipedia.org/wiki/Fiat_money
+.. _`separation of powers`: https://en.wikipedia.org/wiki/Separation_of_powers
 .. _`audit`: https://en.wikipedia.org/wiki/Audit
+
+
+.. _`info`: https://github.com/rpuntaie/econ/blob/master/info.rst
 .. _`plan`: https://github.com/rpuntaie/econ/blob/master/plan.rst
 .. _`do`: https://github.com/rpuntaie/econ/blob/master/do.rst
 .. _`test`: https://github.com/rpuntaie/econ/blob/master/test.rst
 .. _`pdt`: https://github.com/rpuntaie/pdt
 .. _`inequality`: https://rolandpuntaier.blogspot.com/2019/05/employmentinequality.html
-.. _`ombudsman`: https://en.wikipedia.org/wiki/Ombudsman
-.. _`return of investment`: https://en.wikipedia.org/wiki/Return_on_Investment
-.. _`fiat money`: https://en.wikipedia.org/wiki/Fiat_money
-.. _`separation of powers`: https://en.wikipedia.org/wiki/Separation_of_powers

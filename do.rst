@@ -226,7 +226,7 @@ The content is linked across repos.
 
 *Non-members*
 
-- get access to the development repo(s) according |informopenness| value
+- get access to the development repo(s) according |infoopenness| value
 - do not get access to information about the organization of the development
 
 .. _`doproduct`:
