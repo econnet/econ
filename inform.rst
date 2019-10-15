@@ -12,7 +12,7 @@ Economic Nodes Without Employment
 :Status: drafting
 :Created: 2019-10-09
 
-.. _`Purpose`:
+.. _`informPurpose`:
 
 :Purpose:
 
@@ -26,10 +26,18 @@ are reorganized and extended using `pdt`_:
 
 The focus is on technology.
 
+Important points:
+
+- All organization is *per product*
+- Only work on the product can create *ownership* on the product
+- All money flow during development are *loans*
+- *No boss* by democratic decision making and worker ownership
+- Product profit on the market values the work and rewards the workers
+
 Economy
 =======
 
-.. _`evolution`:
+.. _`informevolution`:
 
 :evolution:
 
@@ -44,7 +52,7 @@ In physics as in economy **work** is another name for energy.
 `Evolutionary systems`_ produce **encapsulations** to reduce energy consumption.
 In the economy, encapsulations down to a person are considered.
 
-.. _`economy`:
+.. _`informeconomy`:
 
 :economy:
 
@@ -57,7 +65,7 @@ minimizing inequality.
 
 The purpose of economy is to maximize society's satisfaction.
 
-.. _`money`:
+.. _`informmoney`:
 
 :money:
 
@@ -85,7 +93,7 @@ Stable money requires
 - reliability and
 - trust
 
-.. _`inflation`:
+.. _`informinflation`:
 
 The economy is not capable to keep its promise, because
 
@@ -101,7 +109,7 @@ but also due to limited precision (quantum).
 Inflation is not seen in the money figure.
 Inflation is a change in the unit (currency) with respect to other units.
 
-.. _`interest`:
+.. _`informinterest`:
 
 People should strive to be as reliable as possible,
 to be trustworthy economic partners.
@@ -113,7 +121,7 @@ This is encoded in an *interest rate*.
 
 The interest rate should at least balances the inflation rate.
 
-.. _`risk`:
+.. _`informrisk`:
 
 There is a risk associated with every endeavour.
 That is the reason of inflation.
@@ -133,7 +141,7 @@ Promising products are those that reduce the interactions, the economy.
 Planning and development better than the general economy
 should reduce the risk below inflation.
 
-.. _`investment`:
+.. _`informinvestment`:
 
 :investment:
 
@@ -148,7 +156,7 @@ by comparing with prices of similar work,
 if you want to include work in further calculations,
 e.g. to calculate your `return of investment`_ on work.
 
-.. _`bookkeeping`:
+.. _`informbookkeeping`:
 
 :bookkeeping:
 
@@ -200,7 +208,7 @@ From cooperation follows a better distribution of effort and reward.
 Technically, easier needs to be defined and involves measuring and recording.
 
 
-.. _`openness`:
+.. _`informopenness`:
 
 :openness:
 
@@ -281,7 +289,7 @@ Benefits of openness:
     even if the community abandons it
 
 
-.. _`fairness_plan`:
+.. _`informfairnessplan`:
 
 :fairness plan:
 
