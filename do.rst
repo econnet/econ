@@ -6,7 +6,6 @@ Governance
 
 .. epigraph:: A society is not democratic unless in all interactions.
 
-
 .. _`doecon`:
 
 :econ:
@@ -25,7 +24,7 @@ Interaction between econs are new econs.
 
 Econs form a mathematical `lattice`_.
 An econ corresponds to a node in a `concept lattice`_.
-The members of an econ correspond to the node's intent.
+The contributors correspond to the econ's intent.
 *Intent* in `concept lattice`_ are the attributes,
 but the English sense of purpose to produce content fits well here.
 
@@ -51,7 +50,7 @@ A person can contribute to more econs.
 With a `concept lattice`_ in mind,
 these names are used for relations of econs
 
-members
+contributors
     nodes above.
 
 econs
@@ -61,12 +60,12 @@ partners
     Sideward; nodes linked via interactions (econs)
 
 siblings
-    Sideward, nodes linked via members
+    Sideward, nodes linked via contributors
 
 
-.. _`doowner`:
+.. _`docontributor`:
 
-:owner:
+:contributor:
 
 If one depends on a resource, one likes to control that resource.
 Society has developed the concept of ownership for that.
@@ -75,14 +74,9 @@ This works well for things.
 
 But the idea to control people means that some people get controlled.
 Controlling people is against the principle of equality.
-Also money must not be used to control people.
 
-The outside economy allows ownership and control on companies.
-In an econ, ownership and control is
-
-- NOT on people, but
-- on content (product part) and
-- on the value of the product part according contribution.
+In an econ, owner is replaced by **contributor**
+to avoid conflicts with existing legal definitions.
 
 People engage in econs because of
 
@@ -104,11 +98,6 @@ In the bottom econ
 - the product initiator and/or coordinator can record contributions
 - another member who recruits a new member can also record his effort there
 
-Owner means co-owner with single-owner as a special case.
-
-- Membership is yes/now.
-- Ownership quantifies the share of ownership
-
 .. _`docontrol`:
 
 In an econ, control means decision making.
@@ -118,89 +107,81 @@ A general principle is: *Those decide that have most information*.
 E.g. developers decide about their parts in the product.
 If others are concerned, they are consulted and informed about the decision.
 
-There can be separate econs in the lattice that care about performance monitoring.
-Decisions from the gathered information need to be made by those concerned,
-which can be the whole econ lattice.
-
 If more are concerned, decisions are democratic, either
 
 - by direct vote or
 - through elected or otherwise agreed delegation
+
+A decision needs a propose. The proposal is worked out by one person.
 
 There is **no boss**, neither in an econ, nor in an econ lattice.
 
 Someone initiating or coordinating does not decide, but mediates an agreement.
 The less coordination needed, the better.
 
+There can be separate econs in the lattice that care about performance monitoring.
+Decisions from the gathered information are made by those concerned,
+which can be the whole econ lattice.
 
-.. _`dogovernment`:
 
-:government:
+.. _`dolegal`:
 
-.. How to make econ members profit from the ownership protection of society's laws?
+:legal:
 
-The only interest of the government is taxes.
+The econ rules are not specific to a government.
+They need to be compatible (legal) with all involved governments.
+The fact that econ lattice consists of econs,
+allows each econ to be in a different government.
 
-- Selling adds the `VAT`_ to the final product as required by the government
-- Tax of econ is according location of econ.
-  So profit taxation spreads over more governments
+The major interest of a government is taxes.
+
+- Selling the product adds the `VAT`_ to the final product
+  if required by the government
+- Taxing of the econ is according location of the econ.
+  So profit taxation of a product econ lattice
+  spreads over more governments
   with one as a special case.
 
-If there are disputes, a specific jurisdiction needs to be used.
+The government of the bottom econ provides the jurisdiction for potential disputes.
 That is not an interest of the government,
 but rather of the econ, creditors or product customers.
 
-The jurisdiction is per product, which is represented by the bottom econ.
-The government of the bottom econ provides the jurisdiction.
+The bottom econ should be
 
-The bottom econ should be a `legal entity`_ (LE).
-The `LE`_ is
+- a `legal entity`_ (LE)
+- not a natural person
 
-- per product
-- does not have employees
+The `LE`_ **does not have employees**.
 
-The `LE`_ does not own
+Founding the `LE`_ produces
 
-- the product nor
-- the bank account
-- nor anything else related to the product
+- ownership of the `LE`_ according usual legislation
+- does not produce product ownership
 
-Founding an `LE`_ does not produce ownership.
+Only subsequent product-relevant work produces product ownership.
+The **econ contract** obliges the `LE`_ to care to
 
-Only subsequent working on the product produces ownership,
-independent of whether
+- *attribute* to econs the *contribution* to the product version (tributes)
+- *distribute* profit proportionally
 
-- founders or
-- non-founders
+Profit can be kept in the `LE`_
 
-Profit from product sale belongs to the owners.
-
-It can be kept in the `LE`_
-
-- as `stock`_ (can be created only via work)
 - as a loan granted to the `LE`_ (bond)
-- for `limited liability`_
+- as `liable capital`_ for `limited liability`_
 
-.. note:: Here, stock is the result of work and not an instrument for financing.
-
-An initial `LE`_, having no owners yet, just founders,
-cannot be a `limited liability`_ `LE`_,
-unless the founders forward `liable capital`_.
-Here `liable capital`_ is used, because it does not define ownership.
+An initial `LE`_ cannot be a `limited liability`_ `LE`_,
+unless the founders forward `liable capital`_, e.g. as perpetual `bonds`_.
+Here `liable capital`_ is used to emphasize its purpose as risk capital without defining ownership.
 It is better to make the `LE`_ to a `limited liability`_ `LE`_
 only before selling the product, because then
 
-- the owners are known through work done
-- the `liable capital`_ can be shared between all owners according ownership
+- the product owners are known through work done
+- the `liable capital`_ can be shared between all contributors
 - `liable capital`_ overlaps with outside economy's definition of `equity`_,
   but we keep the distinction by continuing to use `liable capital`_.
 - there is no need for `limited liability`_ before actually interacting with the outside economy
 
-The `LE`_
-
-- records the ownership and
-- distributes the product profit
-- takes the responsibility for the product according `limited liability`_
+The `LE`_ takes the responsibility for the product according `limited liability`_.
 
 The econs working on product parts have their own responsibility to interact with their government,
 whether the same or different.
@@ -223,14 +204,13 @@ with one being a special case.
 - product production (`SOP`_'s, `DMR`_, `DHF`_, ...)
 - product marketing
 
-The effort to create the content is called **tribute**.
-A tribute record specifies the econ and the amount of work in some internal work unit.
+The product-related effort to create the content is called **tribute**.
 
 All repos have *tribute* information for the repo.
-The tribute records need to be stored with the content created,
-because the license demands profit distribution according tribute.
+The tribute records are stored with the content created,
+because the econ contract demands profit distribution proportional to tribute.
 
-The *members* are owners and have access to all information.
+The *contributors* have access to all information.
 It allows them
 
 - to do their work (development and production)
@@ -239,11 +219,11 @@ It allows them
 
 The repos are a communication channel.
 Even if delegation reduces the actual need to access certain repos,
-communication to the delegation needs to be able to link to the information.
+communication to the delegation is based on the information.
 
 The content is linked across repos.
 
-*Non-members*
+*Non-contributors*
 
 - get access to the development repo(s) according |infoopenness| value
 - do not get access to information about the organization of the development
@@ -266,9 +246,9 @@ The product is the output item to the outside economy.
 There are also input items from the outside economy.
 Work refers only to the conversion of input items to the product.
 
-Only product parts that are developed internally need work and thus an econ.
+Only product parts that are developed internally require work and thus an econ.
 Product parts from the outside economy
-need work to select the right version and supplier,
+require work to select the right item and supplier,
 but there is no need for a separate econ.
 
 The `LE`_ exists during the `product lifetime`_,
@@ -280,11 +260,10 @@ as every econ corresponds to a product work part.
 A new version of a product has the same `LE`_,
 but possibly a changed econ lattice.
 
-The income for a product version is distributed according the *product version*'s ownership.
-
+The tribute depends on the *product version*.
 If a product gets modified, some work might be replaced.
 Then the according tribute becomes smaller with the new product version.
-Ownership vanishes
+Tribute vanishes
 if (past) contributions stop to be *relevant* for the currently sold product version.
 
 If new people take over the development, their effort will produce income for them in future product versions.
@@ -315,35 +294,30 @@ Finance
 
 :work:
 
-In the econ lattice
+In the econ lattice there in no employment according outside economy,
+as a separate labor market produces inequality,
+because the actual value of work is not forwarded to the worker.
 
-- **work investment produces ownership**
-- **money investment does not produce ownership**
-
-.. note:: Work produces ownership.
-
-    There in no employment according outside economy,
-    as that produces inequality,
-    because the actual value of work is not forwarded to the worker.
-
-    Not using employment is the major difference
-    between the econ lattice and tradictional companies.
+Not using employment is the major difference
+between the econ lattice and traditional companies.
+Profit sharing or advanced payments are usual practices between partners.
 
 The actual value of internal work is only determined by the success of the product on the market.
 To stop inequality from growing, it is essential
 
-- *not to give a price to work using an outside currency*
+- *not to give a price to product-internal work using an outside currency*
 
-because the outside price of work is completely decoupled from the actual value of work.
+The outside price of work is decoupled from the actual value of work
+and cannot be a reference.
 
 The outside economy is not uniform.
 Every country has its own work price.
-Econ extends on this idea:
+This idea is extended:
 
-- an econ lattice for a product is its own encapsulation and
-- needs to have its *own internal work unit*
+- product development is its own encapsulation and
+- has its *own internal unit* (**tribute unit**)
 
-The *internal work unit* needs to be described (not valued)
+The *tribute unit* is described (not valued)
 based on work that is frequent in the product development.
 The internal work unit is not yet priced by the product sales to the outside economy.
 
@@ -354,59 +328,60 @@ When quantifying work internally,
 - than the person who does the work
 
 Both aspects can be considered with a `performance`_ factor (`p`),
-that maps the internal work unit to the work unit for
+that maps the *tribute unit* to the **work unit** based on
 
 - a specific work done by
 - a specific person using
 - a specific personal tool
 
-The *work value* includes the tools needed to perform the work.
+`p` includes the tools required to perform the work.
 The person who needs a computer or car to do its work
-gets a work value that accounts for these tools.
+gets a `p` that accounts for these tools.
+
+Work units can also be results, e.g.
+
+- products sold
+- customers acquired
+- contributors recruited
+- ...
 
 The outside economy has a `minimum wage`_.
 Work turning out to be less valuable than the outside economy's `minimum wage`_,
-needs to be
 
-- revalued or
+- is revalued or
 - automated
 
 Automation is important
 
-- to increase the internal work value
+- to increase the performance factor (`p`)
 - to keep the final product competitive and
-- to produce profit for members (to allow them to work on new products)
-
-Work that is not related to the specific product is its own product that
-comes from the outside economy.
+- to produce profit for contributors (to allow them to work on new products)
 
 .. _`dotribute`:
 
 :tribute:
 
-Internal effort are internal capital: tribute.
+Tributes are internal records for product-related efforts.
 
-The name *tribute* is chosen
-for *work contribution* leads to *profit attribution*.
+Product-related effort is not measure with an external currency,
+because the product value in the market is yet unknown.
 
-The tribute record associates content effort with the econ.
+The tribute record consists of:
 
-Tributes does not need to be measured in time.
-Tributes can be measured by result, e.g.
+- quantity
+- work unit
 
-- by products sold
-- by customers acquired
-- by members recruited
-- ...
+Latest when pricing the product for the outside market,
+the internal work units are considered
 
-The tributes are recorded in (separate) internal units.
-When pricing the product for the outside market,
-the internal work measures can to be considered
-with temporary and acceptable conversion factors to the outside work price.
+- in the product price
+- in relating the work units to a **tribute unit**
+
+In this process temporary and acceptable conversion factors to the outside work price are used.
 
 How and how precise work is recorded needs to be agreed upon.
 There should be an effort in the fair attribution of work,
-but how much is up to the members.
+but how much is democratically decided by the contributors.
 Micro-recording and micro-payments produce more effort than value
 and thus produce deficit.
 
@@ -421,8 +396,15 @@ Tributes only consider **relevant work** for the currently sold **product versio
 When the part is replaced that work becomes irrelevant.
 For `diversification`_ people should contribute to more parts.
 
+*Relevancy* does not only refer to technical development of the product,
+but to all aspect to make the product successful on the market.
+E.g. it includes marketing efforts.
+
+Work that is not related to the specific product is its own product that
+comes from the outside economy.
+
 The output from more econs is used in a integrating econ.
-Such an integrating econ has as members
+Such an integrating econ has as contributors
 
 - direct top level econs (integrators) and
 - inner econs
@@ -465,14 +447,10 @@ Before actual income, the money can come from
 - bonds
 - donations
 
-Financing through bonds follows from 
+Financing through `stock`_ cannot be used, because
 
-- defining ownership via work share (tributes).
+- ownership is defined by work (tributes)
 - not via capital
-
-Ownership is only defined by tributes,
-which are calculated from tribute records
-for every product version.
 
 Money cannot be used to change ownership of the `LE`_.
 Bonds don't change ownership.
@@ -496,7 +474,7 @@ The `balance sheet`_ balances
 - `assets` versus
 - `liabilities`_ and `liable capital`_
 
-`retained earings`_ per default becomes `liable capital`_ (owner's `stock`_)
+`retained earings`_ per default becomes `liable capital`_.
 unless distributed according tributes.
 The owners can then re-invested it as `bonds`.
 
@@ -542,7 +520,7 @@ Investment in big machines not related exclusively to the product,
 need to be handled by a separate `LE`_.
 
 Working tools like the computer or a car belong to the person (top econ).
-They are considered in the internal work value.
+They are considered in the performance factor (`p`).
 
 *Work is not an expense*,
 because the profit becomes the reward for the work.
@@ -572,7 +550,8 @@ unless it damages to the outside world.
 Work
 
 - produces ownership and
-- delayed profit, not immediate profit
+- delayed profit
+- not immediate profit
 
 Profit advances constitute regular payments to owners, currently contributing or not,
 to allow them to use products of the outside economy already before revenue from sales of the product.
@@ -581,20 +560,29 @@ The `LE`_ corresponding to a product accepts work shares as a pledge for profit 
 
 Advances are
 
-- loans of the `LE`_ to the owners
-- are balanced with profit at the end of the period or forwarded to the next period
+- loans of the `LE`_ to the contributor
+- are payed back using profit at the end of the period or forwarded to the next period
 - not reward for work (not wages)
 
-If the `LE`_ gets bankrupt, then profit advances are lost.
-The risk is taken by creditors if financed by bonds.
-The risk is considered via the interest rate on the bonds.
+Advances must be payed back to the `LE`_,
+if a contributor stops contributing
+before the product is finished, i.e. ready for the market.
 
-The amount of profit advances is based on previous profits,
-or if the money is available, based on expected profit.
+If the `LE`_ gets bankrupt, then profit advances might be unrecoverable.
 
-Advances are a compromise of the owners between
+The risk is
 
-- risk of third party take-over of developers
+- taken by creditors if financed by bonds.
+- considered via the interest rate on the bonds.
+
+The amount of profit advances is based on
+
+- previous profits or
+- expected profit, if the money is available
+
+Advances are a compromise for
+
+- risk of third party take-over of contributors
 - risk of diminished or no advances
 - risk of abandonment of a potentially profitable product
 
@@ -602,16 +590,10 @@ Advances are a compromise of the owners between
   Since the licence demands distribution of profit according tributes,
   there is a slight change that a fair other econ lattice continues later.
 
-As profit, also risk must be distributed between owners proportional to ownership.
-This means that advances, if any, must be given to all owners proportional to ownership.
+The `LE`_ agrees with the contributors whether to pay advances.
+The amount of advances is agreed separately with every contributor.
+The information is public.
 
-The owners decide together the amount of advances to pay, and whether at all.
-
-If advances are payed, there is a minimum, e.g. for someone new at an econ,
-which, having no ownership yet, would otherwise not get payed.
-As advances are loans, this is not money for free.
-But if the `LE`_ gets bankrupt the money is lost.
-The extra risk is taken indirectly by the current owners.
 
 .. _`LE`: `legal entity`_
 .. _`legal entity`: https://en.wikipedia.org/wiki/Legal_person

@@ -20,7 +20,7 @@ Major points:
 
 - The reasons for inequality are
 
-  - employment, because work is a separate market and not linked to profit
+  - employment, because labor is a separate market and not linked to profit
   - power hierarchy, because abused for inequality
   - information hiding, because fairness cannot be checked
 

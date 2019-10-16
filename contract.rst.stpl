@@ -1,0 +1,89 @@
+.. encoding: utf-8
+.. vim: syntax=rst
+
+%#veriables: product, LE, advance, m
+
+{{'#'*len(product)}}
+{{product}}
+{{'#'*len(product)}}
+
+
+Product Name: {{product}}
+Product LE: {{LE}}
+
+********
+Glossary
+********
+
+:LE:
+Legal entity for product
+
+:Repo:
+The digital repository for the product
+
+:Tribute:
+Work records for contributions to the product,
+stored close to the contributions.
+A tribute record contains
+
+- Contributor
+- Tribute (in internal work unit)
+
+:Contributors:
+Contributors are defined by the tribute records.
+
+:advance:
+Profit advance (loan) to the contributors.
+
+:m:
+minimal transaction = {{m}}
+
+
+***********
+Contractors
+***********
+
+- Contributors of {{product}}
+- {{LE}}
+
+
+********
+Contract
+********
+
+{{LE}} coordinates all effort for the product.
+
+{{LE}} specifies tribute units.
+
+Contributors
+
+- contribute
+- record tributes using the specified units
+
+{{LE}} checks fair tribute recording.
+
+{{LE}} summarizes and stores the tributes for every version of the product.
+
+{{LE}} prices the product.
+
+{{LE}} sells the product on behalf of the contributors.
+
+{{LE}}
+pays an advance of ``tribute*{{advance}}`` at the end of the month to contributors.
+The advance must be payed back with {{padvance}}% annual interest,
+
+- using attributed profit or
+- in cash
+
+{{LE}}
+
+- accumulates profit share
+- for every contributor separately
+- according tribute for the sold product versions
+- up to {{m}}
+
+then
+
+- then uses the profit share to pay back outstanding advances
+- or forwards the profit share to the contributor
+
