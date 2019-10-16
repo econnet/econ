@@ -10,6 +10,27 @@ Original version was a `blog`_.
 
 .. _`blog`: https://rolandpuntaier.blogspot.com/2019/05/employmentinequality.html
 
+Major points:
+
+- Economic inequality is bad
+
+  - for emotional health
+  - for social stability
+  - productivity
+
+- The reasons for inequality are
+
+  - employment, because work is a separate market and not linked to profit
+  - power hierarchy, because abused for inequality
+  - information hiding, because fairness cannot be checked
+
+- If those making a product own its profit, work is linked to profit
+- Do all cooperation democratically and avoid a boss
+- Openly share how resources are distributed
+- Cooperation is healthier than competition
+- Openly share result to avoid the need to repeat the effort
+- Technological evolution needs workers to have money to follow their interest not rich tycoons
+
 Economy of Emotions
 ===================
 
@@ -164,7 +185,7 @@ The owners
 
 - have considerably better legal protection
 - have power over the employees
-- controls the money flow through the addresses of the company
+- control the money flow through the addresses of the company
 
 Owner vs employee inequality obviously produces also distribution inequality.
 
@@ -174,7 +195,6 @@ Ownership
 `Property`_ is a claim (`ownership`_)
 on resources, because of a dependence on these resources.
 This `territorial claim`_ we share with other animal.
-Marriage can be regarded as such a claim, too.
 
 Because of the importance of property in human history,
 society has developed special protection for it.
@@ -209,6 +229,7 @@ but even `public float`_ is in principle nothing else
 than a direct owner of the `corporation`_.
 
 - The owners or managers have control over the employees.
+
 - The owners or managers can maximize profit, the employees cannot.
 
 The problem leading to inequality is not that `companies are owned`_,
@@ -255,12 +276,7 @@ The employee is regarded as working or thinking machine, a slave.
 Seen from the `investor`_ or `owner`_,
 the `productivity`_ of slavery is high
 (slave = little cost = little input, but high value output).
-But overall the productivity is low,
-because only a few do actual work,
-while the others live on managing
-the actual value produced by the few working,
-independent of whether `public float`_ or majority `stock`_ holders
-or direct owner.
+But overall the productivity is low:
 
 - With `public float`_ small shareholders waste time
   gathering information about the company they hold a few shares of or they
@@ -288,7 +304,7 @@ to be productive for an owner.
 This is only the goal of the few rich.
 The goal of the economy as a whole is
 to spread freedom to let choose according to individual `needs`_ and `interests`_.
-For this, people need to be owners themselves,
+For this, workers need to be owners themselves,
 and not be the lackey of some super rich owner.
 
 .. admonition:: Freedom
@@ -321,7 +337,7 @@ and not be the lackey of some super rich owner.
 Importance of Fairness
 ======================
 
-Employee ownership brings democracy into the companies.
+Worker ownership brings democracy into the companies.
 
 Currently companies resemble
 
@@ -350,8 +366,9 @@ with continuation in the work place.
     or be supported simply out of tradition.
     Even if well thought through, who is to decide, what is right or wrong?
     One better keeps out of value discussions without relevance.
-    And especially one needs to refrain from
-    from discriminating based on values in interactions where those values have no importance.
+    And especially one needs to refrain
+    from discriminating based on values in interactions
+    where those values have no importance.
 
 Fairness is local to a cooperation, because it is associated with **information**.
 One needs to **demand information** to be able to judge fairness.
@@ -393,8 +410,8 @@ Non-local inequality between companies will be leveled by
 - a normal healthy competition.
 - government `redistribution`_
 
-The problem, though, is to make enough people aware of their `marginal`_ importance
-in reducing inequality.
+The problem, though, is
+to make enough people aware of their `marginal`_ importance in reducing inequality.
 Economies, where enough people exit unfair companies, do better,
 because a fairer distribution makes an economy grow.
 

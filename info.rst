@@ -286,14 +286,17 @@ because
 
 Benefits of openness:
 
-- People from the outside economy can join the/a product lattice easily
+- People from the outside economy can join the/a product development easily
 
 - If joining due to technical interest, this interest can be developed,
   because the invested time is payed
 
-- Formation of a new product lattices by the community is easier
+- New different products can benefit from existing produts
 
-- Development becomes faster (less burocracy, less reinvention)
+- Investment into research can be valuable for different produts,
+  even if the product turns out not yet feasible with existing technology
+
+- Technical development becomes faster (less burocracy, less reinvention)
 
 - The final products becomes more competitive (cheaper, better)
 

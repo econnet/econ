@@ -107,7 +107,7 @@ In the bottom econ
 Owner means co-owner with single-owner as a special case.
 
 - Membership is yes/now.
-- Ownership quantifies to share.
+- Ownership quantifies the share of ownership
 
 .. _`docontrol`:
 
@@ -153,24 +153,19 @@ but rather of the econ, creditors or product customers.
 The jurisdiction is per product, which is represented by the bottom econ.
 The government of the bottom econ provides the jurisdiction.
 
-Governments have the concept of `limited liability`_.
-The bottom econ should be a `legal entity`_ with
-`limited liability`_ (LLE) according used jurisdiction.
-The `LLE`_ is
+The bottom econ should be a `legal entity`_ (LE).
+The `LE`_ is
 
 - per product
 - does not have employees
 
-The `LLE`_ does not own
+The `LE`_ does not own
 
 - the product nor
 - the bank account
 - nor anything else related to the product
 
-Initial capital coming from those founding the `LLE`_
-are loans to the `LLE`_ and don't produce ownership.
-
-Founding an `LLE`_ does not produce ownership.
+Founding an `LE`_ does not produce ownership.
 
 Only subsequent working on the product produces ownership,
 independent of whether
@@ -178,9 +173,30 @@ independent of whether
 - founders or
 - non-founders
 
-The `LLE`_'s does not have profit. Every income from product sale is a loan granted to the `LLE`_.
+Profit from product sale belongs to the owners.
 
-The `LLE`_
+It can be kept in the `LE`_
+
+- as `stock`_ (can be created only via work)
+- as a loan granted to the `LE`_ (bond)
+- for `limited liability`_
+
+.. note:: Here, stock is the result of work and not an instrument for financing.
+
+An initial `LE`_, having no owners yet, just founders,
+cannot be a `limited liability`_ `LE`_,
+unless the founders forward `liable capital`_.
+Here `liable capital`_ is used, because it does not define ownership.
+It is better to make the `LE`_ to a `limited liability`_ `LE`_
+only before selling the product, because then
+
+- the owners are known through work done
+- the `liable capital`_ can be shared between all owners according ownership
+- `liable capital`_ overlaps with outside economy's definition of `equity`_,
+  but we keep the distinction by continuing to use `liable capital`_.
+- there is no need for `limited liability`_ before actually interacting with the outside economy
+
+The `LE`_
 
 - records the ownership and
 - distributes the product profit
@@ -192,7 +208,7 @@ Concentrating the effort of government interaction to saves effort
 
 - is up to the econs
 - not product specific and therefore
-- outside the `LLE`_
+- outside the `LE`_
 
 .. _`docontent`:
 
@@ -202,20 +218,23 @@ The product information is mapped to more repos according content encapsulation,
 with one being a special case.
 
 - product governance (values, rules, monitoring, contracts, ...) (this repo)
-- product financing (expenses, income, liabilities, ...)
+- product financing (expenses, income, `liabilities`_, ...)
 - product development (hardware, software, test, development docs, usage docs, license, ...)
 - product production (`SOP`_'s, `DMR`_, `DHF`_, ...)
 - product marketing
 
-All repos have *work share* information for the repo.
-The work share needs to be stored with the content created,
-because the license demands profit distribution according work share.
+The effort to create the content is called **tribute**.
+A tribute record specifies the econ and the amount of work in some internal work unit.
+
+All repos have *tribute* information for the repo.
+The tribute records need to be stored with the content created,
+because the license demands profit distribution according tribute.
 
 The *members* are owners and have access to all information.
 It allows them
 
 - to do their work (development and production)
-- to check the fairness (work share's, financing and marketing)
+- to check the fairness (tribute, financing and marketing)
 - interact (governance)
 
 The repos are a communication channel.
@@ -252,24 +271,24 @@ Product parts from the outside economy
 need work to select the right version and supplier,
 but there is no need for a separate econ.
 
-The `LLE`_ exists during the `product lifetime`_,
+The `LE`_ exists during the `product lifetime`_,
 from development to recycling.
 
-A new product has a new `LLE`_ and a new econ lattice,
+A new product has a new `LE`_ and a new econ lattice,
 as every econ corresponds to a product work part.
 
-A new version of a product has the same `LLE`_,
+A new version of a product has the same `LE`_,
 but possibly a changed econ lattice.
 
 The income for a product version is distributed according the *product version*'s ownership.
 
 If a product gets modified, some work might be replaced.
-Then the according worker's share becomes smaller with the new product version.
+Then the according tribute becomes smaller with the new product version.
 Ownership vanishes
 if (past) contributions stop to be *relevant* for the currently sold product version.
 
 If new people take over the development, their effort will produce income for them in future product versions.
-Previous developers will still get their profit share on relevant work.
+Previous developers will still get their profit share on relevant work (tribute).
 Previous developers can still check for fairness.
 
 .. _`dolicense`:
@@ -277,7 +296,7 @@ Previous developers can still check for fairness.
 :license:
 
 The license cannot be GPL,
-because selling of the product demands profit distribution according work shares.
+because selling of the product demands profit distribution according tribute.
 
 The license should be compatible with GPL
 as existing open source software/hardware is the basis.
@@ -358,21 +377,29 @@ Automation is important
 - to keep the final product competitive and
 - to produce profit for members (to allow them to work on new products)
 
-.. _`doworkshare`:
+Work that is not related to the specific product is its own product that
+comes from the outside economy.
 
-:work share:
+.. _`dotribute`:
 
-Internal work records are internal capital: work shares.
+:tribute:
 
-Work does not need to be measured in time.
-Work can be measured by result, e.g.
+Internal effort are internal capital: tribute.
+
+The name *tribute* is chosen
+for *work contribution* leads to *profit attribution*.
+
+The tribute record associates content effort with the econ.
+
+Tributes does not need to be measured in time.
+Tributes can be measured by result, e.g.
 
 - by products sold
 - by customers acquired
 - by members recruited
 - ...
 
-The work shares are recorded in (separate) internal units.
+The tributes are recorded in (separate) internal units.
 When pricing the product for the outside market,
 the internal work measures can to be considered
 with temporary and acceptable conversion factors to the outside work price.
@@ -383,7 +410,39 @@ but how much is up to the members.
 Micro-recording and micro-payments produce more effort than value
 and thus produce deficit.
 
-Work shares can be
+Tributes only consider **relevant work** for the currently sold **product version**,
+
+- either current work or
+- work in the past
+
+*Relevancy* is necessary to make it fit to reality.
+
+*Relevancy* requires the tributes to be associated with product parts.
+When the part is replaced that work becomes irrelevant.
+For `diversification`_ people should contribute to more parts.
+
+The output from more econs is used in a integrating econ.
+Such an integrating econ has as members
+
+- direct top level econs (integrators) and
+- inner econs
+
+Final tributes are calculated per product version,
+as contributions change between product versions.
+Product version tributes of people (top nodes)
+are calculated via the **product lattices**, 
+traversing the inner nodes.
+
+The product repo(s) have a "tribute" file updated before fixing the version.
+The profit distribution is done
+
+- separately for every product sold
+- based on the tribute of the product version
+
+Tributes document the product ownership.
+Tributes produce delayed income in an outside currency when the product is sold.
+
+Tributes can be
 
 - donated
 - inherited
@@ -392,47 +451,6 @@ Work shares can be
 - basically also sold,
   but a price is probably hard to agree upon,
   since the actual value in the outside economy is unknown
-
-**Work shares** document the ownership.
-
-Work shares produce delayed income in an outside currency,
-when the product of the work is sold.
-
-Only work is considered that is **relevant** for the currently sold **product version**,
-
-- either current work or
-- work in the past
-
-**Relevant** is necessary to make it fit to reality.
-
-**Relevant work** requires the work value to be associated with product parts.
-When the part is replaced that work becomes irrelevant.
-For `diversification`_ people should contribute to more parts.
-
-The output from more econs is used in a integrating econ.
-Such an integrating econ has
-
-- direct top level econs (integrators) and
-- inner econs
-
-as owners.
-
-Ownership share is product ownership share.
-Product ownership shares of people (top nodes) are calculated
-via the **product lattices** traversing the inner nodes.
-This calculation is done for every product version,
-as contributions change between product versions.
-
-The profit distribution is done differently for every product version sold.
-
-The work share is no single paper or data point, but
-
-- calculated through an algorithm that uses
-- data recorded throughout the product lattice
-- for a product version
-
-Work that is not related to the specific product is its own product that
-comes from the outside economy.
 
 .. _`dofinancing`:
 
@@ -444,39 +462,46 @@ there is not much money needed.
 
 Before actual income, the money can come from
 
-- loans
+- bonds
 - donations
 
-Financing through loans follows from defining ownership via work share.
-Money cannot be used to change ownership of an econ lattice.
-There is *no owner's equity* in the `balance sheet`_.
-Ownership is only defined by work share,
-which is calculated from work share data
+Financing through bonds follows from 
+
+- defining ownership via work share (tributes).
+- not via capital
+
+Ownership is only defined by tributes,
+which are calculated from tribute records
 for every product version.
 
+Money cannot be used to change ownership of the `LE`_.
+Bonds don't change ownership.
+The profit through ownership is higher than
+the interest on bonds. Also,
+the interest on bonds can be considered in the pricing of the product.
+
 Money can change ownership indirectly:
-If someone is payed by a third party
-in exchange of forwarding its work shares to that party.
+If a worker is payed
+
+- to produce tribute and
+- to forward tribute to the paying party
 
 To keep workers from engaging in such relations
 
 - the prospect of bigger profit if not directly payed should help
-- else regular loans to the worker can be granted by the econ lattice, financed by loans.
+- else regular profit advances to the worker can be granted by the `LE`_
 
-Loans don't change ownership.
-The profit through ownership is higher than
-the interest on loans. Also,
-the interest on loans can be considered in the pricing of the product.
+The `balance sheet`_ balances
 
-- Founders, non-founders, owners or non-owners can give loans to the `LLE`_.
-- The `LLE`_ can give loans to the owners as profit advances.
+- `assets` versus
+- `liabilities`_ and `liable capital`_
 
-The `balance sheet`_ thus balances
+`retained earings`_ per default becomes `liable capital`_ (owner's `stock`_)
+unless distributed according tributes.
+The owners can then re-invested it as `bonds`.
 
-- only assets vs liabilities
-- instead of assets vs liabilities and owner's equity
-
-The interest on loans varies, but is at least as high as inflation of the outside economy.
+The interest on loans varies (bonds, profit advances),
+but is at least as high as inflation of the outside economy.
 
 The owners have control over the financial channels (e.g. bank account),
 but it is normally delegated to buyers and sellers,
@@ -491,13 +516,12 @@ with additional checks from specialized fairness checkers.
 The value of an econ lattice is
 
 - the product econ lattice (internal structure)
-- the product work shares defining ownership on product sales
+- the product work shares defining ownership on product sales (tributes)
 - the product customers (external structure)
 
 There is no need to calculate the full value of an econ lattice,
 because it cannot be sold as a whole.
-An interested buyer would have to contact every contributor
-and agree on a price for its work shares separately.
+An interested buyer would need to agree on a price for every contributor's tribute separately.
 
 The product developers can freely regroup for other products, also concurrently.
 The developers of a product cannot be bought without employing everybody,
@@ -511,11 +535,11 @@ The customers cannot be bought other than through the owners of the product.
 
 :profit:
 
-Period profit is income - expenses of the period.
+`LE`_ period: profit = income - expenses.
 
 Expenses are only related to the product.
 Investment in big machines not related exclusively to the product,
-need to be handled by a separate econ lattice.
+need to be handled by a separate `LE`_.
 
 Working tools like the computer or a car belong to the person (top econ).
 They are considered in the internal work value.
@@ -529,14 +553,13 @@ This capital attribution
 - is a result of ownership and
 - does not produce ownership change.
 
-The profit belongs to the owner not to the `LLE`_.
-Some profit can be kept in the `LLE`_
-as loan from the owners to it `LLE`_,
-if owner and `LLE`_ agree to do so.
-It needs to be a *loan* instead of *owner's equity*,
-because ownership is only reach via work and not money.
+The profit
 
-Profit maximization of the `LLE`_
+- first belongs to the `LE`_ (`retained earnings`_)
+- is forwarded to the owners according tributes
+- can be reinvested as `ponds`_
+
+Profit maximization of the `LE`_
 means maximizing the profit of each member.
 Every member helps each other to maximize their profit.
 This kind of profit maximization is morally good,
@@ -554,13 +577,17 @@ Work
 Profit advances constitute regular payments to owners, currently contributing or not,
 to allow them to use products of the outside economy already before revenue from sales of the product.
 
-The `LLE`_ corresponding to a product econ accepts work shares as a pledge for loans.
+The `LE`_ corresponding to a product accepts work shares as a pledge for profit advances.
 
-Advances are loans of the `LLE`_ to the owners
-and are balanced with profit at the end of the period.
-If the econ does not make profit, profit advances are liabilities forwarded to the next period.
-If the `LLE`_ gets bankrupt, then advances are lost.
-The risk is take by the `LLE`_.
+Advances are
+
+- loans of the `LE`_ to the owners
+- are balanced with profit at the end of the period or forwarded to the next period
+- not reward for work (not wages)
+
+If the `LE`_ gets bankrupt, then profit advances are lost.
+The risk is taken by creditors if financed by bonds.
+The risk is considered via the interest rate on the bonds.
 
 The amount of profit advances is based on previous profits,
 or if the money is available, based on expected profit.
@@ -572,8 +599,8 @@ Advances are a compromise of the owners between
 - risk of abandonment of a potentially profitable product
 
   As development is public the results might be reused by someone even after abandonment.
-  Since the licence demands distribution of profit according work share,
-  there is a slight change that a fair other econ lattice builds around the project later.
+  Since the licence demands distribution of profit according tributes,
+  there is a slight change that a fair other econ lattice continues later.
 
 As profit, also risk must be distributed between owners proportional to ownership.
 This means that advances, if any, must be given to all owners proportional to ownership.
@@ -583,11 +610,11 @@ The owners decide together the amount of advances to pay, and whether at all.
 If advances are payed, there is a minimum, e.g. for someone new at an econ,
 which, having no ownership yet, would otherwise not get payed.
 As advances are loans, this is not money for free.
-But if the `LLE`_ gets bankrupt the money is lost.
+But if the `LE`_ gets bankrupt the money is lost.
 The extra risk is taken indirectly by the current owners.
 
+.. _`LE`: `legal entity`_
 .. _`legal entity`: https://en.wikipedia.org/wiki/Legal_person
-.. _`LLE`: `limited liability`_
 .. _`limited liability`: https://en.wikipedia.org/wiki/Limited_liability_company
 .. _`lattice`: https://en.wikipedia.org/wiki/Lattice_(order)
 .. _`concept lattice`: https://en.wikipedia.org/wiki/Formal_concept_analysis
@@ -601,3 +628,10 @@ The extra risk is taken indirectly by the current owners.
 .. _`SOP`: https://en.wikipedia.org/wiki/Standard_operating_procedure
 .. _`diversification`: https://en.wikipedia.org/wiki/Diversification_(finance)
 .. _`VAT`: https://en.wikipedia.org/wiki/Value-added_tax
+.. _`bonds`: https://en.wikipedia.org/wiki/Bond_(finance)
+.. _`liable capital`: https://en.wikipedia.org/wiki/Equity_(finance)#Owner's_equity
+.. _`equity`: https://en.wikipedia.org/wiki/Equity_(finance)
+.. _ `assets`: https://en.wikipedia.org/wiki/Asset
+.. _`liabilities`: https://en.wikipedia.org/wiki/Liability_(financial_accounting)
+.. _`retained earings`: https://en.wikipedia.org/wiki/Retained_earnings
+.. _`stock`: https://en.wikipedia.org/wiki/Stock
