@@ -76,7 +76,7 @@ But the idea to control people means that some people get controlled.
 Controlling people is against the principle of equality.
 
 In an econ, owner is replaced by **contributor**
-to avoid conflicts with existing legal definitions.
+to avoid conflict with the existing legal definition.
 
 People engage in econs because of
 
@@ -97,6 +97,9 @@ In the bottom econ
 
 - the product initiator and/or coordinator can record contributions
 - another member who recruits a new member can also record his effort there
+
+To integrate a contributor into the product development is effort.
+Contributions that are below the effort cannot be registered as official contributors.
 
 .. _`docontrol`:
 
@@ -253,6 +256,8 @@ but there is no need for a separate econ.
 
 The `LE`_ exists during the `product lifetime`_,
 from development to recycling.
+All registered contributors, which possibly are `legal entities`_,
+needs to exist the full product lifetime.
 
 A new product has a new `LE`_ and a new econ lattice,
 as every econ corresponds to a product work part.

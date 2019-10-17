@@ -8,9 +8,8 @@ Motivations: Economic Inequality
 
 Original version was a `blog`_.
 
-.. _`blog`: https://rolandpuntaier.blogspot.com/2019/05/employmentinequality.html
-
-Major points:
+Summary
+=======
 
 - Economic inequality is bad
 
@@ -20,7 +19,7 @@ Major points:
 
 - The reasons for inequality are
 
-  - employment, because labor is a separate market and not linked to profit
+  - **employment = inequality**, because labor is a separate market and not linked to profit
   - power hierarchy, because abused for inequality
   - information hiding, because fairness cannot be checked
 
@@ -106,14 +105,18 @@ There are also emotional differences between humans:
   - environments where resources could be obtained alone lead to more competitiveness
   - environments where resources needed cooperation lead to more cooperativeness
 
+.. _`pf`:
+
+:pf:
+
 As a result we can classify two `stereotypes`_
+with every shade in between:
 
 - those who are interested in things (more `introvert`_) and
 - those who are interested in people (more `extrovert`_)
 
-with every shade in between.
-
-The extrovert will likely
+Because extrovert evolutionarily got his resources indirectly,
+the extrovert will likely
 
 - pay attention to what the others want, think or believe and
 - behave accordingly
@@ -121,7 +124,6 @@ The extrovert will likely
 - accept a hierarchy
 - try to get a better place in the hierarchy
 
-because he evolutionarily got his resources indirectly.
 
 The introvert will
 
@@ -151,27 +153,30 @@ which can become disruptive or destructive for larger social systems.
 Legal Company
 =============
 
+.. _`pr`:
+
+:pr:
+
 A company as a `legal entity`_ is no such natural company.
 It rather can be compared to an **interface** in programming.
 Economic exchange goes through the (address, `role`_) tuples of a company.
 The company plays external roles in the economy
 independent of who provides its function, i.e. the internal roles.
 
-The `entity`_
+The `entity`_ as a separate unit
 
 - makes contracts and
 - is legally responsible for them,
 - economically spends and earns and
 - is taxable for the profit
 
-as a separate unit.
 
 `Legal entity types`_ provide useful constructs for people working together,
 
 - not making everybody liable for the actions of the others (`limited liability`_)
 - guaranteeing fair distribution between `partners`_ or owners
 
-but are mostly abused for exploitation
+But `legal entity types`_ are mostly abused for exploitation
 of the inherited capability
 to form a natural company
 and achieve great things by working together.
@@ -223,6 +228,10 @@ the cooperation of people.
 
 To improve distribution of wealth
 one must aim at a fair distribution of company ownership.
+
+.. _`pj`:
+
+:pj:
 
 To own `shares`_ of other companies is possible,
 but even `public float`_ is in principle nothing else
@@ -337,14 +346,18 @@ and not be the lackey of some super rich owner.
 Importance of Fairness
 ======================
 
+.. _`p1`:
+
+:p1:
+
 Worker ownership brings democracy into the companies.
 
-Currently companies resemble
+Because one or a few decide over others,
+currently companies resemble
 
 - `dictatorship`_
 - `centrally planned economy`_ like in `communism`_
 
-where one or a few decide over others.
 
 But also with `workplace democracy`_ inequality still can creep in.
 
@@ -470,14 +483,65 @@ Instead one needs to counteract every local `inequality`_.
 Inequality is a world problem,
 not of countries existing due to historical coincidences.
 
+Fairness Development
+--------------------
+
+.. _`pa`:
+
+:pa:
+
+Fairness is a development like every other.
+Fairness needs to be
+
+- planned, done and tested (`pdt`_) or needs
+- legislative, executive and judicial power, if delegated
+  (`separation of powers`_)
+
+Fairness development is not specific to a product.
+So it is placed in a separate repo (e.g. this repo)
+to make it reusable for more product developments.
+
+Members of a product team
+
+- test the rules
+- can propose changes
+
+If accepted by vote, the changed plan becomes the new plan,
+first locally and, if forwarded, also in the upstream fairness repo.
+
+This is direct legislation.
+The planning of the fairness can also be delegated to a *legislative* power.
+
+Practicing fairness in a product team is the direct execution.
+One could have an `ombudsman`_ as a delegated *executive* power.
+But with direct access to the fairness repo for feedback, it should not be necessary.
+
+With the fairness repo conflicts can be resolved with basic principles
+instead of opportunistically improvised arguments.
+Conflicts can be resolved directly or mediated through a *judicial* power.
+
+For a small team open information (work share, financial)
+allows everyone to check the fairness.
+
+Organization is done per product.
+For a larger products the organization is larger.
+The associated larger fairness effort motivates delegation.
+Since the fairness is not related to a product,
+a separate organization can do fairness checks (`audit`_).
+
+
 Employment Disadvantages
 ========================
+
+.. _`p9`:
+
+:p9:
 
 - Owner vs employees produces `inequality`_.
 
 The most obvious cause for `inequality`_
 is company **owner versus employee**.
-Working as employees has produced an unbelievable `wealth inequality`_,
+Employees have produced an unbelievable `wealth inequality`_,
 because they did not claim ownership of their cooperation.
 
 On a settled market employee's `P_e = w` versus owner's `P_o = r N w`
@@ -600,6 +664,10 @@ The `owner`_ role protects him against such losses.
 Jurisdiction's Negligence
 =========================
 
+.. _`p7`:
+
+:p7:
+
 Laws are historically grown rules
 which mix the goals and ideas of many but especially rich people.
 As such they are neither moral nor immoral, but amoral.
@@ -627,7 +695,7 @@ of wealth distribution that is many centuries old.
 The rich always had, and still have, a big influence on jurisdictions
 and were able to maintain laws that allowed them to continue their exploitation.
 
-Jurisdiction care for equal treatment of partners and owners,
+Jurisdictions care for equal treatment of partners and owners,
 but treat the employees as inferior roles.
 
 Without protection from law, simply by tradition,
@@ -685,329 +753,24 @@ By `regulations`_ one would have an immediate impact.
 Jurisdictions do not demand equality,
 but they do also not forbid it.
 
-`Social security`_ providing a `basic income`_ through `redistribution`_
-allows people to avoid unfair contracts
-and thus indirectly helps to spread and maintain fair cooperation.
-It is also needed due to `automation taking over`_.
-
-Evolution to Ownership
-======================
-
-A jurisdiction's negligence to tolerate unfair economic structures
-demands for responsibility from those losing in the structure.
-Fair cooperation will not be offered by those winning from unfair economic structures.
-Those currently in employee roles,
-need to offer an alternative to each other
-to improve their own situation and thereby reducing inequality.
-
-Every person has his own hierarchy of needs, averaged by the `Maslow pyramid`_.
-Individual differences will lead to different cooperations.
-People in freedom will try to maximize the satisfaction according to *their* needs.
-If the economy does not offer satisfaction, one needs to make an effort and organize it.
-
-Specifically those that need fair cooperation for their `workplace satisfaction`_ need to organize it.
-
-.. _`r_thinkfair`:
-
-Social evolution starts in the heads:
-
-- see inequality as a problem for yourself and the society
-- understand your responsibility
-- form values and a political opinion
-- organize people or join organizations with the same values
-
-Evolution in general needs `long living`_ stuctures to grow upon,
-so does evolution away from inequality.
-
-One needs to build infrastructure, where one can work together on the same level,
-without a power hierarchy given by the control of the employer over the employee.
-There must be only one power, that of the majority.
-This is called `workplace democracy`_.
-The power must apply only, if *relevant for the majority*.
-Inequality is a structural problem of relevance for the majority.
-
-Majority of what? The what does not exist without an organization.
-Inequality goes beyond countries, so one must organize beyond country politics.
-
-
-.. _`r_cooperation_lattice`:
-
-People need to register as an economic `entity`_ (`sole proprietors`_ or sole-member `LLC`_) in their country
-
-- to satisfy their country's laws
-- to avoid employment and
-- to be independent from any specific cooperation
-
-These entities then cooperate with others and own these cooperations
-directly or indirectly through intermediate cooperations.
-
-The resulting structure corresponds to a mathematical `lattice`_.
-
-.. admonition:: Cooperation `Lattice`_
-
-    In `formal concept analysis`_ (FCA) terms a cooperation is a concept node.
-    People constitute the FCA intent of a cooperation.
-
-    The cooperation nodes form a `partial order`_:
-
-    - up (owners)
-    - down (owned).
-
-    Top nodes consist of one person.
-    A further down node is owned by more nodes above,
-    because it constitutes their cooperation.
-
-    A node can be sharedly own more futher down nodes,
-    i.e. can contribute to more cooperation.
-
-    Control flows downward. Profit flows upward.
-
-    As people are top nodes, no person has control over any other.
-
-.. _`r_inversion`:
-
-A cooperation lattice is an **inversion of traditional company-employee relationship**:
-Instead of companies having employees,
-the people own the cooperations in which they work.
-In this sense the cooperation is like a `shell company`_.
-
-.. _`r_node_size`:
-
-To allow flat m-to-n communication,
-the size of a node should not be bigger than about 10.
-Above that separate `entities`_ should be formed.
-
-.. _`r_legal_entity`:
-
-The `legal entity`_ one chooses is important regarding distribution justice.
-
-- Cooperation must lead to *ownership shares*
-- *that stay* with those cooperating and
-- *not have employment-only roles*.
-
-The `cooperative`_ fits best
-
-- for the cooperation lattice as a whole and also
-- for the cooperation nodes
-
-as it does not separate ownership from cooperation.
-
-.. admonition:: Why entity at all?
-
-   People work together to produces an advantage
-
-   - for themselves
-   - and others (the market)
-
-   They interface the market via `contracts`_,
-   which requires them to be a `legal entity`_.
-
-   They also want to have `rules`:
-
-   - externally via the `articles of association`_
-   - internlly via the `bylaws`_
-
-   The whole cooperation lattice on the other hand
-   is a network having fairness as common ethical value,
-   legally implemented via an `umbrella organization`_.
-
-.. _`r_bylaws`:
-
-Cooperation lattice bylaws need to require common values:
-
-- ownership by those cooperating (= no employment-only roles)
-- democratic decision making where needed (`governance`_)
-- no coercions, as contribution is by `free will`_
-  motivated by interest and remuneration
-
-It also specifies procedures common to all nodes:
-
-- how work investment is considered in the assessment of ownership
-- how ownership changes when exiting a cooperation before done
-
-Sub-lattices and nodes refine common `bylaws`_ of the cooperation lattice.
-
-As a comparison see: `cooperative bylaws`_ and `cooperative alliance`_
-
-.. _`r_lattice_services`:
-
-A cooperation lattice stands for common values
-that lead to common processes that need to be
-
-- advertised
-- regulated
-- mediated
-- observed (statistics)
-- verified
-- automated
-- maintained
-
-Processes of nodes are
-
-- becoming an active node
-- leaving a node before done
-- becoming a done node
-- dying of a node
-
-The cooperation lattice is a rational construction
-for common value and regulation,
-a `long living`_ subsystem, for the nodes
-to ease common processes.
-
-.. _`r_lattice_non_services`:
-
-Technical infrastructure on the other
-is done by nodes within the lattice.
-
-Nodes do also care to
-recruit new lattice members from outside the cooperation lattice.
-
-.. _`r_advertisement`:
-
-The best advertisement for the cooperation lattice is findable information:
-All the values, processes and statistics are public.
-
-If statistics show that the average net income of people in the cooperation lattice
-are higher than according work in employment,
-this motivates still employees to become
-
-- independent economic entities and
-- join the cooperation lattice
-
-.. _`r_governance`:
-
-**Written**:
-General `governance`_ and `operations`_ are guided by
-written rules, instructions and data:
-`constitution`_, `bylaw`_, `operations manual`_, `SOPs`_, `open data`_, ...
-
-**Transparent**:
-Fairness needs to be proven by transparency:
-All kind of information of common interest, especially financial data,
-needs to be provided to all members of a node or other domain.
-
-**Direct democracy**:
-A cooperation lattice and its parts are adaptable via `open legislation`_.
-Everybody can create `pull requests`_.
-If one wants to change or add something, he can work on a new version,
-which then is passed by votes of the owners of the node,
-or other applicable domain.
-
-**Locality**:
-`Governance`_ needs to avoid situations of potential conflicts.
-Decisions that do not impact others are done by the person in charge.
-Processes should still be documented, but no acceptance via voting is necessary.
-Communication works best inside the brain.
-
-Work split should minimize communication and maximize member freedom.
-This is `loose coupling`_ and high `cohesion`_ in programming.
-
-As nodes consist of few members one can still discuss things.
-The person with the most information decides in case no agreement can be found.
-
-**Coordination**:
-For a project with many nodes a designated `architect`_ node `coordinates`_.
-This role is not power concentration,
-but just one of the upper nodes of the project node representing the big project.
-Shared ownership protects against power abuse.
-
-**Verification**:
-Regular internal `audits`_ verify that
-the written documents (including `accounting`_) describe reality in the domain of their validity.
-
-Employment test, like the `20-factor test`_, within the cooperation lattice
-corresponds to **ownership test**.
-It should verify ownership is in place, if cooperation is continuous,
-and not based on minor, transaction-like contributions.
-
-.. _`r_transactions`:
-
-Nodes do `transactions`_ (sell/buy products/services)
-with other nodes within the cooperation lattice or the market.
-
-.. _`r_ownership`:
-
-Ownership of a lattice node stands for cooperation.
-Nodes are sharedly owned by those cooperating
-over some time period of legal relevance
-else it is a transaction.
-Ownership share determines the profit distribution.
-
-The ownership share is based on an agreed key. For example
-
-- work time weighted with education, experience or productivity
-- lines of code with debug information for a software project or
-- the importance of a component within some complex system
-
-.. _`r_non_exclusiveness`:
-
-Work for one node does not exclude work for another node.
-
-.. _`r_payment`:
-
-Working is an investment that must produce ownership share,
-in addition to payment.
-Within the company, i.e. within a longer cooperation,
-payment is not a transaction in exchange for work
-but a side effect of ownership share.
-
-.. _`r_dilution`:
-
-Every new co-worker
-justifiably `dilutes`_ the shares in a planned way,
-especially those of former co-workers.
-If a person/node leaves a cooperation node before done
-its ownership accumulated so far stays, but gets diluted.
-
-.. _`r_node_project`:
-
-A node's purpose is a specific project.
-Whenever working on a new project also a new node
-should be formed, owned by those cooperating.
-
-An upper node initiates a new project or a sub-project
-
-- split a complex product according to `high cohesion and loose coupling`_
-- advertise the project or sub-project
-- find the right partner nodes within the cooperation lattice
-- possibly make additional bylaws and vote on them
-- establishing communication channels
-
-.. _`r_done_node`:
-
-When the main work on the project is done
-the node functions as distribution channel,
-as other nodes take over tasks of different kind
-
-- marketing
-- support
-- maintenance
-
-.. _`r_existing_markets`:
-
-A cooperation lattice does not depend on new business ideas.
-It can simply compete on existing markets.
-Instead of being employee of a company in a profitable market,
-one better competes with the company via a fair cooperation.
-
-Unfair companies can shrink
-
-- by competition
-- by not finding enough employees,
-  as companies not only compete on the product side, but also for employees
-
-More small cooperations produce a better distribution than few large companies.
-
-.. admonition:: Evolution via alternatives
-
-   Alternatives do not necessarily need to replace other forms.
-   Today there are
-
-   - biological species unchanged since millions of years
-   - societies one could place hundreds of years in the past
+.. note:: basic income
+
+   `Social security`_ providing a `basic income`_ through `redistribution`_
+   allows people to avoid unfair contracts
+   and thus indirectly helps to spread and maintain fair cooperation.
+   It is also needed due to `automation taking over`_.
+
+Jurisdictions should make structural change
+that have a direct distribution effect,
+like abandoning the concept of employment,
+instead of only through taxes and `redistribution`_.
 
 Financing
 =========
+
+.. _`p4`:
+
+:p4:
 
 Many tech cooperations do not need much more than a computer
 and that should stay with the personal entity and not be owned by a
@@ -1023,7 +786,7 @@ Huge efforts and expensive infrastructure
 - can be a separate `mutual`_ or `cooperative`_
 - can be `open development`_ through a large enough community
 
-`Debt`_ can be used for `leverage`_.
+`Debt`_ (e.g. via `bonds`_) can be used for `leverage`_.
 This is better than external shares,
 i.e. becoming a `public company`_,
 as one should hold a share on one's own cooperations
@@ -1033,7 +796,7 @@ A `cooperative`_ or `mutual`_ are good `legal entity type`_ `choices`_,
 as they cannot be sold as one entity.
 
 Funding via selling shares would give a way ownership.
-But ownership should stay with those cooperating.
+Ownership should stay with those cooperating.
 
 After some time in an ownership network,
 nodes that one contributed to and one thus sharedly owns
@@ -1041,6 +804,10 @@ should produce enough profit not to depend on external financing any more.
 
 Continuity
 ==========
+
+.. _`po`:
+
+:po:
 
 The tension in the company-employee relationship produces `employment turnover`_
 which produces discontinuity
@@ -1101,237 +868,302 @@ The reason is the educational system:
 - Students cannot develop in a self-determined, independent way
 - Students are not taught to care and to be political
 
-Danger of Hype Product
-======================
+Open Cooperation
+================
 
-A tech product with almost full `market coverage`_
+.. _`p2`:
 
-- on the one hand is good, as a `standardization`_,
-  as a foundation for new development
+:p2:
 
-- but only if NOT CONTROLLED by one company,
-  as that is a `monopoly`_,
-  and produces `inequality`_.
+Everyone wants an easy life,
+but it often made harder than necessary,
+through competition instead of cooperation.
 
-`Hype product`_ is not a problem if it was produced
+Cooperation means that everyone interacting makes the other's life easy.
+From the personal perspective:
 
-- through `open development`_ and
-- the top cooperation entity distributes the profit
-  through a hierarchy of sharedly owned sub-entities
+- Everyone makes my life easier.
+- I make everyone's life easier.
 
-`Windows`_ became a hype product via the `PC`_ revolution
-and produced an amazing amount of inequality.
-`Gnu/Linux`_, on the other hand,
-is a moneyless trade of contributions,
-but innumerous companies earn good money using it in their products.
-It produces less inequality and more freedom:
-without a `lock in`_ and the possibility of own adaptations.
+By choice: I interact with people that make my life easier.
+I make their life easier, too.
 
-.. _`automation taking over`:
+From cooperation follows a better distribution of effort and reward.
+Technically, easier needs to be defined and involves measuring and recording.
 
-In the future, `automation`_ will enter the mass market.
-As an extreme case imagine a robot that can take over most work,
-cheaper than humans.
-This demands for `open hardware`_ and software,
-else we all become locked in to one company,
-as the complexity does not allow for competition.
+Information sharing produces fairness.
 
-Many companies servicing the open automation infrastructure
+Information is
 
-- make automation faster
-- can also better raise money for a `basic income`_
-  to distribute resources with other means than work,
-  as work is automated away.
+- easy to give
+- valuable to get
 
-Summary
-=======
+Opening up information is an easy way to make each other's life easier.
 
-The major statement is that employment leads to inequality::
+This also includes hardware.
+Hardware should first be simulated,
+but definitely also needs physical prototyping and testing effort.
+This is considerable effort that should not need to be repeated.
 
-    Employment = Inequality
+Development is done by a central repo accessible to everybody.
 
-Consequently employee's should become independent instead, and offer a fair cooperation::
+Outside people can build on existing product development effort.
+Their contributions makes them automatically owners of the product.
 
-    Cooperation belongs to those cooperating.
+Construction and marketing is part of the product effort
+and is recorded in the central repo,
+whether done by the original members or the newcomers.
 
-The initiative should come from the employees.
+Sales are forwarded according ownership,
+which includes also development and testing effort.
 
-Jurisdictions should make structural change
-that have a direct distribution effect,
-like abandoning the concept of employment,
-instead of only through taxes and `redistribution`_.
+If somebody constructs the product for oneself without selling,
+that one has the construction cost only.
+But this normally will be higher than buying the mass produced device.
 
-.. epigraph::
+If building the product is cheap, as for software,
+then software is not the product,
+but the know how to modify and improve the software.
 
-    What do you do for a living?
+Changes in the central repo might not be accepted in
+by the existing developers, e.g. out of differing technical opinions.
+Then the contributors can fork the product.
+Forking must keep all the records of previous relevant work.
+Income from sales are forwarded to owners on every fork.
 
-    - I make my boss rich.
-    - I increase inequality.
-    - Effectivley 2/3 of my work is unpaid work for the boss.
+Existing economic links cannot be forked as easily as a product.
+Still, existing owners need to have a good reason not to accept a contribution,
+because
+
+- well motivated product forking might also drag along the economic links
+- product forks
+
+  - increase effort
+  - decrease profit
+
+Benefits of openness:
+
+- People from the outside economy can join the/a product development easily
+
+- If joining due to technical interest, this interest can be developed,
+  because the invested time is payed
+
+- New different products can benefit from existing produts
+
+- Investment into research can be valuable for different produts,
+  even if the product turns out not yet feasible with existing technology
+
+- Technical development becomes faster (less burocracy, less reinvention)
+
+- Cooperation is less effort and thus also less energy waste and less footprint.
+
+- Cooperation produces cheaper and better products.
+
+- Appreciation for contribution is rewarding while unfair competition is frustrating.
+
+- Cooperative competition solutions are different solutions allowing to select the best solution
+
+- Customers do get
+
+  - more choice
+  - better support by large community
+  - can do their special adaptations and possibly contribute them
+  - have no risk to lose the supplier because a company get bankrupt
+  - can maintain the product for oneself
+    even if the community abandons it
+
+.. note:: Danger of Hype Product
+
+   A tech product with almost full `market coverage`_
+   
+   - on the one hand is good, as a `standardization`_,
+     as a foundation for new development
+   
+   - but only if NOT CONTROLLED by one company,
+     as that is a `monopoly`_,
+     and produces `inequality`_.
+   
+   `Hype product`_ is not a problem if it was produced
+   
+   - through `open development`_ and
+   - the top cooperation entity distributes the profit
+     through a hierarchy of sharedly owned sub-entities
+   
+   `Windows`_ became a hype product via the `PC`_ revolution
+   and produced an amazing amount of inequality.
+   `Gnu/Linux`_, on the other hand,
+   is a moneyless trade of contributions,
+   but innumerous companies earn good money using it in their products.
+   It produces less inequality and more freedom:
+   without a `lock in`_ and the possibility of own adaptations.
+   
+   In the future, `automation`_ will enter the mass market.
+   As an extreme case imagine a robot that can take over most work,
+   cheaper than humans.
+   This demands for `open hardware`_ and software,
+   else we all become locked in to one company,
+   as the complexity does not allow for competition.
+   
+   Many companies servicing the open automation infrastructure
+   
+   - make automation faster
+   - can also better raise money for a `basic income`_
+     to distribute resources with other means than work,
+     as work is automated away.
 
 
-.. Contributions
-.. =============
-.. 
-.. If you feel in line with the principle above please fork and create pull requests.
-.. 
-.. A `meme`_ is regarded to be independent from a specific person
-.. such that text can be developed like code.
-.. The content should be verified by 
-.. 
-.. - code that does simulations or calculations on models
-.. - actual adoption by groups of people
-.. 
-.. Content should be:
-.. 
-.. - motivations, risks
-.. - rules for cooperation (bylaws)
-.. - conformity with jurisdictions, i.e. countries
-.. - development process fitting the network
-.. - software (or links to)
-..   - for communication infrastructure
-..   - client tools
-..   - contribution accounting
-..   - financial accounting
-..   - simulation
-..   - verifying that the results of the network are as wanted
-.. 
-.. The software should automate administration.
-.. Governance consists in modifying the algorithms.
-.. 
-.. Strive for
-.. 
-.. - consistency in content and naming
-.. - minimal redundancy
-.. - good cross references
-.. 
-.. `rstdoc`_ can be used to generated other doc formats from `rst`_.
-.. 
-.. Currently the content is all in one subdir,
-.. to reorganize when needed.
-.. 
-.. - Text is under `Attribution-ShareAlike createive commons license`_
-.. - Code is under `GPL 3.0`_ (Python 3 preferred)
-.. 
-.. 
-.. .. _`GPL 3.0`: https://www.gnu.org/licenses/gpl-3.0.en.html
-.. .. _`Attribution-ShareAlike createive commons license`: https://creativecommons.org/licenses/by-sa/4.0/legalcode
-.. .. _`rstdoc`: https://github.com/rpuntaie/rstdoc
-.. .. _`rst`: http://docutils.sourceforge.net/rst.html
-.. .. _`meme`: https://en.wikipedia.org/wiki/Meme 
+Plan
+====
 
-.. Links
-.. =====
-.. 
-.. Organization
-.. ------------
-.. 
-.. http://library.uniteddiversity.coop/Effective_Organising/Democratic_Company.pdf
-..
-.. Dachverband
-.. ===========
-.. https://en.wikipedia.org/wiki/Umbrella_organization
-.. https://en.wikipedia.org/wiki/Open_Source_Geospatial_Foundation
-.. https://en.wikipedia.org/wiki/Software_in_the_Public_Interest
-.. 
-.. Law
-.. ---
-..
-.. eGen: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001680
-.. SCE: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004783
-.. http://www.legislation.gov.uk/ukpga/2009/4/contents
-.. https://en.wikipedia.org/wiki/Payroll_tax
-.. https://en.wikipedia.org/wiki/List_of_countries_by_tax_rates
-.. https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=LEGISSUM:l26018&from=DE
-..
-.. https://www.genossenschaftsverband.de/site/assets/files/30787/5_-_rechtsformvergleich.pdf
-.. https://www.genossenschaftsverband.at/gruenderservice/faqs
-.. https://www.genossenschaftsverband.at/m101/volksbank/m101_1oegv/de/individuelle_seite/ware/sce.jsp
-..
-.. Service
-.. -------
-.. 
-.. https://www.usp.gv.at/Portal.Node/usp/public/content/gruendung/ueberlegungen_im_vorfeld/wahl_rechtsform/Seite.1206000.html
-.. Gründung: https://www.usp.gv.at/Portal.Node/usp/public/content/gruendung/egruendung/269403.html
-.. 
-.. Learning
-.. --------
-.. 
-.. https://github.com/daryllxd/lifelong-learning/blob/master/coursera/law-and-the-entrepreneur.md
-.. 
-.. https://github.com/ritschmaster/HTLanleitungen/blob/master/Jahrgang_5/Betriebliche%20Organisation/Unternehmensrechtsformen/Unternehmensrechtsformen-Praesentation.org
-.. 
-.. Statutes: Internet Examples
-.. ---------------------------
-.. 
-.. https://github.com/rchain/board/blob/master/2017/08-28/Bylaws.md
-.. https://new.siemens.com/global/en/company/investor-relations/corporate-governance.html
-.. 
-.. https://github.com/lucee/las
-.. 
-.. https://github.com/pmlaw/The-Bitcoin-Foundation-Legal-Repo/blob/master/Bylaws/Bylaws_of_The_Bitcoin_Foundation.md
-.. 
-.. https://github.com/gratipay/inside.gratipay.com/issues/72
-.. 
-.. https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-1-organizational-structure
-.. 
-.. https://en.wikipedia.org/wiki/Holacracy
-.. https://en.wikipedia.org/wiki/Open-source_governance
-.. https://en.wikipedia.org/wiki/Collaborative_e-democracy
-.. https://en.wikipedia.org/wiki/Workers%27_self-management
-..
-.. debian: https://www.spi-inc.org/corporate/by-laws/
-.. https://www.spi-inc.org/corporate/annual-reports/2018.pdf
-.. 
-.. Cooperative
-.. -----------
-..
-.. https://www.vor.or.at/cgi-bin/vor.pl?sid=100004
-.. https://www.revision.coop/
-.. https://en.wikipedia.org/wiki/Rochdale_Principles
-.. 
-.. https://een.ec.europa.eu/
-.. https://infotrust.com/articles/what-ownership-in-the-workplace-means-to-me/
-.. https://www.genossenschaften.de/it-konsortium-gr-ndet-genossenschaft-zur-softwareentwicklung
-.. https://www.wir-leben-genossenschaft.de/de/ein-rechtsformvergleich-zwischen-eg-e-v-und-gmbh-349.htm
-.. Genossenschaftsrevision: https://www.gbv.at/Page/View/4111
-.. Reiffeisen Revisionsverband: https://www.rrv.at/
-..
-.. http://www.dmlp.org/legal-guide/cooperative-corporation
-.. https://www.euricse.eu/
-.. http://www.handelskammer.bz.it/de/dienstleistungen/unternehmensentwicklung/unternehmenskooperation/12-regeln-f%C3%BCr-den-kooperationserfolg
-..
-.. https://www.ica.coop/en/guidance-notes
-.. 
-.. Inequality
-.. ----------
-.. 
-.. https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2016.00918.x
-.. 
-.. http://www.wealthinequality.info/wp-content/uploads/ebook/Modeling_Wealth_Inequality_Tobochnik_Christian_Gould.pdf
-.. https://www.compadre.org/osp/items/detail.cfm?ID=13337
-.. 
-.. https://www.weforum.org/agenda/2017/04/extreme-wealth-inequality-alaska-model/
-.. 
-.. https://en.wikipedia.org/wiki/Mean_log_deviation
-.. https://en.wikipedia.org/wiki/Economic_inequality
-.. https://en.wikipedia.org/wiki/Income_inequality_metrics
-.. 
-.. https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century
-.. 
-.. http://www.shadowstats.com/article/no-325-cpi-ppi-production-household-income
-.. 
-.. https://ourworldindata.org/global-economic-inequality
-.. https://ourworldindata.org/income-inequality-since-1990
-.. 
-.. Causes
-.. ------
-.. 
-.. https://en.wikipedia.org/wiki/Causes_of_income_inequality_in_the_United_States
-.. https://sevenpillarsinstitute.org/causes-economic-inequality/
-.. https://www.quora.com/What-causes-economic-inequality
-.. https://en.wikipedia.org/wiki/Kuznets_curve
+.. _`pv`:
 
+:pv: |pf|
+
+Tech people are interested in the thing.
+Organize around a product:
+
+- `legal entity`_ per product
+
+The product does not need to be a new product.
+An existing market is valuable for planning.
+
+A new open development method
+
+- can make a difference on the market
+- can open new directions for the product
+
+.. _`pv`:
+
+:pv: |p1| |pj|
+
+Link profit with work via content, i.e. product contributions.
+
+Record and provide access to information about
+
+- contribution effort
+- profit distribution proportional to contribution
+
+Prefer measures of contribution not related to time
+
+- Thoughts, steps taken,...
+  can be written and thus measured in content.
+
+- Reusable content, also in other products,
+  becomes more valuable for the contributor.
+
+.. _`p0`:
+
+:p0: |p1|
+
+Provide information
+
+- in a written form
+- with URLs
+- over an IT network
+
+to
+
+- avoid a central figure as communicator
+- avoid meetings
+- spread information
+- link information
+- allow recording of effort
+
+.. _`pe`:
+
+:pe: |po|
+
+Concentrate on the content, i.e. the technology.
+
+Profit follows,
+because profit distribution is based on contribution.
+
+This makes technological development more continuous and faster.
+
+.. _`pp`:
+
+:pp: |pf|
+
+Introverts develop the product.
+
+Extroverts mediate a network around the product:
+recruiting, marketing, mediation, social grooming.
+
+.. _`pn`:
+
+:pn: |pr| |pj|
+
+Don't link profit nor control with the `legal entity`_.
+The `legal entity`_ is only interface (an address)
+
+- for the government
+- for the market
+
+.. _`pk`:
+
+:pk: |pr| |pj|
+
+Contributors secure control over the `legal entity`_
+
+- by contract or
+- by choosing a `legal entity type`_ giving control to the members (e.g. `cooperative`_)
+
+.. _`pq`:
+
+:pq: |p4|
+
+Don't finance via `stock`_.
+
+.. _`pg`:
+
+:pg: |p1| |p9|
+
+Don't use employment.
+
+.. _`ph`:
+
+:ph: |p1|
+
+Don't designate a boss.
+
+Decisions are made by
+
+#. those having the information
+#. those concerned
+
+Use mediators for conflicts.
+
+Argument for a decision in a written form.
+
+.. _`pu`:
+
+:pu: |p1| |pa|
+
+Spend effort on fairness.
+
+.. _`pb`:
+
+:pb: |po| |p2|
+
+Develop the product openly.
+
+.. _`pz`:
+
+:pz: |p7|
+
+Make a better world
+by showing that fair cooperation
+can make a product more successful
+than the competition.
+
+Work cooperatively with
+the product competition
+if they agree on fair terms.
+
+.. _`ombudsman`: https://en.wikipedia.org/wiki/Ombudsman
+.. _`separation of powers`: https://en.wikipedia.org/wiki/Separation_of_powers
+.. _`audit`: https://en.wikipedia.org/wiki/Audit
+.. _`blog`: https://rolandpuntaier.blogspot.com/2019/05/employmentinequality.html
 .. _`microeconomy`: https://en.wikipedia.org/wiki/Microeconomics
 .. _`macroeconomy`: https://en.wikipedia.org/wiki/Macroeconomics
 .. _`selection`: https://en.wikipedia.org/wiki/Natural_selection
@@ -1552,6 +1384,7 @@ instead of only through taxes and `redistribution`_.
 .. _`management hierarchy`: https://en.wikipedia.org/wiki/Management
 .. _`public float`: https://en.wikipedia.org/wiki/Public_float
 .. _`stock`: https://en.wikipedia.org/wiki/Stock
+.. _`bonds`: https://en.wikipedia.org/wiki/Bond_(finance)
 .. _`legal industry`: https://en.wikipedia.org/wiki/Practice_of_law
 .. _`operations manual`: https://en.wikipedia.org/wiki/Operations_manual
 

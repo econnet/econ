@@ -29,10 +29,64 @@ The focus is on technology.
 Important points:
 
 - All organization is *per product*
-- Only work on the product can create *ownership* on the product
-- All money flow during development are *loans*
-- *No boss* by democratic decision making and worker ownership
 - Product profit on the market values the work and rewards the workers
+- Only work on the product can create *ownership* on the product profit
+- All money flow during development are *loans*
+- *No boss*, but democratic decision making
+
+.. todo
+.. Contributions
+.. =============
+.. 
+.. If you feel in line with the principle 
+..
+.. - please fork and 
+.. - create pull requests on change proposals.
+.. 
+.. A `meme`_ is regarded to be independent from a specific person
+.. such that text can be developed like code.
+.. The content should be verified by 
+.. 
+.. - code that does simulations or calculations on models
+.. - actual adoption by groups of people
+.. 
+.. Content should be:
+.. 
+.. - motivations, risks
+.. - rules for cooperation (bylaws)
+.. - conformity with jurisdictions, i.e. countries
+.. - development process fitting the network
+.. - software (or links to)
+..   - for communication infrastructure
+..   - client tools
+..   - contribution accounting
+..   - financial accounting
+..   - simulation
+..   - verifying that the results of the network are as wanted
+.. 
+.. The software should automate administration.
+.. Governance consists in modifying the algorithms.
+.. 
+.. Strive for
+.. 
+.. - consistency in content and naming
+.. - minimal redundancy
+.. - good cross references
+.. 
+.. `rstdoc`_ can be used to generated other doc formats from `rst`_.
+.. 
+.. Currently the content is all in one subdir,
+.. to reorganize when needed.
+.. 
+.. - Text is under `Attribution-ShareAlike createive commons license`_
+.. - Code is under `GPL 3.0`_ (Python 3 preferred)
+.. 
+.. 
+.. .. _`GPL 3.0`: https://www.gnu.org/licenses/gpl-3.0.en.html
+.. .. _`Attribution-ShareAlike createive commons license`: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+.. .. _`rstdoc`: https://github.com/rpuntaie/rstdoc
+.. .. _`rst`: http://docutils.sourceforge.net/rst.html
+.. .. _`meme`: https://en.wikipedia.org/wiki/Meme 
 
 Economy
 =======
@@ -208,160 +262,9 @@ and priced later by reality.
 
 Work should be priced by the product's success.
 
-Fairness
-========
 
-Everyone wants an easy life,
-but it often made harder than necessary,
-through competition instead of cooperation.
-
-Cooperation means that everyone interacting makes the other's life easy.
-From the personal perspective:
-
-- Everyone makes my life easier.
-- I make everyone's life easier.
-
-By choice: I interact with people that make my life easier.
-I make their life easier, too.
-
-From cooperation follows a better distribution of effort and reward.
-Technically, easier needs to be defined and involves measuring and recording.
-
-
-.. _`infoopenness`:
-
-:openness:
-
-Information produces fairness.
-
-Information is
-
-- easy to give
-- valuable to get
-
-Opening up information is an easy way to make each other's life easier.
-
-Products are developed openly.
-
-This also includes hardware.
-Hardware should first be simulated,
-but definitely also needs physical prototyping and testing effort.
-This is considerable effort that should not need to be repeated.
-
-Development is done by a central repo accessible to everybody.
-
-Outside people can build on existing product development effort.
-Their contributions makes them automatically owners of the product.
-
-Construction and marketing is part of the product effort
-and is recorded in the central repo,
-whether done by the original members or the newcomers.
-
-Sales are forwarded according ownership,
-which includes also development and testing effort.
-
-If somebody constructs the product for oneself without selling,
-that one has the construction cost only.
-But this normally will be higher than buying the mass produced device.
-
-If building the product is cheap, as for software,
-then software is not the product,
-but the know how to modify and improve the software.
-
-Changes in the central repo might not be accepted in
-by the existing developers, e.g. out of differing technical opinions.
-Then the contributors can fork the product.
-Forking must keep all the records of previous relevant work.
-Income from sales are forwarded to owners on every fork.
-
-Existing economic links cannot be forked as easily as a product.
-Still, existing owners need to have a good reason not to accept a contribution,
-because
-
-- well motivated product forking might also drag along the economic links
-- product forks
-
-  - increase effort
-  - decrease profit
-
-Benefits of openness:
-
-- People from the outside economy can join the/a product development easily
-
-- If joining due to technical interest, this interest can be developed,
-  because the invested time is payed
-
-- New different products can benefit from existing produts
-
-- Investment into research can be valuable for different produts,
-  even if the product turns out not yet feasible with existing technology
-
-- Technical development becomes faster (less burocracy, less reinvention)
-
-- The final products becomes more competitive (cheaper, better)
-
-- Creating competing solutions allows to select the best solution
-
-- Customers do get
-
-  - more choice
-  - better support by large community
-  - can do their special adaptations and possibly contribute them
-  - have no risk to lose the supplier because a company get bankrupt
-  - can maintain the product for oneself
-    even if the community abandons it
-
-
-.. _`infofairnessplan`:
-
-:fairness plan:
-
-Fairness is a development like every other.
-Fairness needs to be
-
-- planned, done and tested (`pdt`_) or needs
-- legislative, executive and judicial power, if delegated
-  (`separation of powers`_)
-
-Fairness development is not specific to a product.
-So it is placed in a separate repo (e.g. this repo)
-to make it reusable for more product developments.
-
-Members of a product team
-
-- test the rules
-- can propose changes
-
-If accepted by vote, the changed plan becomes the new plan,
-first locally and, if forwarded, also in the upstream fairness repo.
-
-This is direct legislation.
-The planning of the fairness can also be delegated to a *legislative* power.
-
-Practicing fairness in a product team is the direct execution.
-One could have an `ombudsman`_ as a delegated *executive* power.
-But with direct access to the fairness repo for feedback, it should not be necessary.
-
-With the fairness repo conflicts can be resolved with basic principles
-instead of opportunistically improvised arguments.
-Conflicts can be resolved directly or mediated through a *judicial* power.
-
-For a small team open information (work share, financial)
-allows everyone to check the fairness.
-
-Organization is done per product.
-For a larger products the organization is larger.
-The associated larger fairness effort motivates delegation.
-Since the fairness is not related to a product,
-a separate organization can do fairness checks (`audit`_).
-
-.. _`ombudsman`: https://en.wikipedia.org/wiki/Ombudsman
-.. _`return of investment`: https://en.wikipedia.org/wiki/Return_on_Investment
 .. _`fiat money`: https://en.wikipedia.org/wiki/Fiat_money
-.. _`separation of powers`: https://en.wikipedia.org/wiki/Separation_of_powers
-.. _`audit`: https://en.wikipedia.org/wiki/Audit
-
-
+.. _`return of investment`: https://en.wikipedia.org/wiki/Return_on_Investment
 .. _`info`: https://github.com/rpuntaie/econ/blob/master/info.rst
 .. _`plan`: https://github.com/rpuntaie/econ/blob/master/plan.rst
 .. _`do`: https://github.com/rpuntaie/econ/blob/master/do.rst
