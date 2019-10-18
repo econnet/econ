@@ -2,11 +2,20 @@
 .. vim: syntax=rst
 
 
+####
+ECON
+####
+
+
+.. _`pmotivationseconomicinequality`:
+
 ********************************
 Motivations: Economic Inequality
 ********************************
 
-Original version was a `blog`_.
+The original version was a `blog`_.
+
+.. _`psummary`:
 
 Summary
 =======
@@ -29,6 +38,8 @@ Summary
 - Cooperation is healthier than competition
 - Openly share result to avoid the need to repeat the effort
 - Technological evolution needs workers to have money to follow their interest not rich tycoons
+
+.. _`peconomyofemotions`:
 
 Economy of Emotions
 ===================
@@ -60,7 +71,7 @@ These algorithms are encoded in the human genome.
 - We develop *anger* to prepare our body to defend resources
 - We become *sad* when we realize a resource is lost
 
-.. note:: Dependence on resources is the evolutionary cause of emotions.
+To summarize: Dependence on resources is the evolutionary cause of emotions.
 
 That emotions `long predate`_ the dawn of mankind is proven by
 
@@ -105,9 +116,10 @@ There are also emotional differences between humans:
   - environments where resources could be obtained alone lead to more competitiveness
   - environments where resources needed cooperation lead to more cooperativeness
 
-.. _`pf`:
+.. _`ppersonality`:
 
-:pf:
+Personality
+-----------
 
 As a result we can classify two `stereotypes`_
 with every shade in between:
@@ -115,8 +127,8 @@ with every shade in between:
 - those who are interested in things (more `introvert`_) and
 - those who are interested in people (more `extrovert`_)
 
-Because extrovert evolutionarily got his resources indirectly,
-the extrovert will likely
+Because extroverts evolutionarily got their resources indirectly,
+they will likely
 
 - pay attention to what the others want, think or believe and
 - behave accordingly
@@ -124,15 +136,13 @@ the extrovert will likely
 - accept a hierarchy
 - try to get a better place in the hierarchy
 
+Introverts will
 
-The introvert will
-
-- spend less time in `social grooming`_,
-- because his time is consumed with learning new things.
-- He teams up with people of the same interest and
-- will see other off-topic grooming more as a nuisance or insincere.
-- He will not like hierarchies, especially none above,
-  because they take away his freedom to explore new things.
+- spend less time in `social grooming`_, because their time is consumed with learning new things.
+- team up with people of the same interest and
+- see other off-topic grooming more as a nuisance or insincere.
+- don't like hierarchies, especially none above,
+  because they take away their freedom to explore new things.
 
 Human emotional peculiarities were shaped in the long
 `prehistory`_ of small groups more then in the short written `history`_.
@@ -150,12 +160,10 @@ Those who didn't have these emotions do not exist any more.
 The lack of respect leads to destructive behavior of individuals or groups,
 which can become disruptive or destructive for larger social systems.
 
+.. _`plegalcompany`:
+
 Legal Company
 =============
-
-.. _`pr`:
-
-:pr:
 
 A company as a `legal entity`_ is no such natural company.
 It rather can be compared to an **interface** in programming.
@@ -169,7 +177,6 @@ The `entity`_ as a separate unit
 - is legally responsible for them,
 - economically spends and earns and
 - is taxable for the profit
-
 
 `Legal entity types`_ provide useful constructs for people working together,
 
@@ -194,6 +201,8 @@ The owners
 
 Owner vs employee inequality obviously produces also distribution inequality.
 
+.. _`pownership`:
+
 Ownership
 =========
 
@@ -203,8 +212,8 @@ This `territorial claim`_ we share with other animal.
 
 Because of the importance of property in human history,
 society has developed special protection for it.
-An owner can therefore sit back and
-do without constant emotional stress to defend his claim.
+Owners can therefore sit back and
+do without constant emotional stress to defend their claim.
 
 When people started to rely on farming,
 land became an essential resource
@@ -229,9 +238,10 @@ the cooperation of people.
 To improve distribution of wealth
 one must aim at a fair distribution of company ownership.
 
-.. _`pj`:
+.. _`pnoshares`:
 
-:pj:
+No Shares
+---------
 
 To own `shares`_ of other companies is possible,
 but even `public float`_ is in principle nothing else
@@ -244,32 +254,43 @@ than a direct owner of the `corporation`_.
 The problem leading to inequality is not that `companies are owned`_,
 but that they are not sharedly owned by those working there, the employees.
 
-The corporation is legally obliged to maximize profit for the owner(s),
+The company is legally obliged to maximize profit for the owner(s),
 this conflicts with maximizing the profit of the employee
 and is a legal unfairness.
 
-.. admonition:: Maximizing Profit
+One should not hold a share on one's own cooperation
+and not of the cooperation of others.
 
-   In principle, there is nothing wrong with `profit maximization`_.
-   Partners expect each other to work together towards this goal.
-   So do shareholders.
+.. _`pmaximizingprofit`:
 
-   The problem are the employees,
-   as they do not help each other to maximize their profit.
-   Even the opposite:
-   There is a pressure on wages to increase the profit of the owners.
+Maximizing Profit
+-----------------
 
-   By law, the employee is controlled by the employer.
-   Because the majority of people are employees and cannot take part in the profit maximization,
-   employment produces inequality.
+In principle, there is nothing wrong with `profit maximization`_.
+Partners expect each other to work together towards this goal.
+So do shareholders.
 
-   To improve their lives, i.e. maximize their profit, 
-   employees need to become owners of their work, of their cooperation.
+The problem are the employees,
+as they do not help each other to maximize their profit.
+Even the opposite:
+There is a pressure on wages to increase the profit of the owners.
+
+By law, the employee is controlled by the employer.
+Because the majority of people are employees and cannot take part in the profit maximization,
+employment produces inequality.
+
+To improve their lives, i.e. maximize their profit, 
+employees need to become owners of their work, of their cooperation.
+
+.. _`pnoworkfortherich`:
+
+No Work for the Rich
+--------------------
 
 The idea that work is a product like any other, that you can buy,
-might be OK for `physics work`_,
-but when people work together for a longer time,
-they organize and create value beyond lifting a weight.
+
+- might be OK for `physics work`_ (and according jobs)
+- but it is not OK for people creating value beyond lifting a weight
 
 Especially highly educated technical people should avoid employment,
 because they produce immense innovation, like `automation`_
@@ -281,76 +302,95 @@ It has done so already and will do more so in the future
 by orders of magnitude
 unless the employment relation is avoided.
 
-The employee is regarded as working or thinking machine, a slave.
+The employee is regarded as working or thinking machine, basically a slave.
 Seen from the `investor`_ or `owner`_,
 the `productivity`_ of slavery is high
 (slave = little cost = little input, but high value output).
-But overall the productivity is low:
+But overall the productivity is low.
 
-- With `public float`_ small shareholders waste time
-  gathering information about the company they hold a few shares of or they
-  delegate to `bullshit-jobs`_ in `managed`_ `funds`_.
+The economy is driven by demand, i.e. needs.
+Making one person super rich does not increase the demand,
+because a person's needs are more or less limited.
+Thus, from a macroeconomic viewpoint,
 
-- Majority `stock`_ holders or direct owners get too rich.
+- concentrating resources means `recession`_
+- distributing resources means `economic growth`_
 
 A super rich person does not live a million lives
 and does not have a million thoughts in every instant.
-So he spends the money only according to his very limited mind,
+The few super rich spend their money only according to their very limited mind,
 thus curbing economic evolution.
 
-A super rich person creates `bullshit-jobs`_
+The few super rich create `bullshit-jobs`_
 in the `finance industry`_, `management hierarchy`_
 and `legal industry`_
-to report to his bottleneck mind,
+to report to their bottleneck mind,
 which makes the overall `productivity`_ small again.
 
-The super rich is not at fault though.
+The super rich are not at fault though.
 Those who played along, without caring for fairness, are at fault.
-They renounced potentially much higher income to make somebody rich.
+They renounced potentially much higher income to make a few super rich.
 
 It is not a goal of the many, the economy,
-to be productive for an owner.
+to be productive for a few super rich people.
 This is only the goal of the few rich.
+
 The goal of the economy as a whole is
 to spread freedom to let choose according to individual `needs`_ and `interests`_.
 For this, workers need to be owners themselves,
 and not be the lackey of some super rich owner.
 
-.. admonition:: Freedom
+Real economy is also reduced with `shares`_:
 
-   A person with own thoughts needs
-   freedom for his own plans.
+- With `public float`_ small shareholders
 
-   Free choices are not possible without resouces,
-   without alternatives to choose from.
+  - waste time gathering information about the company they hold a few shares of or
+  - delegate to `bullshit-jobs`_ in `managed`_ `funds`_.
 
-   Freedom needs both:
+- Majority `stock`_ holders or direct owners get too rich.
 
-   - `free will`_ and
-   - `freedom of choice`_.
+.. _`pfreedom`:
 
-   It is `extortion`_, if `economic value`_
-   cannot be obtained by `free will`_,
-   but only under an employer's `commands`_.
+Freedom
+-------
 
-   Then the employee does not get
-   its fair share of the actual `value of a company`_
-   and thus renounces `freedom of choice`_.
+A person with own thoughts needs freedom for own plans.
 
-   One has effectively become a slave, if one has no alternatives
-   that make a difference in the pursuit of one's `self-interest`_.
+Free choices are not possible without resouces,
+without alternatives to choose from.
+Free choice depends on money.
 
-   Concentration of wealth is a *vicious circle* that
-   sucks away freedom from the majority.
+Freedom needs both:
+
+- `free will`_ and
+- `freedom of choice`_.
+
+It is `extortion`_, if `economic value`_
+cannot be obtained by `free will`_,
+but only under an employer's `commands`_.
+
+The employee does not get
+its fair share of the actual `value of a company`_
+and thus renounces `freedom of choice`_.
+
+One has effectively become a slave, if one has no alternatives
+that make a difference in the pursuit of one's `self-interest`_.
+
+Concentration of wealth is a *vicious circle* that
+sucks away freedom from the majority.
+
+.. _`pimportanceoffairness`:
 
 Importance of Fairness
 ======================
 
-.. _`p1`:
-
-:p1:
-
-Worker ownership brings democracy into the companies.
+Humans did well on this planet.
+But now there are so many of us,
+that we are driven to optimize wherever possible.
+We can no more take a piece soil and plough,
+or go hunting in the woods.
+There is much effort or high financial investment needed
+to reach ownership to keep away competition.
 
 Because one or a few decide over others,
 currently companies resemble
@@ -358,6 +398,9 @@ currently companies resemble
 - `dictatorship`_
 - `centrally planned economy`_ like in `communism`_
 
+Being more by number, workers don't need to agree on such terms.
+They can establish a democracy.
+Worker ownership brings democracy into the companies.
 
 But also with `workplace democracy`_ inequality still can creep in.
 
@@ -367,28 +410,28 @@ The majority of society should be able to agree on it
 as a common `ethical value`_,
 unless they agree to be treated badly,
 which would mean that the majority lacks self-esteem.
+
 Mass lack of self-esteem can happen and maybe is actually the case
-due to an authoritarian educational system with a central figure (the teacher)
-dominating the first quarter of our lives,
-with continuation in the work place.
+due to an `authoritarian`_ educational system, in which
 
-.. admonition:: ethical values
+- students are squashed into a class,
+- dominated the first quarter of their lives by central figures (the teachers)
+- with continuation in the work place.
 
-    Legacy ethics is in many ways mislead.
-    Values can have religious reasons,
-    or be supported simply out of tradition.
-    Even if well thought through, who is to decide, what is right or wrong?
-    One better keeps out of value discussions without relevance.
-    And especially one needs to refrain
-    from discriminating based on values in interactions
-    where those values have no importance.
+Legacy ethics is in many ways mislead.
+Values can have religious reasons,
+or be supported simply out of tradition.
+Even if well thought through, who is to decide, what is right or wrong?
+One better keeps out of value discussions without relevance.
+And especially one needs to refrain
+from discriminating based on values in interactions
+where those values have no importance.
+But resource distribution is of relevance.
 
 Fairness is local to a cooperation, because it is associated with **information**.
 One needs to **demand information** to be able to judge fairness.
 
-.. admonition:: Information
-
-   Hiding information is the major means of exploitation.
+Hiding information is the major means of exploitation.
 
 Being political is a necessity.
 
@@ -401,7 +444,7 @@ When working together one cannot split
 
 We are still animals, but animals with a intellect,
 that can design and commit to a social structure
-other than `alpha, beta, omega`_,
+other than `alpha, beta and omega`_,
 also because `communication`_ has become more flexible.
 
 To overcome a subjective feeling of fairness
@@ -409,12 +452,6 @@ one needs to compromise on a metric.
 As is common with measuring, as hard as one tries,
 there will always be an error.
 Accordingly there will never be perfect fairness.
-
-.. admonition:: Fairness Control
-
-    Every company needs to have a **fairness control system** in place.
-    This means opening up information about resource distribution.
-    Without such system, one must not work for the company, but compete with it.
 
 The sum of everybody demanding fairness in their local contexts (`microeconomy`_),
 produces more equality, also globally (`macroeconomy`_), e.g. in a country.
@@ -427,14 +464,6 @@ The problem, though, is
 to make enough people aware of their `marginal`_ importance in reducing inequality.
 Economies, where enough people exit unfair companies, do better,
 because a fairer distribution makes an economy grow.
-
-The economy is driven by demand, i.e. needs.
-Making one person super rich does not increase the demand,
-because a person's needs are more or less limited.
-Thus, from a macroeconomic viewpoint,
-
-- concentrating resources means `recession`_
-- distributing resources means `economic growth`_
 
 **Distributing wealth** also
 
@@ -483,59 +512,10 @@ Instead one needs to counteract every local `inequality`_.
 Inequality is a world problem,
 not of countries existing due to historical coincidences.
 
-Fairness Development
---------------------
-
-.. _`pa`:
-
-:pa:
-
-Fairness is a development like every other.
-Fairness needs to be
-
-- planned, done and tested (`pdt`_) or needs
-- legislative, executive and judicial power, if delegated
-  (`separation of powers`_)
-
-Fairness development is not specific to a product.
-So it is placed in a separate repo (e.g. this repo)
-to make it reusable for more product developments.
-
-Members of a product team
-
-- test the rules
-- can propose changes
-
-If accepted by vote, the changed plan becomes the new plan,
-first locally and, if forwarded, also in the upstream fairness repo.
-
-This is direct legislation.
-The planning of the fairness can also be delegated to a *legislative* power.
-
-Practicing fairness in a product team is the direct execution.
-One could have an `ombudsman`_ as a delegated *executive* power.
-But with direct access to the fairness repo for feedback, it should not be necessary.
-
-With the fairness repo conflicts can be resolved with basic principles
-instead of opportunistically improvised arguments.
-Conflicts can be resolved directly or mediated through a *judicial* power.
-
-For a small team open information (work share, financial)
-allows everyone to check the fairness.
-
-Organization is done per product.
-For a larger products the organization is larger.
-The associated larger fairness effort motivates delegation.
-Since the fairness is not related to a product,
-a separate organization can do fairness checks (`audit`_).
-
+.. _`pemploymentdisadvantages`:
 
 Employment Disadvantages
 ========================
-
-.. _`p9`:
-
-:p9:
 
 - Owner vs employees produces `inequality`_.
 
@@ -569,9 +549,14 @@ internal and in market position.
 The ownership of many `legal entity types`_ is established at the beginning
 with no change during the growth of a company.
 Every new employee's contribution to the value of the company
-(profit per employee, intellectual property, structural value,...)
-is claimed by the same owners,
-basically all accumulated `economic value`_ of the company.
+is claimed by the same owners:
+
+- profit per employee
+- intellectual property
+- structural value (internal and market)
+- ...
+
+Basically all accumulated `economic value`_ of the company is claimed by the same owners.
 
 Wealth `grows exponentially`_
 by averaging `compound interest`_ (stochastic model: `geometric brownian motion`_).
@@ -584,17 +569,15 @@ settle on a level to be just enough, to make a living.
 An employee is compensated via `wages`_ determined by the separate `labor market`_
 instead of according to the profit in the product market.
 
-- Price of labor (wage) does not reflect profit.
+- Price of labor (wage) does not reflect value of labor (profit).
 
 Without a say in the company via ownership, wages can basically only be influenced via `strikes`_.
 The owner has more possibilities in an `imperfect competition`_,
 the simplest being to `increase the price`_, which has the extra profit,
 that the ensuing `inflation`_ is not immediately reflected in the `wages`_.
 
-`Employment`_ is a cooperation with only a few winners and many losers.
-
 - Employees cannot `maximize profit`_, while the company can.
-- Employees create the company profit, but an owner might still think, he pays the wages.
+- Employees create the company profit, but an owner might still think, s/he pays the wages.
 - Employees create the company's links to the economy, but lose them all at once when leaving.
 - Employees cannot decide for themselves, even if they know better.
 - Employees cannot organize their environment according to their needs,
@@ -605,7 +588,7 @@ that the ensuing `inflation`_ is not immediately reflected in the `wages`_.
 - Employees sell their full time for an unfair price as if they had no goals of their own.
   They give up their personal development.
 - Employees are unprotected against the many causes of loosing their job, their work investment.
-- The dependent work without rights is coercing an employee to obey.
+- The dependent work without rights is coercion of an employee to obey.
 - Employment is `coercive`_ and conflicts with the `Universal Declaration of Human Rights`_:
 
   | ... equal in dignity and rights.
@@ -614,7 +597,7 @@ that the ensuing `inflation`_ is not immediately reflected in the `wages`_.
   | ... right to own property
   | No one shall be subject to ... degrading treatment ...
 
-- Employment is not an evolutionary context. Employees cannot decide
+- Employment does not create an evolutionary context. Employees cannot decide
 
   - what to offer (what work to do)
   - for what price (what pay)
@@ -622,51 +605,55 @@ that the ensuing `inflation`_ is not immediately reflected in the `wages`_.
   There would need to be an internal market with free decision making.
   Market encapsulations do make sense, because they reduce the `selection cost`_.
 
-If an employee voluntarily or involuntarily leaves a company he helped build,
-he loses the `value of the company`_, especially its market position.
-The `owner`_ role protects him against such losses.
+- If employees voluntarily or involuntarily leave a company they helped build,
+  they loses the `value of the company`_, especially its market position.
+  The `owner`_ role protects against such losses.
 
-.. admonition:: Employees are the losers.
+`Employment`_ is a cooperation with only a few winners and many losers.
+If you take a job, the employer wins, you lose.
+Shouldn't you better `hide`_ from employment?
+One can hide from employment, if one is able to
 
-   If you take a job, the employer wins, you lose.
-   Shouldn't you better `hide`_ from employment?
-   It is a question of organizing alternatives.
+- think of alternatives and
+- offer alternatives
 
-.. admonition:: Technology and science people psychology
+Tech people
+-----------
 
-   Tech people on the average are people
-   that are more interested in things, called introverts above.
-   They don't like hierarchy and have
-   a hard time accepting the owner vs employee `discrimination`_.
+Tech people on the average are people
+that are more interested in things (|ppersonality|).
+They don't like hierarchy and have
+a hard time accepting the owner vs employee `discrimination`_.
 
-   The manager should be
+Tech people don't like to be chosen on a `labor market`_,
+but prefer to choose tech systems to work on.
 
-   - a highly skilled technical guy himself and
-   - wise and empathetic enough not to remind the hierarchy
+A power hierarchy leads to
 
-   A power hierarchy leads to
+- `intra-group`_ competition for higher and more profitable roles or
+- power-based instead of knowledge-based decisions
 
-   - `intra-group`_ competition for higher and more profitable roles or
-   - power-based instead of knowledge-based decisions
+This is `occupational stress`_ to tech people.
 
-   This is `occupational stress`_ to tech people.
+If tech people own their cooperation, the resulting `meritocracy`_
+produces a better feedback
 
-   If the tech people own their cooperation, the resulting `meritocracy`_
-   produces a better feedback
+- not only via resources, but also
+- via mutual appreciation, resulting in better `self-esteem`_
 
-   - not only via resources, but also
-   - via mutual appreciation, resulting in better `self-esteem`_
+Costly `employment turnover`_ is avoided,
+as ownership binds people to the company
+and secures tech people's links to the market.
 
-   Costly `employment turnover`_ is avoided,
-   as ownership binds people to the company
-   and secures their links to the market.
+A tech coordinator should be
 
-Jurisdiction's Negligence
-=========================
+- a highly skilled technical guy himself and
+- wise and empathetic enough not insinuate hierarchy
 
-.. _`p7`:
+.. _`pamorallaw`:
 
-:p7:
+Amoral Law
+==========
 
 Laws are historically grown rules
 which mix the goals and ideas of many but especially rich people.
@@ -680,8 +667,6 @@ In our context `immoral`_ is
 It is immoral to own the cooperation of people,
 *Those cooperating hold a share of the cooperation*, simply by logic.
 Employment is immoral.
-
-.. note:: Those cooperating hold a share of the cooperation.
 
 `Inequality`_ in general is immoral, as those with no wealth must work for the wealthy.
 
@@ -712,12 +697,13 @@ Since schools are mostly state-controlled,
 they do not prepare to think politically and economically,
 leaving them quite exposed to exploitation.
 
-A slave becomes a respectable person, an economic `entity`_ instead of a economic resource,
+A slave becomes a respectable person,
+an economic `entity`_ instead of a economic resource,
 
-- if his will counts
-- if he can make economic decisions beyond taking/changing jobs a few times in live
-- and can get most of his needs satisfied
-- with light out-of-interest work investments
+- if his/her will counts
+- if s/he can make economic decisions beyond taking/changing jobs a few times in live
+- and can get most of his/her needs satisfied
+- with minimal out-of-interest work investments
 - leaving enough time for work investment in the area of interest
 
 Jurisdictions do not prevent a slave from becoming an
@@ -753,61 +739,20 @@ By `regulations`_ one would have an immediate impact.
 Jurisdictions do not demand equality,
 but they do also not forbid it.
 
-.. note:: basic income
-
-   `Social security`_ providing a `basic income`_ through `redistribution`_
-   allows people to avoid unfair contracts
-   and thus indirectly helps to spread and maintain fair cooperation.
-   It is also needed due to `automation taking over`_.
+`Social security`_ providing a `basic income`_ through `redistribution`_
+allows people to avoid unfair contracts
+and thus indirectly helps to spread and maintain fair cooperation.
+It is also needed due to `automation taking over`_.
 
 Jurisdictions should make structural change
 that have a direct distribution effect,
 like abandoning the concept of employment,
 instead of only through taxes and `redistribution`_.
 
-Financing
-=========
-
-.. _`p4`:
-
-:p4:
-
-Many tech cooperations do not need much more than a computer
-and that should stay with the personal entity and not be owned by a
-cooperation entity.
-The cooperation entity only needs to own what is needed
-to fulfill its function.
-
-Smaller expenses can be financed from the owners.
-
-Huge efforts and expensive infrastructure
-
-- can be avoided by `outsourcing`_ productions
-- can be a separate `mutual`_ or `cooperative`_
-- can be `open development`_ through a large enough community
-
-`Debt`_ (e.g. via `bonds`_) can be used for `leverage`_.
-This is better than external shares,
-i.e. becoming a `public company`_,
-as one should hold a share on one's own cooperations
-and not of the cooperation of others.
-
-A `cooperative`_ or `mutual`_ are good `legal entity type`_ `choices`_,
-as they cannot be sold as one entity.
-
-Funding via selling shares would give a way ownership.
-Ownership should stay with those cooperating.
-
-After some time in an ownership network,
-nodes that one contributed to and one thus sharedly owns
-should produce enough profit not to depend on external financing any more.
+.. _`pcontinuity`:
 
 Continuity
 ==========
-
-.. _`po`:
-
-:po:
 
 The tension in the company-employee relationship produces `employment turnover`_
 which produces discontinuity
@@ -822,11 +767,8 @@ If one changes company there is a high chance
 
 - not to work in the field of one's previous expertise any more
 - the product left behind will be maintained by people with little knowledge about it
-- the economic network of the old company is lost
 
-.. admonition:: Continuity
-
-   `Evolution`_ of complex systems need continuity as a foundation to build upon.
+`Evolution`_ of complex systems need continuity as a foundation to build upon.
 
 In a technological advanced economy,
 complex systems are built and maintained.
@@ -834,7 +776,7 @@ This demands continuity to develop actual improvements of components
 instead of random alterations from every new employee working on it.
 Even a new approach is better done by someone that has experienced all the shortcomings.
 
-Advantages of ownership are:
+Worker ownership brings more continuity.
 
 - Having none of the `employment disadvantages`_
 - Influence on company decisions relevant for all members
@@ -844,7 +786,7 @@ Advantages of ownership are:
 - The expertise stays valuable
 - The product gets a continuous development
 - Income can be increased by offering to more clients
-- More companies and better distribution of company ownership and wealth
+- More companies and better distribution of wealth
 - Better income and more time produces a feedback to the actual genes
   (more attractive to the other sex, better care for offspring, ...)
 - No power hierarchy, no courting a boss, ...
@@ -853,30 +795,24 @@ Advantages of ownership are:
 
 There must never be someone with to much power, too much wealth, too much leverage.
 
-Especially a young person should become aware of his interests
-and develop in that direction without ever letting anybody distract.
-If he wants to decide over his actions, employment is no option,
-even if it is in the field of his interest.
+Especially young people should become aware of their interests
+and develop in that direction without ever letting anybody distract them.
+If people want to decide over their actions,
+employment is not an option,
+even if it is in the field of interest.
 
 A problem is, though, that young people do not know yet.
 So they are easily exploited by companies.
 
-The reason is the educational system:
+The educational system does not teach students to be political and care about fairness.
 
-- It is `authoritarian`_: students need to obey
-- It does not listen to students
-- Students cannot develop in a self-determined, independent way
-- Students are not taught to care and to be political
+.. _`popendevelopment`:
 
-Open Cooperation
+Open Development
 ================
 
-.. _`p2`:
-
-:p2:
-
 Everyone wants an easy life,
-but it often made harder than necessary,
+but it is often made harder than necessary,
 through competition instead of cooperation.
 
 Cooperation means that everyone interacting makes the other's life easy.
@@ -889,7 +825,7 @@ By choice: I interact with people that make my life easier.
 I make their life easier, too.
 
 From cooperation follows a better distribution of effort and reward.
-Technically, easier needs to be defined and involves measuring and recording.
+Technically, "easier" needs to be defined and involves measuring and recording.
 
 Information sharing produces fairness.
 
@@ -900,68 +836,85 @@ Information is
 
 Opening up information is an easy way to make each other's life easier.
 
-This also includes hardware.
+It is only a question of organizing the profit distribution,
+e.g. via licence or effort recording in the same repo.
+If the information is a byproduct of one's profitable work,
+because one needs to write things down anyway,
+there is no extra effort in sharing,
+and therefore no need for all the useless effort going into agreeing on a price.
+
+.. _`pcomplexsystems`:
+
+Complex Systems
+---------------
+
+`Open development`_ originates from software, which
+
+- consists of pure information
+- is complex
+
+But all technical systems build on information.
+
 Hardware should first be simulated,
 but definitely also needs physical prototyping and testing effort.
-This is considerable effort that should not need to be repeated.
+This is considerable effort that should not need to be repeated,
+which can be easily avoided by sharing information.
 
-Development is done by a central repo accessible to everybody.
+Many complex systems are still hidden.
+This `protectionism`_ is stifling cooperation just like it does between countries.
 
-Outside people can build on existing product development effort.
-Their contributions makes them automatically owners of the product.
+Complex systems need a lot of effort.
+So reducing the competition to the level of the final product should be an exception.
 
-Construction and marketing is part of the product effort
-and is recorded in the central repo,
-whether done by the original members or the newcomers.
+An alternative to a company owning a complex system is to use `open development`_:
+the complex system is open source and one offers work on it as a service.
 
-Sales are forwarded according ownership,
-which includes also development and testing effort.
+The costs to develop a complex systems alone are prohibitive.
+The consumer will not want to pay the effort more times.
+This demands for cooperation on all levels.
+Complex systems are better not owned.
 
-If somebody constructs the product for oneself without selling,
-that one has the construction cost only.
-But this normally will be higher than buying the mass produced device.
+Because `open development`_ is less effort,
+those who start will force others to follow to stay competitive.
 
-If building the product is cheap, as for software,
-then software is not the product,
-but the know how to modify and improve the software.
+There can be economic relationships of servicing on the complex system instead.
+Many small detailed technical contributions have no market to agree on a price, though.
+So there will be many individual contributions everybody can profit from.
+Also those who contribute will get a return of investment
 
-Changes in the central repo might not be accepted in
-by the existing developers, e.g. out of differing technical opinions.
-Then the contributors can fork the product.
-Forking must keep all the records of previous relevant work.
-Income from sales are forwarded to owners on every fork.
+- by the contributions of others
+- by the right to use the system
 
-Existing economic links cannot be forked as easily as a product.
-Still, existing owners need to have a good reason not to accept a contribution,
-because
+Cooperation is made easy through the internet
+via services like `github`_, `gitlab`_, `bitbucket`_, `sourceforge`_ for development.
+Also for production there are local and global services (`3d`_, `pcb`_, ...).
 
-- well motivated product forking might also drag along the economic links
-- product forks
+Benefits of `open development`_ are many, but can be summarized by
 
-  - increase effort
-  - decrease profit
+- *information sharing is easy and reduces effort*
 
-Benefits of openness:
+More detailed:
 
-- People from the outside economy can join the/a product development easily
-
+- Sharing information means overall less effort and thus also less energy waste and less footprint.
+- Open source lowers the threshold to enter the market of complex products
+- produces supply better fitting the demand
+  (big companies cannot react to `niche`_ needs)
+- removes the dominance of big companies, which stand for inequality
+- creates a community of cooperating equals
+- requires less communication
+- more developer independence
+- creates freedom and continuity for the product and the developer
+- speeds up technological evolution as a whole
 - If joining due to technical interest, this interest can be developed,
   because the invested time is payed
-
-- New different products can benefit from existing produts
-
-- Investment into research can be valuable for different produts,
+- New different products can benefit from existing products
+- Investment into research can be valuable for different products,
   even if the product turns out not yet feasible with existing technology
-
-- Technical development becomes faster (less burocracy, less reinvention)
-
-- Cooperation is less effort and thus also less energy waste and less footprint.
-
 - Cooperation produces cheaper and better products.
-
 - Appreciation for contribution is rewarding while unfair competition is frustrating.
-
-- Cooperative competition solutions are different solutions allowing to select the best solution
+- Cooperatively competing solutions are different solutions allowing to select the best solution
+- fairer distribution of wealth
+- crowd sourcing, many little contributions add up
 
 - Customers do get
 
@@ -972,69 +925,132 @@ Benefits of openness:
   - can maintain the product for oneself
     even if the community abandons it
 
-.. note:: Danger of Hype Product
+.. _`phypeproduct`:
 
-   A tech product with almost full `market coverage`_
-   
-   - on the one hand is good, as a `standardization`_,
-     as a foundation for new development
-   
-   - but only if NOT CONTROLLED by one company,
-     as that is a `monopoly`_,
-     and produces `inequality`_.
-   
-   `Hype product`_ is not a problem if it was produced
-   
-   - through `open development`_ and
-   - the top cooperation entity distributes the profit
-     through a hierarchy of sharedly owned sub-entities
-   
-   `Windows`_ became a hype product via the `PC`_ revolution
-   and produced an amazing amount of inequality.
-   `Gnu/Linux`_, on the other hand,
-   is a moneyless trade of contributions,
-   but innumerous companies earn good money using it in their products.
-   It produces less inequality and more freedom:
-   without a `lock in`_ and the possibility of own adaptations.
-   
-   In the future, `automation`_ will enter the mass market.
-   As an extreme case imagine a robot that can take over most work,
-   cheaper than humans.
-   This demands for `open hardware`_ and software,
-   else we all become locked in to one company,
-   as the complexity does not allow for competition.
-   
-   Many companies servicing the open automation infrastructure
-   
-   - make automation faster
-   - can also better raise money for a `basic income`_
-     to distribute resources with other means than work,
-     as work is automated away.
+Hype Product
+------------
+
+A tech product with almost full `market coverage`_
+
+- on the one hand is good, as a `standardization`_,
+  as a foundation for new development
+
+- but only if NOT CONTROLLED by one company,
+  as that is a `monopoly`_,
+  and produces `inequality`_.
+
+`Hype product`_ is not a problem if produced
+
+- through `open development`_
+- with profit distribution
+
+E.g., `Windows`_ became a hype product via the `PC`_ revolution
+and produced an amazing amount of inequality.
+`Gnu/Linux`_, on the other hand,
+is a moneyless trade of contributions,
+but innumerous companies earn good money using it in their products.
+It produces less inequality and more freedom:
+without a `lock in`_ and the possibility of own adaptations.
+
+In the future, `automation`_ will enter the mass market.
+As an extreme case imagine a robot that can take over most work,
+cheaper than humans.
+This demands for `open hardware`_ and software,
+else we all become locked in to one company,
+as the complexity does not allow for competition.
+
+Many companies servicing an open automation infrastructure
+
+- make automation faster
+- can also better raise money for a `basic income`_
+  as work is automated away
 
 
+.. _`pplan`:
+
+****
 Plan
-====
+****
 
-.. _`pv`:
+.. _`pproduct`:
 
-:pv: |pf|
+Product
+=======
 
-Tech people are interested in the thing.
-Organize around a product:
-
-- `legal entity`_ per product
+Concentrate on the content, i.e. the technology (|continuity|, |ppersonality|).
+Profit follows, because profit distribution is based on contribution.
+This makes technological development more continuous and faster.
 
 The product does not need to be a new product.
 An existing market is valuable for planning.
+
+Develop the product openly,
+so that tech people can explore and learn from it.
+(|pcontinuity|, |popendevelopment|, |ppersonality|)
 
 A new open development method
 
 - can make a difference on the market
 - can open new directions for the product
 
-.. _`pv`:
+Organize around a product: `legal entity`_ per product.
 
-:pv: |p1| |pj|
+
+.. _`ppeople`:
+
+People
+======
+
+Don't use employment (|pimportanceoffairness|, |pemploymentdisadvantages|)
+
+|ppersonality|:
+
+Tech people are interested in tech things.
+They work for the product not the `legal entity`_.
+
+Extroverts mediate a network around the product:
+recruiting, marketing, mediation, social grooming.
+
+|pimportanceoffairness|:
+
+Don't designate a boss.
+
+Decisions are made by
+
+#. those having the information
+#. those concerned
+
+Use mediators for conflicts.
+
+Argument for a decision in a written form.
+
+.. _`pcontrol`:
+
+Control
+=======
+
+Motivated by: |plegalcompany|, |pnoshares|, |pnoworkfortherich|
+
+Don't link profit nor control with the `legal entity`_.
+The `legal entity`_ is only interface (an address)
+
+- for the government
+- for the market
+
+Contributors secure control over the `legal entity`_
+
+- by contract or
+- by choosing a `legal entity type`_ giving control to the members
+
+A `cooperative`_ or `mutual`_ are good `legal entity type`_ `choices`_,
+as they cannot be sold as one entity.
+
+.. _`pprofit`:
+
+Profit
+======
+
+Motivate by: |pimportanceoffairness|, |pnoshares|, |pnoworkfortherich|
 
 Link profit with work via content, i.e. product contributions.
 
@@ -1051,14 +1067,19 @@ Prefer measures of contribution not related to time
 - Reusable content, also in other products,
   becomes more valuable for the contributor.
 
-.. _`p0`:
+.. _`pinformation`:
 
-:p0: |p1|
+Information
+===========
+
+Motivated by: efficiency, |pimportanceoffairness|
+
+Keep written records.
 
 Provide information
 
-- in a written form
-- with URLs
+- in a **written** form
+- with **URLs**
 - over an IT network
 
 to
@@ -1069,94 +1090,84 @@ to
 - link information
 - allow recording of effort
 
-.. _`pe`:
+.. _`pfinance`:
 
-:pe: |po|
+Financing
+=========
 
-Concentrate on the content, i.e. the technology.
+Tech product development does not need much more than a computer
+and that should be owned by the person.
 
-Profit follows,
-because profit distribution is based on contribution.
+Smaller expenses can be financed from the owners.
 
-This makes technological development more continuous and faster.
+Huge efforts and expensive infrastructure
 
-.. _`pp`:
+- can be avoided by `outsourcing`_ productions
+- can be a separate `mutual`_ or `cooperative`_
+- can be `open development`_ through a large enough community
 
-:pp: |pf|
+Instead of `stock`_,
+use `bonds`_ or `donations`_ for financing.
+`Debt`_ can be used for `leverage`_.
 
-Introverts develop the product.
+After some time profit should remove dependence on external financing.
 
-Extroverts mediate a network around the product:
-recruiting, marketing, mediation, social grooming.
+.. _`pfairness`:
 
-.. _`pn`:
+Fairness Development
+====================
 
-:pn: |pr| |pj|
+Motivated by: |pimportanceoffairness|
 
-Don't link profit nor control with the `legal entity`_.
-The `legal entity`_ is only interface (an address)
+Fairness is a development like every other.
+Fairness needs
 
-- for the government
-- for the market
+- to be planned, done and tested (`pdt`_) or
+- legislative, executive and judicial power
+  (`separation of powers`_)
 
-.. _`pk`:
+Fairness development is not specific to a product.
+So it is placed in a separate repo (e.g. this repo)
+to make it reusable for more product developments.
 
-:pk: |pr| |pj|
+Members of a product team
 
-Contributors secure control over the `legal entity`_
+- test the rules
+- can propose changes
 
-- by contract or
-- by choosing a `legal entity type`_ giving control to the members (e.g. `cooperative`_)
+If accepted by vote, the changed plan becomes the new plan,
+first locally and, if forwarded, also in the upstream fairness repo.
 
-.. _`pq`:
+This is direct legislation.
+The planning of the fairness can also be delegated to a *legislative* power.
 
-:pq: |p4|
+Practicing fairness in a product team is the direct execution.
+One could have an `ombudsman`_ as a delegated *executive* power.
+But with direct access to the fairness repo for feedback, it should not be necessary.
 
-Don't finance via `stock`_.
+With the fairness repo conflicts can be resolved with basic principles
+instead of opportunistically improvised arguments.
+Conflicts can be resolved directly or mediated through a *judicial* power.
 
-.. _`pg`:
+Every company needs to have a **fairness control system** in place.
+This means opening up information about resource distribution.
+Without such system, one must not work for the company, but compete with it.
 
-:pg: |p1| |p9|
+For a small team open information (work share, financial)
+allows everyone to check the fairness.
 
-Don't use employment.
-
-.. _`ph`:
-
-:ph: |p1|
-
-Don't designate a boss.
-
-Decisions are made by
-
-#. those having the information
-#. those concerned
-
-Use mediators for conflicts.
-
-Argument for a decision in a written form.
-
-.. _`pu`:
-
-:pu: |p1| |pa|
-
-Spend effort on fairness.
-
-.. _`pb`:
-
-:pb: |po| |p2|
-
-Develop the product openly.
-
-.. _`pz`:
-
-:pz: |p7|
+Organization is done per product.
+For a larger products the organization is larger.
+The associated larger fairness effort motivates delegation.
+Since the fairness is not related to a product,
+a separate organization can do fairness checks (`audit`_).
 
 Make a better world
 by showing that fair cooperation
 can make a product more successful
 than the competition.
 
-Work cooperatively with
+Cooperate with
 the product competition
 if they agree on fair terms.
 
@@ -1246,6 +1257,8 @@ if they agree on fair terms.
 .. _`protectionism`: https://en.wikipedia.org/wiki/Protectionism
 .. _`gitlab`: https://about.gitlab.com/
 .. _`github`: https://github.com
+.. _`bitbucket`: https://bitbucket.org/product/
+.. _`sourceforge`: https://sourceforge.net/
 .. _`3d`: https://www.3dhubs.com/
 .. _`pcb`: https://oshpark.com/
 .. _`niche`: https://en.wikipedia.org/wiki/Niche_market
@@ -1357,7 +1370,7 @@ if they agree on fair terms.
 .. _`articles of association`: https://en.wikipedia.org/wiki/Articles_of_association
 .. _`umbrella organization`: https://en.wikipedia.org/wiki/Umbrella_organization
 .. _`communication`: https://en.wikipedia.org/wiki/Communication#Business
-.. _`alpha, beta, omega`: https://en.wikipedia.org/wiki/Alpha_(ethology)
+.. _`alpha, beta and omega`: https://en.wikipedia.org/wiki/Alpha_(ethology)
 .. _`investor`: https://en.wikipedia.org/wiki/Investor
 .. _`bullshit-jobs`: https://strikemag.org/bullshit-jobs/
 .. _`needs`: `Maslow pyramid`_

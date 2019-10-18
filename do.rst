@@ -6,10 +6,13 @@ Governance
 
 .. epigraph:: A society is not democratic unless in all interactions.
 
-.. _`doecon`:
+.. _`decon`:
 
-:econ:
-economic node, interaction node, work node
+Econ
+====
+
+econ
+  economic node, interaction node, work node
 
 The name *econ* stands for
 
@@ -63,19 +66,15 @@ siblings
     Sideward, nodes linked via contributors
 
 
-.. _`docontributor`:
+.. _`dcontributor`:
 
-:contributor:
+Contributor
+===========
 
-If one depends on a resource, one likes to control that resource.
-Society has developed the concept of ownership for that.
-Society protects ownership to avoid the stress of constant fights for the resource.
-This works well for things.
+**Contributors** to the product are
+the owners of the profit of the product.
 
-But the idea to control people means that some people get controlled.
-Controlling people is against the principle of equality.
-
-In an econ, owner is replaced by **contributor**
+Owner is replaced by **contributor**
 to avoid conflict with the existing legal definition.
 
 People engage in econs because of
@@ -92,22 +91,29 @@ People need to
 - map the product work parts to econs
 - create communication channels (repos, html sites, chat channels, ...)
 
-The formation effort is associated with the bottom econ.
-In the bottom econ
-
-- the product initiator and/or coordinator can record contributions
-- another member who recruits a new member can also record his effort there
+The formation effort is recorded to the whole product, 
+e.g. by product initiator and/or coordinator, recruiters.
 
 To integrate a contributor into the product development is effort.
-Contributions that are below the effort cannot be registered as official contributors.
+Micro-contributors contribute below this effort.
+Micro-contributors are not registered contributors
+and therefore not considered in the profit distribution.
 
-.. _`docontrol`:
+A product with only micro-contributors can do without profit distribution effort.
+
+.. _`dcontrol`:
+
+Control
+=======
+
+The idea of one person controlling one or more others is against the principle of equality.
 
 In an econ, control means decision making.
 Decisions need information.
 
 A general principle is: *Those decide that have most information*.
 E.g. developers decide about their parts in the product.
+
 If others are concerned, they are consulted and informed about the decision.
 
 If more are concerned, decisions are democratic, either
@@ -122,14 +128,15 @@ There is **no boss**, neither in an econ, nor in an econ lattice.
 Someone initiating or coordinating does not decide, but mediates an agreement.
 The less coordination needed, the better.
 
-There can be separate econs in the lattice that care about performance monitoring.
+There can be separate econs in the lattice that care about *performance monitoring*.
 Decisions from the gathered information are made by those concerned,
 which can be the whole econ lattice.
 
 
-.. _`dolegal`:
+.. _`dlegal`:
 
-:legal:
+Legal
+=====
 
 The econ rules are not specific to a government.
 They need to be compatible (legal) with all involved governments.
@@ -194,24 +201,28 @@ Concentrating the effort of government interaction to saves effort
 - not product specific and therefore
 - outside the `LE`_
 
-.. _`docontent`:
+.. _`dcontent`:
 
-:content:
+Content
+=======
 
 The product information is mapped to more repos according content encapsulation,
-with one being a special case.
+with one repo being a special case.
 
-- product governance (values, rules, monitoring, contracts, ...) (this repo)
-- product financing (expenses, income, `liabilities`_, ...)
-- product development (hardware, software, test, development docs, usage docs, license, ...)
-- product production (`SOP`_'s, `DMR`_, `DHF`_, ...)
-- product marketing
+- governance (values, rules, monitoring, contracts, ...) (this repo)
+- financing (expenses, income, `liabilities`_, ...)
+- development (hardware, software, test, development docs, usage docs, license, ...)
+- production (`SOP`_'s, `DMR`_, `DHF`_, ...)
+- marketing
 
 The product-related effort to create the content is called **tribute**.
 
 All repos have *tribute* information for the repo.
 The tribute records are stored with the content created,
 because the econ contract demands profit distribution proportional to tribute.
+
+Content Access
+--------------
 
 The *contributors* have access to all information.
 It allows them
@@ -228,12 +239,44 @@ The content is linked across repos.
 
 *Non-contributors*
 
-- get access to the development repo(s) according |infoopenness| value
+- get access to the development repo(s)
 - do not get access to information about the organization of the development
 
-.. _`doproduct`:
+Contributors does not only mean developers,
+but also those doing coordinating, bookkeeping, marketing, building, selling (not retail).
+A non-contributor becomes a contributor based on any of these activities.
 
-:product:
+The new contributor
+
+- needs to register
+- gets access to all product repos
+- needs to record the effort and/or profit in the repos
+
+All product-related actual financial flow goes via the
+bank account of the product `LE`_.
+
+.. _`dforking`:
+
+Forking
+-------
+
+Access may not mean direct access,
+because it would mean too much effort for the `LE`_
+to build trust to too many contributors.
+
+Access includes forking and creating pull requests.
+
+The `LE`_ needs to react timely to such pull requests.
+
+All pull requests get merged at least after mediation.
+If there is a conflict, e.g. out of differing technical opinions,
+a new product version with a new repo branch is created.
+
+
+.. _`dproduct`:
+
+Product
+=======
 
 An econ does not provide work as service to an outside company to produce a product
 without also profiting from the sales of the product.
@@ -275,9 +318,10 @@ If new people take over the development, their effort will produce income for th
 Previous developers will still get their profit share on relevant work (tribute).
 Previous developers can still check for fairness.
 
-.. _`dolicense`:
+.. _`dlicense`:
 
-:license:
+License
+=======
 
 The license cannot be GPL,
 because selling of the product demands profit distribution according tribute.
@@ -292,12 +336,15 @@ These efforts will not be considered in the product profit distribution,
 but simplifies the product profit distribution,
 because different products do not get linked by such common (software) infrastructure.
 
+.. _`dfinance`:
+
 Finance
 =======
 
-.. _`dowork`:
+.. _`dwork`:
 
-:work:
+Work
+====
 
 In the econ lattice there in no employment according outside economy,
 as a separate labor market produces inequality,
@@ -362,9 +409,10 @@ Automation is important
 - to keep the final product competitive and
 - to produce profit for contributors (to allow them to work on new products)
 
-.. _`dotribute`:
+.. _`dtribute`:
 
-:tribute:
+Tribute
+=======
 
 Tributes are internal records for product-related efforts.
 
@@ -439,9 +487,11 @@ Tributes can be
   but a price is probably hard to agree upon,
   since the actual value in the outside economy is unknown
 
-.. _`dofinancing`:
 
-:financing:
+.. _`dfinancing`:
+
+Financing
+=========
 
 The major costs for technical products are development.
 If developers can afford to wait for the revenue via sale of the finished product,
@@ -492,31 +542,36 @@ which register the financial flows in the repo,
 for everybody to check,
 with additional checks from specialized fairness checkers.
 
-.. _`doeconvalue`:
+.. _`deconvalue`:
 
-:econ value:
+Company Value
+=============
 
-The value of an econ lattice is
+The value of the `LE`_
 
 - the product econ lattice (internal structure)
-- the product work shares defining ownership on product sales (tributes)
+- the product tributes
 - the product customers (external structure)
+- assets
 
 There is no need to calculate the full value of an econ lattice,
 because it cannot be sold as a whole.
-An interested buyer would need to agree on a price for every contributor's tribute separately.
+An interested buyer would need to agree
+on a price for every contributor's tribute separately.
 
-The product developers can freely regroup for other products, also concurrently.
-The developers of a product cannot be bought without employing everybody,
-but that would mean control from the employer,
-which would reduce personal freedom and profit.
-It is unlikely that all people involved in the product development would agree to that.
+Even if a buyer would manage that,
+to employ the contributors with the expertise would even be harder.
 
-The customers cannot be bought other than through the owners of the product.
+The contributors can freely regroup for other products, also concurrently,
+which forms a network across products, i.e. across different `LE`_.
+Contributors are thus owners of more `LE`_,s.
 
-.. _`doprofit`:
+The customers cannot be bought other than through the product contributors.
 
-:profit:
+.. _`dprofit`:
+
+Profit
+======
 
 `LE`_ period: profit = income - expenses.
 
@@ -548,9 +603,10 @@ Every member helps each other to maximize their profit.
 This kind of profit maximization is morally good,
 unless it damages to the outside world.
 
-.. _`doadvances`:
+.. _`dadvances`:
 
-:advances:
+advances
+========
 
 Work
 
@@ -561,7 +617,7 @@ Work
 Profit advances constitute regular payments to owners, currently contributing or not,
 to allow them to use products of the outside economy already before revenue from sales of the product.
 
-The `LE`_ corresponding to a product accepts work shares as a pledge for profit advances.
+The `LE`_ corresponding to a product accepts tributes as a pledge for profit advances.
 
 Advances are
 
