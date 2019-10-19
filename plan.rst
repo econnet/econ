@@ -1,7 +1,6 @@
 .. encoding: utf-8
 .. vim: syntax=rst
 
-
 ####
 ECON
 ####
@@ -20,24 +19,77 @@ The original version was a `blog`_.
 Summary
 =======
 
-- Economic inequality is bad
+Economic inequality is bad
 
-  - for emotional health
-  - for social stability
-  - productivity
+- for emotional health
+- for social stability
+- productivity
 
-- The reasons for inequality are
+The reasons for inequality are
 
-  - **employment = inequality**, because labor is a separate market and not linked to profit
-  - power hierarchy, because abused for inequality
-  - information hiding, because fairness cannot be checked
+- employment, because labor is a separate market and not linked to profit
+- power hierarchy, because abused for inequality
+- information hiding, because fairness cannot be checked
 
-- If those making a product own its profit, work is linked to profit
-- Do all cooperation democratically and avoid a boss
-- Openly share how resources are distributed
-- Cooperation is healthier than competition
-- Openly share result to avoid the need to repeat the effort
-- Technological evolution needs workers to have money to follow their interest not rich tycoons
+If those making a product own its profit, work is linked to profit
+
+Below follows broad and deep argumentation
+
+- how things are but should not be
+- i.e. motivating to do things differently
+
+Here the results are summarized for the next
+`do <https://github.com/rpuntaie/econ/blob/master/do.rst>`_ step (`pdt`_).
+
+
+.. _`pproduct`:
+
+:pproduct: Base fair value-to-work mapping on the product (the market item).
+
+.. _`pexisting`:
+
+:pexisting: Also make products that have a market value (price) already.
+
+.. _`popen`:
+
+:popen: Use `open development`_ (|pcontinuity|, |popendevelopment|).
+
+.. _`pchoice`:
+
+:pchoice: Contributors choose to work on a product (|ppersonality|).
+
+.. _`powner`:
+
+:powner: Contributors become product owners (|pownership|, |pnoworkfortherich|).
+
+.. _`pinfo`:
+
+:pinfo: Information is written, with URL and open for efficiency and fairness (|pimportanceoffairness|).
+
+.. _`pnoboss`:
+
+:pnoboss: The product network has coordinators and mediators, but no boss (|pimportanceoffairness|).
+
+.. _`pnoemployment`:
+
+:pnoemployment: No separate labor market, no employment (|pimportanceoffairness|, |pemploymentdisadvantages|).
+
+.. _`pleproduct`:
+
+:pleproduct: One `legal entity`_ per product controlled by the contributors (|plegalcompany|).
+
+.. _`pnostock`:
+
+:pnostock: The `legal entity`_ does not use `stock`_ for financing the product effort (|pnoshares|).
+
+.. _`pprofit`:
+
+:pprofit: Product profit goes to the contributors (|pimportanceoffairness|).
+
+.. _`pfair`:
+
+:pfair: Effort is also spent on verifying fairness.
+
 
 .. _`peconomyofemotions`:
 
@@ -246,10 +298,6 @@ No Shares
 To own `shares`_ of other companies is possible,
 but even `public float`_ is in principle nothing else
 than a direct owner of the `corporation`_.
-
-- The owners or managers have control over the employees.
-
-- The owners or managers can maximize profit, the employees cannot.
 
 The problem leading to inequality is not that `companies are owned`_,
 but that they are not sharedly owned by those working there, the employees.
@@ -505,6 +553,11 @@ These are just the last stages of a long period of preceding suffering.
 The rich, though, don't experience the suffering and don't see it either.
 The initiative therefore can only come from those suffering.
 
+`Liberté-égalité-fraternité`_ is not just a slogan
+
+- it has relevant content (goal)
+- and tells that things were not that way.
+
 Considering the inertia of large systems,
 there is a point of no return, which one cannot detect.
 Instead one needs to counteract every local `inequality`_.
@@ -541,6 +594,11 @@ But then work force would move to the profitable business
 to level it again.
 This is normal healthy competition and not due to power hierarchy.
 
+- The owners have control over the employees.
+
+The idea of one person controlling one or more others
+is against the principle of `liberté-égalité-fraternité`_
+
 - Employees renounce the market value of an established company.
 
 The `value of a company`_ is to a big part of structural nature,
@@ -576,7 +634,7 @@ The owner has more possibilities in an `imperfect competition`_,
 the simplest being to `increase the price`_, which has the extra profit,
 that the ensuing `inflation`_ is not immediately reflected in the `wages`_.
 
-- Employees cannot `maximize profit`_, while the company can.
+- Employees cannot `maximize profit`_, while the company owners can.
 - Employees create the company profit, but an owner might still think, s/he pays the wages.
 - Employees create the company's links to the economy, but lose them all at once when leaving.
 - Employees cannot decide for themselves, even if they know better.
@@ -589,13 +647,17 @@ that the ensuing `inflation`_ is not immediately reflected in the `wages`_.
   They give up their personal development.
 - Employees are unprotected against the many causes of loosing their job, their work investment.
 - The dependent work without rights is coercion of an employee to obey.
-- Employment is `coercive`_ and conflicts with the `Universal Declaration of Human Rights`_:
+- Employment is `coercive`_ and conflicts 
+
+  - with the `Universal Declaration of Human Rights`_:
 
   | ... equal in dignity and rights.
   | ... should act towards one another in a spirit of brotherhood.
   | ... right to life, liberty and security of person
   | ... right to own property
   | No one shall be subject to ... degrading treatment ...
+
+  - as well as with `liberté-égalité-fraternité`_
 
 - Employment does not create an evolutionary context. Employees cannot decide
 
@@ -966,210 +1028,6 @@ Many companies servicing an open automation infrastructure
   as work is automated away
 
 
-.. _`pplan`:
-
-****
-Plan
-****
-
-.. _`pproduct`:
-
-Product
-=======
-
-Concentrate on the content, i.e. the technology (|continuity|, |ppersonality|).
-Profit follows, because profit distribution is based on contribution.
-This makes technological development more continuous and faster.
-
-The product does not need to be a new product.
-An existing market is valuable for planning.
-
-Develop the product openly,
-so that tech people can explore and learn from it.
-(|pcontinuity|, |popendevelopment|, |ppersonality|)
-
-A new open development method
-
-- can make a difference on the market
-- can open new directions for the product
-
-Organize around a product: `legal entity`_ per product.
-
-
-.. _`ppeople`:
-
-People
-======
-
-Don't use employment (|pimportanceoffairness|, |pemploymentdisadvantages|)
-
-|ppersonality|:
-
-Tech people are interested in tech things.
-They work for the product not the `legal entity`_.
-
-Extroverts mediate a network around the product:
-recruiting, marketing, mediation, social grooming.
-
-|pimportanceoffairness|:
-
-Don't designate a boss.
-
-Decisions are made by
-
-#. those having the information
-#. those concerned
-
-Use mediators for conflicts.
-
-Argument for a decision in a written form.
-
-.. _`pcontrol`:
-
-Control
-=======
-
-Motivated by: |plegalcompany|, |pnoshares|, |pnoworkfortherich|
-
-Don't link profit nor control with the `legal entity`_.
-The `legal entity`_ is only interface (an address)
-
-- for the government
-- for the market
-
-Contributors secure control over the `legal entity`_
-
-- by contract or
-- by choosing a `legal entity type`_ giving control to the members
-
-A `cooperative`_ or `mutual`_ are good `legal entity type`_ `choices`_,
-as they cannot be sold as one entity.
-
-.. _`pprofit`:
-
-Profit
-======
-
-Motivate by: |pimportanceoffairness|, |pnoshares|, |pnoworkfortherich|
-
-Link profit with work via content, i.e. product contributions.
-
-Record and provide access to information about
-
-- contribution effort
-- profit distribution proportional to contribution
-
-Prefer measures of contribution not related to time
-
-- Thoughts, steps taken,...
-  can be written and thus measured in content.
-
-- Reusable content, also in other products,
-  becomes more valuable for the contributor.
-
-.. _`pinformation`:
-
-Information
-===========
-
-Motivated by: efficiency, |pimportanceoffairness|
-
-Keep written records.
-
-Provide information
-
-- in a **written** form
-- with **URLs**
-- over an IT network
-
-to
-
-- avoid a central figure as communicator
-- avoid meetings
-- spread information
-- link information
-- allow recording of effort
-
-.. _`pfinance`:
-
-Financing
-=========
-
-Tech product development does not need much more than a computer
-and that should be owned by the person.
-
-Smaller expenses can be financed from the owners.
-
-Huge efforts and expensive infrastructure
-
-- can be avoided by `outsourcing`_ productions
-- can be a separate `mutual`_ or `cooperative`_
-- can be `open development`_ through a large enough community
-
-Instead of `stock`_,
-use `bonds`_ or `donations`_ for financing.
-`Debt`_ can be used for `leverage`_.
-
-After some time profit should remove dependence on external financing.
-
-.. _`pfairness`:
-
-Fairness Development
-====================
-
-Motivated by: |pimportanceoffairness|
-
-Fairness is a development like every other.
-Fairness needs
-
-- to be planned, done and tested (`pdt`_) or
-- legislative, executive and judicial power
-  (`separation of powers`_)
-
-Fairness development is not specific to a product.
-So it is placed in a separate repo (e.g. this repo)
-to make it reusable for more product developments.
-
-Members of a product team
-
-- test the rules
-- can propose changes
-
-If accepted by vote, the changed plan becomes the new plan,
-first locally and, if forwarded, also in the upstream fairness repo.
-
-This is direct legislation.
-The planning of the fairness can also be delegated to a *legislative* power.
-
-Practicing fairness in a product team is the direct execution.
-One could have an `ombudsman`_ as a delegated *executive* power.
-But with direct access to the fairness repo for feedback, it should not be necessary.
-
-With the fairness repo conflicts can be resolved with basic principles
-instead of opportunistically improvised arguments.
-Conflicts can be resolved directly or mediated through a *judicial* power.
-
-Every company needs to have a **fairness control system** in place.
-This means opening up information about resource distribution.
-Without such system, one must not work for the company, but compete with it.
-
-For a small team open information (work share, financial)
-allows everyone to check the fairness.
-
-Organization is done per product.
-For a larger products the organization is larger.
-The associated larger fairness effort motivates delegation.
-Since the fairness is not related to a product,
-a separate organization can do fairness checks (`audit`_).
-
-Make a better world
-by showing that fair cooperation
-can make a product more successful
-than the competition.
-
-Cooperate with
-the product competition
-if they agree on fair terms.
 
 .. _`ombudsman`: https://en.wikipedia.org/wiki/Ombudsman
 .. _`separation of powers`: https://en.wikipedia.org/wiki/Separation_of_powers
@@ -1400,4 +1258,4 @@ if they agree on fair terms.
 .. _`bonds`: https://en.wikipedia.org/wiki/Bond_(finance)
 .. _`legal industry`: https://en.wikipedia.org/wiki/Practice_of_law
 .. _`operations manual`: https://en.wikipedia.org/wiki/Operations_manual
-
+.. _`liberté-égalité-fraternité`: https://en.wikipedia.org/wiki/Libert%C3%A9,_%C3%A9galit%C3%A9,_fraternit%C3%A9
