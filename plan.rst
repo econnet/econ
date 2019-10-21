@@ -899,7 +899,7 @@ Information is
 Opening up information is an easy way to make each other's life easier.
 
 It is only a question of organizing the profit distribution,
-e.g. via licence or effort recording in the same repo.
+e.g. via license or effort recording in the same repo.
 If the information is a byproduct of one's profitable work,
 because one needs to write things down anyway,
 there is no extra effort in sharing,

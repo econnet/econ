@@ -176,9 +176,15 @@ The economy is not capable to keep its promise, because
 
 The result is inflation.
 
-The dissipative loss of information makes development non-deterministic.
-Nature itself is non-deterministic due to dissipation,
-but also due to limited precision (quantum).
+Planning is based on information.
+If not based on information it is speculation.
+Information about a changing world is temporary.
+
+Speculation and dissipative loss of information makes development non-deterministic.
+Nature itself is non-deterministic
+
+- due to limited precision (quantum)
+- due to dissipation.
 
 Inflation is not seen in the money figure.
 Inflation is a change in the unit (currency) with respect to other units.
@@ -200,7 +206,10 @@ The interest rate should at least balances the inflation rate.
 There is a risk associated with every endeavour.
 That is the reason of inflation.
 
-Risk can be reduced with accurate planning.
+Risk can be reduced with
+
+- accurate planning
+- sticking to the plan
 
 There are physical limits of planning due to limited information.
 It is not possible to foresee the effect of an ad,

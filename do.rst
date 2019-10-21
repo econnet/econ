@@ -21,15 +21,12 @@ Econ
 
 Motivated by |pproduct|.
 
-econ
-  economic node
-
 The name *econ* stands for
 
 - a map of the content topology (econ = Economic CONtent)
-- to an organizational topology (econ = ECONomic interactions)
+- to an organizational topology (econ = ECOnomic interaction Node)
 
-But econ also stands for the *ethical values* associated with the interactions in this topology.
+But econ also stands for the *ethical values* associated with the interactions.
 
 The perspective to economy is from a person.
 Econ is an **inversion** of the usual economic hierarchy:
@@ -51,7 +48,7 @@ but the English sense of purpose to produce content fits well.
 
 Maximizing `cohesion`_ and minimizing coupling is a way to reduce interactions, i.e. work.
 The further down the lattice the less interaction.
-The bottom *econ* does the interaction with the outside market via a tested product.
+The *bottom econ* does the interaction with the market via a tested product.
 
 Interaction is done via content.
 An econ member is a content contributor.
@@ -89,7 +86,7 @@ Contributor
 Motivated by |powner|.
 
 **Contributors** to the product are
-the owners of the profit of the product.
+the owners (of the profit) of the product.
 
 Owner is replaced by **contributor**
 to avoid conflict with the existing legal definition.
@@ -102,6 +99,16 @@ People engage in econs because of
 Normally tech personalities do tech work and
 people personalities mediate the network.
 
+A new contributor needs to
+
+- register financial contact to allow profit distribution
+- records the effort and/or profit in the repo
+
+
+.. _`db`:
+
+:db:
+
 There is organizational effort associated with the formation of an econ lattice.
 People need to
 
@@ -111,17 +118,62 @@ People need to
 - map the product parts to work, i.e. form inner econs
 - create communication channels (repo, html sites, chat channels, ...)
 
-The formation effort is recorded to the final product for the outside economy,
+The formation effort is recorded to the final product
 e.g. by product initiator and/or coordinator, recruiters.
-Internal economy consists of
-product-related work up to the product transaction to the outside economy.
 
 To integrate a contributor into the product development is effort.
 Micro-contributors are those that contribute below this effort.
 Micro-contributors are not registered contributors
 and therefore not considered in the profit distribution.
 
-A product with only micro-contributors can do without profit distribution effort.
+A product with only micro-contributors is normally a byproduct of a community
+who creates the product for their work.
+Such a product can do without marketing and profit distribution effort.
+
+Software created along the product development,
+but not directly linked to the product
+is released separately with GPL license.
+The efforts can still be recorded to the product repo,
+because needed by the product.
+It is a byproduct.
+This procedures produces more free software
+which means less organizational overhead for future products.
+
+.. _`dl`:
+
+:dl:
+
+The contributors
+
+- commit to the product
+- plan the product
+- work on the product
+- finish the product
+- own the product
+- profit from the product
+
+Finishing the product is essential to be able to interact with the market.
+Becoming a contributor
+
+- is an implicit *promise* to the other contributors
+- to stick to the product until finished
+
+Contributors don't work for money.
+Contributors work for the product.
+Money follows only if a product is finished.
+
+A dropout contributor still gets money,
+if the product is finished,
+but the risk of not getting finished is higher.
+
+Reliability reduces effort to reorganize.
+
+Reorganization effort is done by the bottom econ.
+Being unreliable
+
+- gives the bottom econ a bigger share of profit
+- reduces the overall profit/work ratio
+
 
 .. _`dcontrol`:
 
@@ -130,45 +182,73 @@ Control
 
 Motivated by |pnoboss|.
 
-In an econ, control means decision making.
-Decisions need information.
+.. _`dk`:
 
-A general principle is: *Those decide that have most information*.
-E.g. developers decide about their parts in the product.
+:dk: 
 
-If others are concerned, they are consulted and informed about the decision.
+In an econ, no one has control over someone else.
+
+Control refers to controlling the product related work.
+Content is controlled by the contributor of the content.
+
+The product to a large part determines the work that needs to be done.
+
+Contributors
+
+- choose work and/or
+- agree on who does what and/or
+- use a mediator to come to an agreement
+
+.. _`dp`:
+
+:dp:
+
+Subsequent decision making is based on the principle:
+
+- *Those decide that have most information*.
+
+Affected others are consulted and informed about the decision.
+
+.. _`dq`:
+
+:dq:
 
 If more are concerned, decisions are democratic, either
 
 - by direct vote or
 - through elected or otherwise agreed delegation
 
-A decision needs a propose. The proposal is worked out by one person.
+A decision needs a proposal.
+The proposal is worked out by one interested person.
+
+The vote weight of an econ is proportional to the contribution.
+
+.. _`do`:
+
+:do:
 
 There is **no boss**, neither in an econ, nor in the econ lattice.
 
 Someone initiating or coordinating does not decide, but mediates an agreement.
 The less coordination needed, the better.
 
-There can be separate econs in the lattice that care about *performance monitoring*.
+.. _`d8`:
+
+:d8:
+
+There can be separate econs in the lattice
+that care about *performance monitoring* based on the product repo.
 Decisions from the gathered information are made by those concerned,
 which can be the whole econ lattice.
-
-Reliability reduces effort to reorganize.
-Reorganization effort is done by the bottom econ.
-Being unreliable
-
-- gives the bottom econ a bigger share of profit
-- reduces the overall profit/work ratio
 
 .. _`dproduct`:
 
 Product
 =======
 
-Motivated by |pproduct|, |pexisting|.
+Motivated by |pproduct|, |pexisting|, |popen|
 
-The product is the interace between 
+The product is the interface between 
 
 - the inside market (contributors) and
 - the outside market (customers)
@@ -183,12 +263,29 @@ The econ lattice
 - helps in using the product
 - possibly recycles the product
 
+Product refers to a physical device with a construction effort.
+
+Information is not a product in the econ sense.
+Information is for free, i.e. without profit.
+The product repo does also have free access.
+Software is information and therefore free.
+Information needs to be created and studied,
+so it is not without effort, though.
+
+.. _`da`:
+
+:da:
+
 The product does not need to be a new product.
 An existing market is valuable for planning.
 The new open development method
 
 - can make a difference on the market
 - can open new directions for the product
+
+.. _`d5`:
+
+:d5:
 
 The product is the output item to the outside economy.
 There are also input items from the outside economy.
@@ -199,13 +296,6 @@ Product parts from the outside economy
 require work to select the right item and supplier,
 but there is no need for a separate econ.
 
-A new product has a new `LE`_ and a new econ lattice,
-as every econ corresponds to a product work part.
-
-A new version of a product has the same `LE`_,
-but possibly a changed econ lattice.
-
-
 .. _`dlegal`:
 
 Legal
@@ -213,25 +303,83 @@ Legal
 
 Motivated by |pleproduct|, |pnoemployment|
 
-The econ rules are not specific to a government.
+The econ values are not specific to a government.
 They need to be compatible (legal) with all involved governments.
 
 The fact that the econ lattice consists of econs,
 allows each econ to be in a different government.
+The econ, natural person or legal person, cares to interact with its government.
 
-The bottom econ should be
+.. _`d0`:
 
-- a `legal entity`_ (LE)
-- not a natural person
+:d0: general partnership
 
-There is one `LE`_ per product.
+Legally,
+contributors implicitly form a `general partnership`_ under `common or civil law`_
+(in German: `Gesellschaft bürgerlichen Rechts`_),
+bound by this econ contract.
+
+.. _`d4`:
+
+:d4:
+
+A license needs to be part of the product repo
+to keep away legal liability issues
+resulting from usage of the information in the product repo.
+
+The license doe not apply to the final product.
+Conditions of usage of the final product (warranty,...)
+is also in the product repo, but under a different name.
+
+.. _`de`:
+
+:de:
+
+The bottom econ founds a company
+already during development,
+if money flow is involved during the development of the product.
+
+`legal entity`_ (LE) refers to the bottom econ as a company,
+else *bottom econ* is used (which can still be a person or a group of people).
+
+The `LE`_ cares about product-specific interaction
+
+- with its government
+- creditors
+- contributors
+
+.. _`dj`:
+
+:dj:
+
+The `LE`_ is per product.
+A new version of the product has the same `LE`_,
+but possibly a changed econ lattice.
+
+.. _`di`:
+
+:di:
+
+A `LE`_ is only interface (an address)
+
+- for the government
+- for the market
+
+Contributors secure control over the `LE`_
+
+- by this econ contract and/or
+- by registering as member to the `LE`_,
+  if its `legal entity type`_
+  gives control to the members by default (`cooperative`_, `joint-stock company`_)
+
+.. _`dg`:
+
+:dg:
 
 The major interest of a government is taxes.
 
-- All product-related cash flow needs to go via the `LE`_,
-  which records it in the product repo.
-
-- Selling the product adds the `VAT`_ to the final product
+- When selling the product,
+  the `VAT`_ is added to the final product,
   if required by the government
 
 - Taxing of the econ is according location of the econ.
@@ -239,47 +387,109 @@ The major interest of a government is taxes.
   spreads over more governments
   with one as a special case.
 
-The government of the `LE`_ provides the jurisdiction for potential disputes.
+.. _`dw`:
+
+:dw:
+
+All product-related cash flow goes via the `LE`_.
+The contributors have control over the financial channels (e.g. bank account),
+but it is delegated to the `LE`_ and executed by buyers and sellers,
+which register the money flows in the repo,
+for everybody to check,
+with possible additional checks from specialized fairness checkers.
+
+.. _`dv`:
+
+:dv:
+
+The government of the `LE`_'s residence
+provides the jurisdiction for potential disputes.
 That is not an interest of the government,
-but rather of the econ, creditors or product customers.
+but rather of the contributors, creditors and product customers.
 
-The `LE`_ is only interface (an address)
+.. _`d9`:
 
-- for the government
-- for the market
+:d9: no employment
 
-Contributors secure control over the `LE`_
+The `LE`_ **does not have employees**, because
 
-- by contract or
-- by choosing a `legal entity type`_ giving control to the members (e.g. `cooperative`_)
+- work on a product
+- not producing product profit ownership
+- leads to a labor market and
+- a separate labor market decouples work from its value
+- i.e. the value of the product
 
-The `LE`_ **does not have employees**.
+In the econ contract
 
-Founding the `LE`_ produces
+- everything is coupled to the product
+- and so is work and its value
 
-- ownership of the `LE`_ according usual legislation
-- but must not produce product ownership
+Not using employment is the major difference
+between the econ lattice and traditional companies.
+Profit sharing or advanced payments are usual practices.
 
+.. _`dd`:
+
+:dd: founding
+
+Founding a `LE`_ must not produce product ownership.
 Only subsequent product-relevant work produces product ownership.
 
-Profit can be kept in the `LE`_
+When founding the `LE`_ the `articles of association`_ contain or reference
 
-- as a loan granted to the `LE`_ (bond)
-- as `liable capital`_ for `limited liability`_
+- a description of the product the `LE`_ is for
+- the econ contract
+- the representatives
+- how members are added or removed later (only for `cooperative`_)
+- additional information as required by the government
+
+A reference allows to change the content unanimously without interacting with the government.
+Interaction of the government is effort and must be kept minimal.
+
+If the contributors commit to the econ values by contract,
+and the founders quit contributing or are forced to do so by vote of the contributors,
+it produces government interactions to update the `LE`_'s registered data
+at the government or bank.
+
+It is therefore better to ensure the econ values via membership in the `LE`_.
+
+- The `cooperative`_ seems to be the only `legal entity type`_
+  that only requires a list where members are registered.
+  The list of members is stored in the product repo.
+
+- A `joint-stock company`_ satisfies the econ values
+  if the `articles of association`_ assure that `tributes`_ are the only `stock`_.
+
+.. _`dy`:
+
+:dy: limited liability
 
 An initial `LE`_ cannot be a `limited liability`_ `LE`_,
 unless the founders forward `liable capital`_, e.g. as perpetual `bonds`_.
-Here `liable capital`_ is used to emphasize its purpose as risk capital without defining ownership.
-It is better to make the `LE`_ to a `limited liability`_ `LE`_
-only before selling the product, because then
+`Liable capital`_ emphasize its purpose as risk capital without defining product ownership.
 
-- the product owners are known through work done
-- the `liable capital`_ can be shared between all contributors
+There is also probably no need for `limited liability`_
+before actually interacting with the outside economy.
+
+It is better therefore to found the  `limited liability`_ `LE`_
+only before selling the product,
+
+- by conversion from the existing `LE`_
+- by creating an additional production and marketing `LE`_ joining the product econ lattice
+- by creating an `LE`_ only when actually producing and marketing
+
+When the product development is finished
+
+- most product owners are known through work done
+- the `liable capital`_ can be raised by the contributors so far
 - `liable capital`_ overlaps with outside economy's definition of `equity`_,
   but we keep the distinction by continuing to use `liable capital`_.
-- there is no need for `limited liability`_ before actually interacting with the outside economy
 
 The `LE`_ takes the responsibility for the product according `limited liability`_.
+
+.. _`du`:
+
+:du:
 
 The econs working on product parts have their own responsibility to interact with their government,
 whether the same or different.
@@ -310,13 +520,11 @@ to
 - link information
 - allow recording of effort
 
-.. _`drepo`:
+.. _`dh`:
 
-Repo
-----
+:dh: repo
 
 All product related content is in one repo (`cohesion`_).
-The content is linked with URLs.
 
 The product repo contains:
 
@@ -329,15 +537,15 @@ The product repo contains:
 The repo is a communication channel.
 
 The repo links profit with work via content.
-Record and provide access to information about
+It records and provides information about
 
 - effort
 - profit
 
-.. _`daccess`:
 
-Access
-------
+.. _`d6`:
+
+:d6: access
 
 The *contributors* have access to all information.
 It allows them
@@ -350,33 +558,24 @@ It allows them
 
 - to allow them to choose to contribute
 - to avoid repeating effort
-- to keep tibutes together with content
-  even if the repo is forked or content extracted
+- to keep `tibutes`_ together with content
+  even if the repo is forked
 
-Contributor does not only mean developer,
-but also those doing coordinating, bookkeeping, marketing, building, selling (not retail).
-A non-contributor becomes a contributor based on any of the mentioned activities.
+.. _`ds`:
 
-A new contributor needs to
-
-- register financial contact to allow profit distribution
-- records the effort and/or profit in the repo
-
-All product-related actual financial flow goes via the
-bank account of the product `LE`_.
-
-.. _`dforking`:
-
-Forking
--------
+:ds: fork
 
 Access may not mean direct access,
-because it would mean too much effort for the `LE`_
+because it would mean too much effort for the bottom econ
 to build trust to too many contributors.
 
 Access includes forking and creating pull requests.
 
-The `LE`_ needs to react timely to such pull requests.
+The bottom econ needs to react timely to such pull requests.
+
+.. _`dx`:
+
+:dx: merge
 
 All pull requests get merged at least after mediation.
 If there is a conflict, e.g. out of differing technical opinions,
@@ -389,11 +588,12 @@ Work
 
 Motivated by |pnoemployment|.
 
-Not using employment is the major difference
-between the econ lattice and traditional companies.
-Profit sharing or advanced payments are usual practices.
+.. _`d2`:
 
-The actual value of internal work is only determined by the success of the product on the market.
+:d2: priceless
+
+The actual value of product-internal work
+is only determined by the success of the product on the market.
 To stop inequality from growing, it is essential
 
 - *not to give a price to product-internal work using an outside currency*
@@ -404,11 +604,39 @@ and cannot be a reference.
 The requirement to distribute profit based on work,
 demands to record product-related work in the repo.
 
-Software created along the product development,
-but not directly linked to the product
-is released separately with GPL license.
-The efforts can still be recorded to the product repo,
-because needed by the product.
+.. _`drelevantwork`:
+
+Relevant Work
+-------------
+
+Only **relevant work** for the currently sold **product version** matters for the profit distribution.
+If new contributors take over, their effort will matter for future product versions.
+Previous contributors will still get their profit share on relevant work.
+Previous contributors can still check for fairness.
+
+Work is measured by its result.
+
+*Relevancy* requires work to be associated with product parts and thus econs.
+When the part is replaced that work becomes irrelevant.
+For `diversification`_ people should contribute to more parts.
+
+Work that is not exclusively for the specific product is its own product,
+that comes from the outside economy.
+
+.. _`df`:
+
+:df: relevancy
+
+*Relevancy* does not only refer to technical development of the product,
+but to all aspects to make a finished product successful on the market
+
+- coordinating
+- development
+- bookkeeping
+- marketing
+- building
+
+All product-related activities need to be measured by the its results.
 
 .. _`dtribute`:
 
@@ -417,23 +645,17 @@ Tributes
 
 The **econ contract** requires the `LE`_ to care to
 
-- *attribute* to econs the *contribution* to the product version (tributes)
+- *attribute* to econs the *contribution* to the product
 - *distribute* profit proportionally
 
-Tributes are internal records for product-related efforts stored in the repo.
+All these words contain "tribute".
+Therefore the product-internal unit of work result is called tribute.
 
-Tributes document the product ownership.
+Tributes document product ownership.
 
-The tribute record consists of:
+.. _`dm`:
 
-- quantity
-- product internal work unit
-
-How and how precise work is recorded needs to be agreed upon.
-There should be an effort in the fair attribution of work,
-but how much is democratically decided by the contributors.
-Micro-recording and micro-payments produce more effort than value
-and thus produce deficit.
+:dm:
 
 Tributes produce delayed income in an outside currency when the product is sold.
 Until then tributes can still be
@@ -451,102 +673,102 @@ Until then tributes can still be
 Work Units
 ----------
 
-A basic work unit (*tribute unit*) is described (not valued)
-based on work that is frequent in the product development.
-The tribute unit is not yet priced by the product sales to the outside economy.
-
 Producing a product involves different kinds of work.
-When quantifying work internally,
+Certain work needs more expertise than other.
+When quantifying results internally,
 
 - the kind of work has more weight
-- than the person who does the work
+- than the contributor who does the work
 
-Both aspects can be considered with a `performance`_ factor (`p`)
-that maps the *tribute unit* to the **work unit** based on
+.. _`dt`:
 
-- a specific work done by
-- a specific person using
-- a specific personal tool
+:dt:
 
-`p` includes the tools required to perform the work.
-The person who needs a computer to do its work
-gets a `p` that accounts for it.
+Measuring the performance of a contributor is biased,
+as neither experience nor education nor exams
+need to reflect in the result.
+A less performant contributor will take longer,
+i.e. automatically get less profit per time compared to others.
+The quality of the result is checked,
+therefore fast results of low quality will still take longer to reach accepted quality.
 
-Prefer measures of contribution not related to time
+.. _`dn`:
 
-- products sold
+:dn: internal pricing
 
-- customers acquired
+Every kind of work has its own result unit.
 
-- contributors recruited
+*Work kinds* units can be
 
-- Thoughts, steps taken,...
-  can be written and thus measured in content
+- lines of a report (steps taken,...)
 
-- Reusable content, also in other products,
-  becomes more valuable for the contributor
+- lines of a plan (why, requirements, testing, ...)
 
-The outside economy has a `minimum wage`_.
-Work turning out to be less valuable than the outside economy's `minimum wage`_,
+- number of records per type (account journal, contributors recruited, customers acquired, ...)
 
-- is revalued or
-- automated
+- lines of code (described as much as possible with a language, general is preferred over `DSL`_)
 
-Automation is used
+To get to a profit distribution key,
+the *work kind* units are internally priced against a standard work unit (**tribute** unit).
+The *tribute* unit is described
+based on an activity that is frequent for the product.
 
-- to increase the performance factor (`p`)
-- to keep the final product competitive and
-- to produce profit for contributors (to allow them to work on new products)
+The tribute unit has no exchange rate to an outside currency.
 
-Latest when pricing the product for the outside market,
-the internal work units are considered
+.. _`d1`:
 
-- in the product price
-- in relating the work units to the *tribute unit* (`p`)
+:d1:
 
-In this process temporary and acceptable conversion factors to the outside work price are used.
+The repo contains an algorithm that 
+*automatically* calculates the contributor's tributes from the repo.
 
-.. _`drelevantwork`:
+This *tribute algorithm* needs to be finalized
+latest when pricing the product for the outside market.
 
-Relevant Work
--------------
+Files are ordered by content,
+but can be associated by *symbolic links* to
 
-Tributes only consider **relevant work** for the currently sold **product version**,
+- kind of work
+- contributor
 
-- either current work or
-- work in the past
+Review/change on file(s) of other contributor
+is considered by a report file
+which is associated to the reviewer or bug fixer.
 
-*Relevancy* is necessary to make it fit to reality.
+.. _`dr`:
 
-*Relevancy* requires the tributes to be associated with product parts and thus econs.
-When the part is replaced that work becomes irrelevant.
-For `diversification`_ people should contribute to more parts.
+:dr:
 
-*Relevancy* does not only refer to technical development of the product,
-but to all aspect to make the product successful on the market.
-E.g. it includes marketing efforts.
+How and how precise work is recorded needs to be agreed upon.
+There should be an effort in the fair attribution of work,
+but how much is decided by the contributors by proposal and vote.
+Micro-recording and micro-payments produce more effort than value
+and thus produce deficit.
+This is true for accounting in general.
 
-Work that is not related to the specific product is its own product that
-comes from the outside economy.
+.. _`dtools`:
 
-Product tribute vanishes
-if (past) contributions stop to be *relevant* for the currently sold product version.
+Tools
+-----
 
-If new contributors take over, their effort will produce income for them in future product versions.
+Tools have an outside economy price.
+They can therefore be accounted with that currency.
 
-Previous contributors will still get their profit share on relevant work (tribute).
-Previous contributors can still check for fairness.
+Product-specific tools are completely accounted to the product.
 
-Final tributes are calculated per product version,
-as contributions change between product versions.
+But to reduce the accounting effort,
+cheap and obvious non-product-specific tools can be subsumed by either
 
-The product repo has a "tribute" file updated before fixing the version.
+- work kind or
+- contributor
 
-The profit distribution is done
+More expensive non-product-specific tools are accounted separately with the market price.
+E.g. a car can considered by the price of renting the car,
+even if it is owned by the contributor
+when using it for a product-specific work.
 
-- separately for every product sold
-- based on the tribute of the product version
-
+Investment in big machines not exclusively for the product,
+are outsourced to a separate company.
 
 .. _`dfinancing`:
 
@@ -559,113 +781,69 @@ The major costs for technical products are development.
 If developers can afford to wait for the revenue via sale of the finished product,
 there is not much money needed.
 
-Smaller expenses can be financed from the owners.
+Smaller expenses can be financed from the contributors.
+
+Financing through `stock`_ cannot be used, because
+
+- ownership is defined by work (`tributes`_)
+- not via capital
+
+In the econ contract usual `stock`_ does not exist,
+therefore `stock`_ means `tributes`_.
 
 Before actual income, the money can come from
 
 - bonds
 - donations
 
-Financing through `stock`_ cannot be used, because
-
-- ownership is defined by work (tributes)
-- not via capital
-
-Money cannot be used to change ownership of the `LE`_.
+Money *cannot* be used to change ownership of the `LE`_.
 Bonds don't change ownership.
 The profit through ownership is higher than
 the interest on bonds. Also,
 the interest on bonds can be considered in the pricing of the product.
 
-Money can change ownership indirectly:
-If a worker is payed
+Money can change product ownership indirectly,
+if a contributor is payed
 
-- to produce tribute and
+- to produce tribute and/or
 - to forward tribute to the paying party
 
-To keep workers from engaging in such relations
+Contributors probably avoid such relations by
 
-- the prospect of bigger profit if not directly payed should help
-- else regular profit advances to the worker can be granted by the `LE`_
+- the prospect of bigger profit if not payed to renounce on ownership
+- by possible regular profit `advances`_ granted by the `LE`_
+
+`Advances`_ are loans, which might
+
+- might only be possible if the `LE`_ finds creditors
+- not be accepted by contributors
+
+Contributors can sell only part of their tributes,
+if in need of money.
+
+.. _`dz`:
+
+:dz: profit
+
+profit = income - expenses within a financial period.
+
+Expenses are only those related to the product.
+
+*Work is not an expense*,
+because the profit becomes the reward for the work.
+
+Profit from the product sales of the period is attributed to contributors for every product version.
+
+The profit
+
+- is buffered in the `LE`_ (`liable capital`_, `retained earnings`_)
+- is forwarded to the owners according tributes
+- can be reinvested as `ponds`_
 
 The `balance sheet`_ balances
 
 - `assets` versus
 - `liabilities`_ and `liable capital`_
-
-`retained earings`_ per default becomes `liable capital`_.
-unless distributed according tributes.
-The owners can then re-invest it as `bonds`.
-
-The interest on loans varies (bonds, profit advances),
-but is at least as high as inflation of the outside economy.
-
-The owners have control over the financial channels (e.g. bank account),
-but it is normally delegated to buyers and sellers,
-which register the financial flows in the repo,
-for everybody to check,
-with additional checks from specialized fairness checkers.
-
-.. _`deconvalue`:
-
-Company Value
--------------
-
-The value of the `LE`_
-
-- the product econ lattice (internal structure)
-- the product tributes
-- the product customers (external structure)
-- assets
-
-There is no need to calculate the full value of an econ lattice,
-because it cannot be sold as a whole.
-An interested buyer would need to agree
-on a price for every contributor's tribute separately.
-
-Even if a buyer would manage that,
-to employ the contributors with the expertise would even be harder.
-
-The contributors can freely regroup for other products, also concurrently,
-which forms a network across products, i.e. across different `LE`_'s.
-Contributors are thus owners of more `LE`_,s.
-
-The customers cannot be bought other than through the product contributors.
-
-.. _`dprofit`:
-
-Profit
-------
-
-`LE`_ period: profit = income - expenses.
-
-Expenses are only related to the product.
-Investment in big machines not related exclusively to the product,
-need to be handled by a separate `LE`_ and outsourced to it.
-
-Working tools like the computer or a car belong to the person (top econ).
-They are considered in the performance factor (`p`).
-
-*Work is not an expense*,
-because the profit becomes the reward for the work.
-
-Profit from the product sales of the period is attributed to owners for every product version.
-This capital attribution
-
-- is a result of ownership and
-- does not produce ownership change.
-
-The profit
-
-- first belongs to the `LE`_ (`retained earnings`_)
-- is forwarded to the owners according tributes
-- can be reinvested as `ponds`_
-
-Profit maximization of the `LE`_
-means maximizing the profit of each member.
-Every member helps each other to maximize their profit.
-This kind of profit maximization is morally good,
-unless it damages to the outside world.
 
 .. _`dadvances`:
 
@@ -681,29 +859,25 @@ Work
 Profit advances constitute regular payments to owners, currently contributing or not,
 to allow them to use products of the outside economy already before revenue from sales of the product.
 
-The `LE`_ corresponding to a product accepts tributes as a pledge for profit advances.
+Advances are only needed if there is no profit yet.
 
 Advances are
 
 - loans of the `LE`_ to the contributor
+- are pledged by tributes
 - are payed back using profit at the end of the period or forwarded to the next period
 - not reward for work (not wages)
 
 Advances must be payed back to the `LE`_,
-if a contributor stops contributing
-before the product is finished, i.e. ready for the market.
+if the product does never make a profit (e.g. because not completed).
+But they might not be recoverable.
 
-If the `LE`_ gets bankrupt, then profit advances might be unrecoverable.
-
+The `LE`_ funds advances by donations and `bonds`_.
+If the `LE`_ gets bankrupt, `bonds`_ might be lost.
 The risk is
 
 - taken by creditors if financed by bonds and
 - considered via the interest rate on the bonds
-
-The amount of profit advances is based on
-
-- previous profits or
-- expected profit, if the money is available
 
 Advances are a compromise for
 
@@ -711,13 +885,9 @@ Advances are a compromise for
 - risk of diminished or no advances
 - risk of abandonment of a potentially profitable product
 
-  As development is public the results might be reused by someone even after abandonment.
-  Since the licence demands distribution of profit according tributes,
-  there is a slight change that a fair other econ lattice continues later.
-
 The `LE`_ agrees with the contributors whether to pay advances.
 The amount of advances is agreed separately with every contributor.
-The information is public.
+The information is in the product repo.
 
 .. _`dfairness`:
 
@@ -753,7 +923,7 @@ But with direct access to the fairness repo for feedback, it should not be neces
 With the fairness repo conflicts can be resolved with basic principles
 instead of opportunistically improvised arguments.
 Conflicts can be resolved directly or mediated through a *judicial* power.
-The `LE`_ needs to have a **fairness tests** in place.
+The econ lattice needs to have a **fairness tests** in place.
 
 For a small team open information (work share, financial)
 allows everyone to check the fairness.
@@ -763,7 +933,6 @@ For a larger products the organization is larger.
 The associated larger fairness effort motivates delegation.
 Since the fairness is not related to a product,
 a separate organization can do fairness checks (`audit`_).
-
 
 
 .. _`LE`: `legal entity`_
@@ -789,5 +958,10 @@ a separate organization can do fairness checks (`audit`_).
 .. _`retained earings`: https://en.wikipedia.org/wiki/Retained_earnings
 .. _`stock`: https://en.wikipedia.org/wiki/Stock
 .. _`cohesion`: https://en.wikipedia.org/wiki/Cohesion_(computer_science)
-
-
+.. _`joint-stock company`: https://en.wikipedia.org/wiki/Joint-stock_company
+.. _`Articles of association`: https://en.wikipedia.org/wiki/Articles_of_association
+.. _`Gesellschaft bürgerlichen Rechts`: https://de.wikipedia.org/wiki/Gesellschaft_b%C3%BCrgerlichen_Rechts_(Deutschland)
+.. _`General Partnership`: https://en.wikipedia.org/wiki/General_partnership
+.. _`common or civil law`: https://onlinelaw.wustl.edu/blog/common-law-vs-civil-law/
+.. _`DSL`: https://en.wikipedia.org/wiki/Domain-specific_language
+.. _`pdt`: https://github.com/rpuntaie/pdt
