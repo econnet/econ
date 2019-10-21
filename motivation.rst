@@ -6,15 +6,11 @@ ECON
 ####
 
 
-.. _`pmotivationseconomicinequality`:
-
 ********************************
 Motivations: Economic Inequality
 ********************************
 
 The original version was a `blog`_.
-
-.. _`psummary`:
 
 Summary
 =======
@@ -39,8 +35,7 @@ Below follows broad and deep argumentation
 - i.e. motivating to do things differently
 
 Here the results are summarized for the next
-`do <https://github.com/rpuntaie/econ/blob/master/do.rst>`_ step (`pdt`_).
-
+`do <https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst>`_ step (`pdt`_).
 
 .. _`pproduct`:
 
@@ -52,39 +47,39 @@ Here the results are summarized for the next
 
 .. _`popen`:
 
-:popen: Use `open development`_ (|pcontinuity|, |popendevelopment|).
+:popen: Use `open development`_ (`continuity`_, `open information`_).
 
 .. _`pchoice`:
 
-:pchoice: Contributors choose to work on a product (|ppersonality|).
+:pchoice: Contributors choose to work on a product (`personality`_).
 
 .. _`powner`:
 
-:powner: Contributors become product owners (|pownership|, |pnoworkfortherich|).
+:powner: Contributors become product owners (`company ownership`_, `work for equality`_).
 
 .. _`pinfo`:
 
-:pinfo: Information is written, with URL and open for efficiency and fairness (|pimportanceoffairness|).
+:pinfo: Information is written, with URL and open for efficiency and fairness (`importance of fairness`_).
 
 .. _`pnoboss`:
 
-:pnoboss: The product network has coordinators and mediators, but no boss (|pimportanceoffairness|).
+:pnoboss: The product network has coordinators and mediators, but no boss (`importance of fairness`_).
 
 .. _`pnoemployment`:
 
-:pnoemployment: No separate labor market, no employment (|pimportanceoffairness|, |pemploymentdisadvantages|).
+:pnoemployment: No separate labor market, no employment  (`importance of fairness`_, `employment disadvantages`_).
 
 .. _`pleproduct`:
 
-:pleproduct: One `legal entity`_ per product controlled by the contributors (|plegalcompany|).
+:pleproduct: One `legal entity`_ per product controlled by the contributors (`legal company`_).
 
 .. _`pnostock`:
 
-:pnostock: The `legal entity`_ does not use `stock`_ for financing the product effort (|pnoshares|).
+:pnostock: The `legal entity`_ does not use `stock`_ for financing the product effort (`no shares`_).
 
 .. _`pprofit`:
 
-:pprofit: Product profit goes to the contributors (|pimportanceoffairness|).
+:pprofit: Product profit goes to the contributors (`importance of fairness`_).
 
 .. _`pfair`:
 
@@ -168,8 +163,6 @@ There are also emotional differences between humans:
   - environments where resources could be obtained alone lead to more competitiveness
   - environments where resources needed cooperation lead to more cooperativeness
 
-.. _`ppersonality`:
-
 Personality
 -----------
 
@@ -212,8 +205,6 @@ Those who didn't have these emotions do not exist any more.
 The lack of respect leads to destructive behavior of individuals or groups,
 which can become disruptive or destructive for larger social systems.
 
-.. _`plegalcompany`:
-
 Legal Company
 =============
 
@@ -253,10 +244,8 @@ The owners
 
 Owner vs employee inequality obviously produces also distribution inequality.
 
-.. _`pownership`:
-
-Ownership
-=========
+Company Ownership
+=================
 
 `Property`_ is a claim (`ownership`_)
 on resources, because of a dependence on these resources.
@@ -289,8 +278,6 @@ the cooperation of people.
 
 To improve distribution of wealth
 one must aim at a fair distribution of company ownership.
-
-.. _`pnoshares`:
 
 No Shares
 ---------
@@ -330,10 +317,8 @@ employment produces inequality.
 To improve their lives, i.e. maximize their profit, 
 employees need to become owners of their work, of their cooperation.
 
-.. _`pnoworkfortherich`:
-
-No Work for the Rich
---------------------
+Work for Equality
+-----------------
 
 The idea that work is a product like any other, that you can buy,
 
@@ -426,8 +411,6 @@ that make a difference in the pursuit of one's `self-interest`_.
 
 Concentration of wealth is a *vicious circle* that
 sucks away freedom from the majority.
-
-.. _`pimportanceoffairness`:
 
 Importance of Fairness
 ======================
@@ -565,8 +548,6 @@ Instead one needs to counteract every local `inequality`_.
 Inequality is a world problem,
 not of countries existing due to historical coincidences.
 
-.. _`pemploymentdisadvantages`:
-
 Employment Disadvantages
 ========================
 
@@ -683,7 +664,7 @@ Tech people
 -----------
 
 Tech people on the average are people
-that are more interested in things (|ppersonality|).
+that are more interested in things (`personality`_).
 They don't like hierarchy and have
 a hard time accepting the owner vs employee `discrimination`_.
 
@@ -804,7 +785,7 @@ but they do also not forbid it.
 `Social security`_ providing a `basic income`_ through `redistribution`_
 allows people to avoid unfair contracts
 and thus indirectly helps to spread and maintain fair cooperation.
-It is also needed due to `automation taking over`_.
+It is also needed due to automation taking over.
 
 Jurisdictions should make structural change
 that have a direct distribution effect,
@@ -870,7 +851,7 @@ The educational system does not teach students to be political and care about fa
 
 .. _`popendevelopment`:
 
-Open Development
+Open Information
 ================
 
 Everyone wants an easy life,
@@ -1029,9 +1010,6 @@ Many companies servicing an open automation infrastructure
 
 
 
-.. _`ombudsman`: https://en.wikipedia.org/wiki/Ombudsman
-.. _`separation of powers`: https://en.wikipedia.org/wiki/Separation_of_powers
-.. _`audit`: https://en.wikipedia.org/wiki/Audit
 .. _`blog`: https://rolandpuntaier.blogspot.com/2019/05/employmentinequality.html
 .. _`microeconomy`: https://en.wikipedia.org/wiki/Microeconomics
 .. _`macroeconomy`: https://en.wikipedia.org/wiki/Macroeconomics
@@ -1259,3 +1237,4 @@ Many companies servicing an open automation infrastructure
 .. _`legal industry`: https://en.wikipedia.org/wiki/Practice_of_law
 .. _`operations manual`: https://en.wikipedia.org/wiki/Operations_manual
 .. _`liberté-égalité-fraternité`: https://en.wikipedia.org/wiki/Libert%C3%A9,_%C3%A9galit%C3%A9,_fraternit%C3%A9
+.. _`pdt`: https://github.com/rpuntaie/pdt

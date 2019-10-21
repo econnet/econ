@@ -275,8 +275,8 @@ Work should be priced by the product's success.
 .. _`fiat money`: https://en.wikipedia.org/wiki/Fiat_money
 .. _`return of investment`: https://en.wikipedia.org/wiki/Return_on_Investment
 .. _`info`: https://github.com/rpuntaie/econ/blob/master/info.rst
-.. _`plan`: https://github.com/rpuntaie/econ/blob/master/plan.rst
-.. _`do`: https://github.com/rpuntaie/econ/blob/master/do.rst
+.. _`plan`: https://github.com/rpuntaie/econ/blob/master/motivation.rst
+.. _`do`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst
 .. _`test`: https://github.com/rpuntaie/econ/blob/master/test.rst
 .. _`pdt`: https://github.com/rpuntaie/pdt
 .. _`inequality`: https://rolandpuntaier.blogspot.com/2019/05/employmentinequality.html
