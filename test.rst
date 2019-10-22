@@ -45,5 +45,3 @@ means maximizing the profit of each contributor.
 Every contributor helps each other to maximize their profit.
 This profit maximization is morally good.
 
-
-

@@ -34,8 +34,7 @@ Below follows broad and deep argumentation
 - how things are but should not be
 - i.e. motivating to do things differently
 
-Here the results are summarized for the next
-`do <https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst>`_ step (`pdt`_).
+Here the results are summarized
 
 .. _`pproduct`:
 
@@ -85,6 +84,16 @@ Here the results are summarized for the next
 
 :pfair: Effort is also spent on verifying fairness.
 
+
+Fairness is a development like every other.
+Fairness needs
+
+- to be planned, done and tested (`pdt`_) or
+- legislative, executive and judicial power
+  (`separation of powers`_)
+
+This file is the plan.
+The next step: `do <https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst>`_.
 
 .. _`peconomyofemotions`:
 
@@ -381,6 +390,11 @@ Real economy is also reduced with `shares`_:
   - delegate to `bullshit-jobs`_ in `managed`_ `funds`_.
 
 - Majority `stock`_ holders or direct owners get too rich.
+
+The money of the super rich is lost,
+because accepting it would further increase inequality.
+Actual value is thus lost for the economy,
+since vaulted by the super rich.
 
 .. _`pfreedom`:
 
