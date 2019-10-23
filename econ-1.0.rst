@@ -254,6 +254,9 @@ Based on the existing plans in the repo,
 *contributors choose work*
 from a list of unassigned work in the repo.
 
+If there is no unassigned work listed,
+aspirant contributors can suggest new work via `pdt`_.
+
 There are no predefined roles.
 
 .. _`dp`:
@@ -384,9 +387,9 @@ resulting from usage of the information in the product repo.
 
 The license does not apply to the final product.
 
-.. _`de`:
+.. _`le`:
 
-:de: LE
+:le: legal entity
 
 The bottom econ founds a company
 already during development,
@@ -408,6 +411,11 @@ The `LE`_ cares about product-specific interaction
 The `LE`_ is per product.
 A new version of the product has the same `LE`_,
 but possibly a changed econ lattice.
+
+`LE`_ ownership is summarized over all versions.
+
+Profit distribution is per version.
+A version that is never sold does not produce profit.
 
 .. _`di`:
 
@@ -467,7 +475,7 @@ but rather of the contributors, creditors and product customers.
 The `LE`_ **does not have employees**, because
 
 | work on a product
-| not producing product ownership
+| not producing ownership
 | leads to a labor market and
 | a separate labor market decouples work from its value
 | i.e. the value of the product
@@ -496,8 +504,8 @@ as it is no product specific. Econs can contribute to more products.
 
 :dd: founding
 
-Founding a `LE`_ must not produce product ownership.
-Only subsequent product-relevant work produces product ownership.
+Founding a `LE`_ must not produce ownership.
+Only subsequent product-relevant work produces ownership.
 
 When founding the `LE`_ the `articles of association`_ contain or reference
 
@@ -530,7 +538,7 @@ It is therefore better to ensure the econ values via membership in the `LE`_.
 
 An initial `LE`_ cannot be a `limited liability`_ `LE`_,
 unless the founders forward `liable capital`_, e.g. as perpetual `bonds`_.
-`Liable capital`_ emphasize its purpose as risk capital without defining product ownership.
+`Liable capital`_ emphasize its purpose as risk capital without defining ownership.
 
 There is also probably no need for `limited liability`_
 before actually interacting with the outside economy.
@@ -622,14 +630,8 @@ An example layout could look like this::
    │  │  ├ kind1
    │  │  │    └ symlink_to_content
    │  │  └ calc_tributes.py
-   │  ├ mediation
-   │  │  └ issue1.rst
-   │  └ pdt
-   │      └ 000
-   │          ├ info.rest
-   │          ├ plan.rest
-   │          ├ do.rest
-   │          └ test.rest
+   │  └ mediation
+   │     └ issue1.rst
    ├ accounting
    │  ├ product_version
    │  │  └ version1
@@ -643,6 +645,12 @@ An example layout could look like this::
    │  └ snxyz
    │     ├ DMR
    │     └ tests
+   ├ pdt
+   │  └ 000
+   │      ├ info.rest
+   │      ├ plan.rest
+   │      ├ do.rest
+   │      └ test.rest
    ├ doc
    │  ├ index.rest
    │  └ tutorial.rest
@@ -720,7 +728,7 @@ a new product version with a new repo branch is created.
 Work
 ====
 
-Motivated by `pnoemployment`_.
+Motivated by `pnoemployment`_, `pnostock`_.
 
 .. _`d2`:
 
@@ -766,13 +774,16 @@ Tributes
 
 The **econ contract** requires the `LE`_ to care to
 
-- *attribute* to econs the *contribution* to the product
+- *attribute* to econs the work *contribution* to the product
 - *distribute* profit proportionally
 
 All these words contain "tribute".
 Therefore the product-related unit of work result is called tribute.
 
-Tributes document product ownership.
+Tributes
+
+- are an internal capital or energy
+- define `LE`_ ownership
 
 .. _`dm`:
 
@@ -781,13 +792,11 @@ Tributes document product ownership.
 Tributes produce delayed income in an outside currency when the product is sold.
 Until then tributes can still be
 
-- donated
 - inherited
-- used as pledge for a loan,
-  if accepted by a creditor
-- basically also sold,
-  but a price is probably hard to agree upon,
-  since the actual value in the outside economy is unknown
+- used as pledge for a loan
+
+Tributes are not for sale, else they would become like `stock`_.
+Tributes get value in the outside economy only through selling the product.
 
 .. _`dworkunit`:
 
@@ -908,7 +917,7 @@ there is not much money needed.
 Smaller expenses can be financed from the contributors.
 
 Financing through `stock`_ cannot be used,
-because ownership
+because `LE`_ ownership
 
 - is defined by work (`tributes`_)
 - not via capital
@@ -924,24 +933,14 @@ The profit through ownership is higher than
 the interest on bonds. Also,
 the interest on bonds can be considered in the pricing of the product.
 
-Money can change product ownership indirectly,
-if a contributor is payed
+.. _`du`:
 
-- to produce tribute and/or
-- to forward tribute to the paying party
+:du: debt
 
-Contributors probably avoid such relations by
-
-- the prospect of bigger profit if not payed to renounce on ownership
-- by possible regular profit `advances`_ granted by the `LE`_
-
-`Advances`_ are loans, which might
-
-- only be possible if the `LE`_ finds creditors
-- not be accepted by contributors
-
-Contributors can sell only part of their tributes,
-if in need of money.
+Money cannot change product `LE`_ ownership indirectly.
+A contributor can be payed to produce tribute,
+but the tributes cannot be forwarded (see `tributes <#dm>`_).
+The pay therefore is either donation or debt (e.g. `advances`_).
 
 .. _`dz`:
 
@@ -950,12 +949,15 @@ if in need of money.
 profit = income - expenses within a financial period.
 
 Expenses are only those related to the product.
+Expenses need to be handled by the `LE`_
+to account them to the product.
 
 *Work is not an expense*,
 because the profit becomes the reward for the work.
 
 Profit from the product sales of the period
-is attributed to contributors for every product version.
+is attributed to contributors
+separate for every *product version*.
 
 The profit
 
@@ -968,27 +970,31 @@ The profit
 Advances
 --------
 
-Work
+Work profit is delayed until sale.
 
-- produces ownership and
-- delayed profit
-- not immediate profit
-
-Profit advances constitute regular payments to owners, currently contributing or not,
-to allow them to use products of the outside economy already before revenue from sales of the product.
+Profit advances are *loans* of the `LE`_ to contributors,
+to allow them to use products of the outside economy
+already before revenue from sales of the product.
 
 Advances are only needed if there is no profit yet.
 
-Advances are
+Advances are *pledged* by contribution
 
-- loans of the `LE`_ to the contributor
-- are pledged by tributes
-- are payed back using profit at the end of the period or forwarded to the next period
-- not reward for work (not wages)
+- either done already
+- or promised
 
-Advances must be payed back to the `LE`_,
+A contributor asking or accepting an advance for a *promised contribution*
+needs to finish the promised contribution,
+else the advances must be payed back.
+
+Finished contribution constitute `tributes`_,
+which have an internal value (if staying relevant),
+and can be used as *pledge*.
+
+Advances must be payed back to the `LE`_
 if the product does never make a profit (e.g. because not completed).
-But they might not be recoverable.
+If not recoverable as cash,
+work to produce product profit can be legally enforced (complete product, market product, ...).
 
 The `LE`_ raises advances by donations and `bonds`_.
 If the `LE`_ gets bankrupt, `bonds`_ might be lost.
@@ -997,18 +1003,14 @@ The risk is
 - taken by creditors if financed by bonds and
 - considered via the interest rate on the bonds
 
-Advances are a compromise for
+The contributors unanimously establish guidelines for advances.
 
-- risk of third party take-over of contributors
-- risk of diminished or no advances
-- risk of abandonment of a potentially profitable product
-
-The `LE`_ agrees with the contributors, whether to pay advances.
-The amount of advances is agreed separately with every contributor.
-The information is in the product repo.
+Based on the guidelines,
+the `LE`_ agrees on the amount of advances
+separately with every contributor.
+The information is placed in the product repo.
 
 
-.. _`LE`: `legal entity`_
 .. _`legal entity`: https://en.wikipedia.org/wiki/Legal_person
 .. _`limited liability`: https://en.wikipedia.org/wiki/Limited_liability_company
 .. _`lattice`: https://en.wikipedia.org/wiki/Lattice_(order)
@@ -1062,5 +1064,4 @@ The information is in the product repo.
 .. _`pprofit`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pprofit
 .. _`pfair`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pfair
 
-
-.. du
+.. de
