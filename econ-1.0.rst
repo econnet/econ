@@ -251,9 +251,8 @@ The content is created according `pdt`_ in all layer
 The product to a large part determines the work that needs to be done.
 
 Based on the existing plans in the repo,
-*contributors choose work*.
-An existing product contributor
-may have brought the project to attention before that.
+*contributors choose work*
+from a list of unassigned work in the repo.
 
 There are no predefined roles.
 
@@ -292,7 +291,11 @@ Here changes can only be done unanimously.
 Having access to all product information, including `tributes`_ and financial,
 all contributors can check fairness.
 
-An `ombudsman`_ handles reported fairness issues or mediates other conflicts.
+An additional `ombudsman`_
+
+- actively checks a real implementation against this contract
+- handles reported fairness issues or
+- mediates other conflicts
 
 .. _`dproduct`:
 
