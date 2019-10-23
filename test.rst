@@ -6,7 +6,7 @@ Economic Principles
 
 .. _`tj`:
 
-:tj: `dtribute`_
+:tj: energy → `dtribute`_
 
 Economic supply and demand corresponds to
 creation of and selection from a variable (information processing),
@@ -16,7 +16,7 @@ The variables depend on the system, therefore also the type of energy.
 
 .. _`t1`:
 
-:t1: `decon`_
+:t1: encapsulation → `decon`_, `tribute <#dm>`_
 
 `Evolutionary systems`_ produce **encapsulations** to reduce energy consumption.
 In the economy, encapsulations down to a person are considered.
@@ -27,15 +27,18 @@ There should be a feedback from the economy to the genes, i.e. the offspring.
 Therefore value create and not fully consumed during lifetime,
 should not go to others, but be inherited to offspring.
 
-.. _`infoeconomy`:
+Expertise must be associated to a person, not a company.
 
-:economy:
+.. _`tk`:
 
-In physics as in economy **work** is related to energy (satisfaction in economy).
+:tk: economy → `dproduct`_, `dprocess`_, `dwork`_
 
-The purpose of work is to satisfy the person's need.
+In physics as in economy **work** is related to energy.
+In economy it produces satisfaction, which is valued to a price in a currency.
+
+The purpose of personal work is to satisfy the person's need via a market's need (product).
+
 Maximizing a person's freedom is equivalent to maximizing the person's capital.
-
 A free society is the sum over individual freedom.
 Maximizing the society's freedom is equivalent to well distributed capital, i.e.
 minimizing inequality.
@@ -50,22 +53,23 @@ Economy is pivoting around *products*
 - creation of products (work)
 - selection of products (satisfaction = profit)
 
-..  Work needs to be linked to profit.
-    But in current economy there is a separate work market,
-    that is not linked to profit.
+Work on a product is aimed to maximize the return of work investment of the workers.
 
-    Furthermore
+- Minimize work with open development (cooperation instead of competition).
+- Make a good quality product that is needed by the market.
 
-    - too much competition
-    - too little cooperation
+Work is linked to profit by the product.
+A separate labor market does not maximize freedom.
 
-    makes satisfaction more work than necessary.
+Direct work satisfaction is maximized by free choice of work according interest.
 
-.. _`infomoney`:
+.. _`tc`:
 
-:money:
+:tc: money, how → `dproduct`_, who → `dcontributors`
 
-Money is the valuation (pricing) of work in the economy via products.
+Money is the valuation (pricing) of work in the economy via products (`fiat money`_).
+Gained money from a product sale is a promise of economy (`IOU`_)
+to return other products of equivalent value.
 
 Valuation of work has a broad range.
 The value of work (interaction) depends on
@@ -81,15 +85,14 @@ Who with and how to maximize the personal work value?
 Direct interaction (service) has less choice on optimization.
 A better work pricing is achieved via products.
 
-Once priced, the resulting money is a promise of economy
-based on all current products and services (`fiat money`_).
-
 Stable money requires
 
 - reliability and
 - trust
 
-.. _`infoinflation`:
+.. _`tw`:
+
+:tw: inflation
 
 The economy is not capable to keep its promise, because
 
@@ -98,32 +101,38 @@ The economy is not capable to keep its promise, because
 
 The result is inflation.
 
-Planning is based on information.
+Planning is based on information,
+but information about a changing world is temporary.
+
 If not based on information it is speculation.
-Information about a changing world is temporary.
 
 Speculation and dissipative loss of information makes development non-deterministic.
 Nature itself is non-deterministic
 
 - due to limited precision (quantum)
-- due to dissipation.
+- due to dissipation
 
-Inflation is not seen in the money figure.
-Inflation is a change in the unit (currency) with respect to other units.
+.. _`tu`:
 
-.. _`infointerest`:
+:tu: investment → `dfinancing`_
 
-People should strive to be as reliable as possible,
-to be trustworthy economic partners.
-
-Since society is not very reliable,
+Since general economy is not very reliable,
 the money is invested in people (or goods)
 that promise to be more reliable than the general economy.
-This is encoded in an *interest rate*.
+This is encoded in an *interest rate*
+that more than balances the value loss through inflation.
 
-The interest rate should at least balances the inflation rate.
+People should strive to be as reliable as possible,
+to be trustworthy for investment.
+Reliable people or teams offer an interest rate,
+that at least balances the inflation rate.
+But to offer more than the average economic `growth`_,
+is only hinting unreliability and thus risk of loss,
+or would reduce the return of work investment.
 
-.. _`inforisk`:
+.. _`tf`:
+
+:tf: risk → `dfinancing`_, `dcontributors`_, `dproduct`_
 
 There is a risk associated with every endeavour.
 That is the reason of inflation.
@@ -132,40 +141,29 @@ Risk can be reduced with
 
 - accurate planning
 - sticking to the plan
+- monitoring and adapting the plan
 
 There are physical limits of planning due to limited information.
 It is not possible to foresee the effect of an ad,
-but it can be measured afterward to change the strategy.
+but it can be measured to change the strategy dynamically.
 
 Established products are safer,
 because the price and the market is known.
-But new product are more profitable.
+But new products are more profitable.
 The profitability of a product can be inferred from the work it allows to save.
 Promising products are those that reduce the interactions, the economy.
 
-Planning and development better than the general economy
-should reduce the risk below inflation.
-
-.. _`infoinvestment`:
-
-:investment:
-
 Any investment in a promising and well planned product
-gives a better `return of investment`_
-than the general economy.
+gives a better `return of investment`_ (ROI)
+than the general economic `growth`_.
 
-Work investment is best priced by the product.
+Work investment has the best return directly from the product market.
 
-Work can be given a current value in money
-by comparing with prices of similar work,
-if you want to include work in further calculations,
-e.g. to calculate your `return of investment`_ on work.
+.. _`t9`:
 
-.. _`infobookkeeping`:
+:t9: accounting → `dwork`_, `dfinancing`_
 
-:bookkeeping:
-
-In bookkeeping money is regarded as conserved,
+In accounting money is regarded as conserved,
 like conservation of energy.
 Money flows from one account to another account (posting),
 but does not get lost.
@@ -181,69 +179,32 @@ For financial reporting required by government at the end of a financial period,
 accounts need to be closed by postings balancing input and output.
 The closing balance is transferred to an opening balance for the new period.
 
-Bookkeeping hinges on pricing of assets.
-Well established prices make bookkeeping more easily fit to reality.
+Accounting hinges on pricing of assets.
+Well established prices make accounting more easily fit to reality.
 Speculative assets may be priced by expectation, maximum or minimum,
 or not priced at all,
 depending on what is more favorable for taxation.
 
-Only priced values need to be kept in standard bookkeeping.
-Non-priced assets can be recorded separately
-and priced later by reality.
+Assets not priced at all need not be kept in standard accounting.
 
-Work should be priced by the product's success.
-
+Internal exchanges of goods are not handled by accounting,
+but by other enterprise resource planning (`ERP`_).
+Work is best treated as an internal good,
+because the product's success on the market gives the best price on work.
 
 .. _`fiat money`: https://en.wikipedia.org/wiki/Fiat_money
-.. _`return of investment`: https://en.wikipedia.org/wiki/Return_on_Investment
-
-
-
-Ethics Tests
-============
-
-.. _`te`:
-
-:te: *Can an `LE`_ be bought?*
-
-In principle the `LE`_ can be bought via the tributes.
-But it is complicated and unlikely to happen.
-
-The value of the `LE`_ consists of
-
-- the product contributors (internal structure)
-- the product tributes
-- the product customers (external structure)
-- other product related assets
-
-The tributes don't have a market price.
-An interested buyer could still make an offer.
-All contributors can decide independently whether to sell their tributes.
-
-The `LE`_ has little value without the contributor's expertise.
-The contributors can freely regroup for other products, also concurrently,
-which forms a network across products, i.e. across different `LE`_'s.
-Contributors are thus owners of more `LE`_'s.
-Getting employed would be a disadvantage for them.
-
-The econ contract demands open development,
-which allows new contributors to join.
-
-The customers cannot be bought other than through the product contributors.
-
-.. _`t1`:
-
-:t1: *Is profit mazimization moral in the econ contract?*
-
-There is no separate labor market.
-The workers are the owners.
-
-Profit maximization of the `LE`_
-means maximizing the profit of each contributor.
-Every contributor helps each other to maximize their profit.
-This profit maximization is morally good.
+.. _`return of investment`: `roi`_
+.. _`roi`: https://en.wikipedia.org/wiki/Return_on_Investment
+.. _`iou`: https://en.wikipedia.org/wiki/IOU
+.. _`growth`: https://en.wikipedia.org/wiki/Economic_growth
+.. _`ERP`: https://en.wikipedia.org/wiki/Enterprise_resource_planning
 
 
 
 .. _`decon`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#decon
+.. _`dfinancing`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#dfinancing
+.. _`dwork`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#dwork
+.. _`dprocess`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#dprocess
+.. _`dproduct`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#dproduct
+.. _`dcontributors`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#dcontributors
 .. _`dtribute`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#dtribute

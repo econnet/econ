@@ -38,11 +38,9 @@ Here the results are summarized
 
 .. _`pproduct`:
 
-:pproduct: Base fair value-to-work mapping on the product (the market item).
+:pproduct: Base fair value-to-work mapping on the product (`continuity`_, `employment disadvantages`_).
 
-.. _`pexisting`:
-
-:pexisting: Also make products that have a market value (price) already.
+Also make products that have a market value (price) already.
 
 .. _`popen`:
 

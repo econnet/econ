@@ -166,22 +166,9 @@ Micro-contributors are those that contribute below this effort.
 Micro-contributors are not registered contributors
 and therefore not considered in the profit distribution.
 
-A product with only micro-contributors is normally a byproduct of a community
-who creates the product for their work.
+A product with only micro-contributors created by a community
+is a byproduct of their work.
 Such a product can do without marketing and profit distribution effort.
-
-.. _`d7`:
-
-:d7: byproducts
-
-Software created or improved along the product development,
-but not directly linked to the product
-is released separately with GPL license.
-The efforts can still be recorded to the product repo,
-because needed by the product.
-This procedures produces more free software
-which means less organizational overhead
-for future products under the econ contract.
 
 .. _`dl`:
 
@@ -286,6 +273,8 @@ The *vote weight* is proportional to the contribution of the content concerned.
 Compliance to contracts (this file, license) is not for vote, though.
 They are guaranteed by law.
 Here changes can only be done unanimously.
+E.g. the contributors could unanimously end the econ contract
+and transform tributes to stock to sell the `LE`_.
 
 .. _`df`:
 
@@ -299,60 +288,6 @@ An additional `ombudsman`_
 - actively checks a real implementation against this contract
 - handles reported fairness issues or
 - mediates other conflicts
-
-.. _`dproduct`:
-
-Product
-=======
-
-Motivated by `pproduct`_, `pexisting`_, `popen`_.
-
-The product is the interface between
-
-- the inside market (contributors) and
-- the outside market (customers)
-
-Product refers to a physical device with a construction effort.
-
-.. _`d8`:
-
-:d8: info
-
-Information about the product is not the product.
-Information in the product repo is for free, i.e. without profit.
-The product repo has free `access`_.
-
-Software in the repo is regarded as information
-and under GPL-3.0.
-
-.. _`da`:
-
-:da: existing
-
-The product does not need to be a new product type.
-An existing price and market is valuable for planning.
-The new open development method
-
-- can make a difference on the market
-- can open new directions for a product type
-
-If a product type has an econ repo already,
-contribute to that repo, possibly also a new version,
-instead of creating a new repo.
-
-.. _`d5`:
-
-:d5: conversion
-
-The product is the output item to the outside economy.
-There are also input items from the outside economy.
-Work refers only to the conversion of input items to the product.
-
-Only product parts that are developed internally require work and thus an econ.
-
-Product parts from the outside economy
-require work to select the right item and supplier,
-but there is no need for a separate econ.
 
 .. _`dlegal`:
 
@@ -406,10 +341,11 @@ The `LE`_ cares about product-specific interaction
 
 .. _`dj`:
 
-:dj: per product
+:dj: LE per product
 
 The `LE`_ is per product.
 A new version of the product has the same `LE`_,
+even if the project is forked into more repo (see `dx`_),
 but possibly a changed econ lattice.
 
 `LE`_ ownership is summarized over all versions.
@@ -507,7 +443,7 @@ as it is no product specific. Econs can contribute to more products.
 Founding a `LE`_ must not produce ownership.
 Only subsequent product-relevant work produces ownership.
 
-When founding the `LE`_ the `articles of association`_ contain or reference
+When founding the `LE`_ the `articles of association`_ contain
 
 - a description of the product the `LE`_ is for
 - the econ contract
@@ -515,8 +451,9 @@ When founding the `LE`_ the `articles of association`_ contain or reference
 - how members are added or removed later (only for `cooperative`_)
 - additional information as required by the government
 
-A reference allows to change the content unanimously without interacting with the government.
-Interaction of the government is effort and must be kept minimal.
+.. TODO: Providing this information via a reference would allow to change the content unanimously
+   without interacting with the government.
+   Interaction of the government is effort and must be kept minimal.
 
 If the contributors commit to the econ values *by contract*,
 and the founders quit contributing or are forced to do so by vote of the contributors,
@@ -559,12 +496,87 @@ When the product development is finished
 
 The `LE`_ takes the responsibility for the product according `limited liability`_.
 
-.. _`dcontent`:
+.. _`dproduct`:
 
-Content
+Product
 =======
 
-Motivated by: efficiency, `pinfo`_, `pfair`_, `popen`_, `pchoice`_
+Motivated by efficiency, `pproduct`_, `pinfo`_, `pfair`_, `popen`_, `pchoice`
+
+The product is the interface between
+
+- the inside market (contributors) and
+- the outside market (customers)
+
+Product refers to a physical device with a construction effort.
+
+.. _`d8`:
+
+:d8: open development
+
+Information about the product is not the product.
+
+The product repo has free `access`_.
+
+The repo and thus the information in the repo
+can be used according the license.
+
+.. _`da`:
+
+:da: existing
+
+The product does not need to be a new product type.
+An existing price and market is valuable for planning.
+The new open development method
+
+- can make a difference on the market
+- can open new directions for a product type
+
+If a product type has an econ repo already,
+contribute to that repo, possibly also a new version,
+instead of creating a new repo.
+
+.. _`d5`:
+
+:d5: conversion
+
+The product is the output item to the outside economy.
+There are also input items from the outside economy (commercial off-the-shelf, `cots`_).
+Work refers only to the conversion of input items to the product.
+
+Only product parts that are developed internally
+require prolonged work and thus an econ.
+
+`Cots`_ require work to select the right item and supplier,
+but there is no need for a separate econ,
+because it is not prolonged work.
+
+.. _`d7`:
+
+:d7: software byproducts
+
+Software created or improved along the product development,
+but not directly linked to the product
+is released separately with GPL-3.0 license.
+The efforts can still be recorded to the product repo,
+because needed by the product.
+This procedures produces more free software
+which means less organizational overhead
+for future products under the econ contract.
+
+.. _`de`:
+
+:de: hardware spin-off
+
+Hardware parts of the product device
+that have a market outside the product,
+should form a new separate product,
+i.e. separate repo, separate `LE`_, separate econ lattice.
+The product uses the spin-off product as `cots`_.
+
+.. _`dc`:
+
+:dc:
 
 All product information is
 
@@ -582,7 +594,12 @@ to
 
 :dh: repo
 
-All product related content is in one repo (`cohesion`_).
+The product produces `cohesion`_ of content.
+All product related content is preferably in one repo.
+
+Different products have no relation
+other than via shared contributors
+or shared `cots`_ (loose coupling).
 
 Internal information is `pgp`_-encrypted.
 Only the contributors have access to this information.
@@ -610,6 +627,7 @@ It records and provides information about
 
 Folders that do not depend on product version
 are kept in a separate "unversioned" git branch: e.g. financing and marketing.
+A separate repo is also possible, but has less cohesion.
 
 An example layout could look like this::
 
@@ -701,7 +719,12 @@ It allows them
 - to allow them to choose to contribute
 - to avoid repeating effort
 - to keep `tributes`_ together with content
-  even if the repo is forked
+  if the repo or even the whole project is forked
+  (see `dx`_ and `dj`_).
+
+Encrypted information could be handled by a separate repo,
+with access limited to contributors,
+but the disadvantage is less cohesion.
 
 .. _`ds`:
 
@@ -782,7 +805,7 @@ Therefore the product-related unit of work result is called tribute.
 
 Tributes
 
-- are an internal capital or energy
+- are a capital or energy per product
 - define `LE`_ ownership
 
 .. _`dm`:
@@ -937,10 +960,26 @@ the interest on bonds can be considered in the pricing of the product.
 
 :du: debt
 
-Money cannot change product `LE`_ ownership indirectly.
-A contributor can be payed to produce tribute,
-but the tributes cannot be forwarded (see `tributes <#dm>`_).
+Money cannot also not change `LE`_ ownership indirectly.
+A contributor can be payed to produce tributes,
+but the tributes cannot be forwarded to the paying party (see `tributes <#dm>`_).
 The pay therefore is either donation or debt (e.g. `advances`_).
+
+.. _`d3`:
+
+:d3: risk
+
+Risk associated with the product is considered via interest rate on debt.
+
+Contributors also risk their work investment.
+
+Quantifying risk with a `risk assessment`_ helps to decide
+
+- whether to do the product at all
+- an what interest rate to pay on debt
+
+Good prospective on earnings must not increase interest rate on debt, but lower it.
+Interest rate is for risk and to some extend honoring trust, but not for profit sharing.
 
 .. _`dz`:
 
@@ -1048,11 +1087,11 @@ The information is placed in the product repo.
 .. _`separation of powers`: https://en.wikipedia.org/wiki/Separation_of_powers
 .. _`audit`: https://en.wikipedia.org/wiki/Audit
 .. _`pgp`: https://wiki.archlinux.org/index.php/GnuPG#Encrypt_and_decrypt
-
+.. _`cots`: https://en.wikipedia.org/wiki/Commercial_off-the-shelf
+.. _`risk assessment`: https://en.wikipedia.org/wiki/Risk_assessment
 
 
 .. _`pproduct`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pproduct
-.. _`pexisting`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pexisting
 .. _`popen`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#popen
 .. _`pchoice`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pchoice
 .. _`powner`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#powner
@@ -1064,4 +1103,3 @@ The information is placed in the product repo.
 .. _`pprofit`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pprofit
 .. _`pfair`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pfair
 
-.. de
