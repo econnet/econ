@@ -1,8 +1,22 @@
 .. encoding: utf-8
 .. vim: syntax=rst
 
-Economic Principles
-===================
+####
+ECON
+####
+
+******************
+Econ Contract Test
+******************
+
+Todo
+====
+
+- simulate an example project
+- make an small real project including legal things
+
+Principles
+==========
 
 .. _`tj`:
 
@@ -79,8 +93,12 @@ The value of work (interaction) depends on
 
 Who with and how to maximize the personal work value?
 
-- Who relates to fairness between people and to machines (automation)
-- How relates to encapsulation, organizationally and by content
+- *Who* relates to 
+
+  - fairness between people
+  - machines (automation)
+
+- *How* relates to encapsulation, organizationally and by content
 
 Direct interaction (service) has less choice on optimization.
 A better work pricing is achieved via products.
@@ -192,16 +210,93 @@ but by other enterprise resource planning (`ERP`_).
 Work is best treated as an internal good,
 because the product's success on the market gives the best price on work.
 
+.. _`tq`:
+
+:tq: efficiency, maximum information → parallel -> `drepo`_
+
+Encapsulations save energy and are thus more efficiency (`t1`_),
+but between the encapsulations interaction energy should distribute equally.
+
+A system in equilibrium has maximum entropy, maximum information.
+The interactions (energy, money) are equally distributed to all its parts.
+All parts have maximum freedom.
+They can interact in *parallel*.
+They have their own time.
+
+An organizational encapsulation, especially the person, has accumulated expertise (inner energy).
+To make most out of its expertise, it needs to apply it as often as possible.
+People need to be independent to apply their expertise where ever they choose to.
+
+But to be able to choose, information needs to be provided.
+Free access to information on projects,
+allows people to *search* and choose tasks according their expertise.
+
+The product repo provides all information
+
+- for contributors to act independently in parallel and
+- for non-contributors, to decide where to choose to contribute
+
+The product repo is a content encapsulation
+to link product work with the product market (profit).
+A content encapsulation by topic like accounting
+would place work results outside the product repo,
+which would make it harder to link work to the product.
+
+Experts, like accountants, can contribute to more product repos
+and thus still concentrate on their field of expertise.
+This is made possible by the `cloud`_,
+which allows easy sharing of content and work.
+
+.. _`t9`:
+
+:t9: fairness → `no employees`_
+
+The econ contract is founded on basic (economic) principles, i.e. not `ideological`_  (`peconomyofemotions`_, `principles`_).
+
+The econ contract does not enforce any ideas, nor does it demand loyalty or subordination,
+but offers a fairer cooperation to those interested (`pchoice`).
+
+The econ lattice is no huge organization, but pragmatic per product (`pproduct`).
+
+In the econ contract has no central control, no boss (`pnoboss`_).
+
+The econ has no subordinate roles like employees (`pnoemployment`_).
+
+Base ownership on *relevant* work to fit valuation to reality,
+instead of stock `bubbles`_ (`powner`, `pnostock`_).
+
+Open development avoids abuse of information, reduces effort and increases fairness (`popen`_).
+
+The econ contract demands effort on fairness (`pfair`).
+
+
+.. _`peconomyofemotions`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#peconomyofemotions
+.. _`pproduct`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pproduct
+.. _`popen`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#popen
+.. _`pchoice`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pchoice
+.. _`powner`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#powner
+.. _`pinfo`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pinfo
+.. _`pnoboss`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pnoboss
+.. _`pnoemployment`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pnoemployment
+.. _`pnostock`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pnostock
+.. _`pprofit`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pprofit
+.. _`pfair`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pfair
+
+
 .. _`fiat money`: https://en.wikipedia.org/wiki/Fiat_money
 .. _`return of investment`: `roi`_
 .. _`roi`: https://en.wikipedia.org/wiki/Return_on_Investment
 .. _`iou`: https://en.wikipedia.org/wiki/IOU
 .. _`growth`: https://en.wikipedia.org/wiki/Economic_growth
 .. _`ERP`: https://en.wikipedia.org/wiki/Enterprise_resource_planning
-
+.. _`cloud`: https://en.wikipedia.org/wiki/Cloud_computing
+.. _`ideological`: https://en.wikipedia.org/wiki/List_of_political_ideologies
+.. _`bubbles`: https://en.wikipedia.org/wiki/Economic_bubble
 
 
 .. _`decon`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#decon
+.. _`no employees`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#d9
+.. _`drepo`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#dh
 .. _`dfinancing`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#dfinancing
 .. _`dwork`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#dwork
 .. _`dprocess`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#dprocess

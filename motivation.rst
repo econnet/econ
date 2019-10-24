@@ -38,13 +38,11 @@ Here the results are summarized
 
 .. _`pproduct`:
 
-:pproduct: Base fair value-to-work mapping on the product (`continuity`_, `employment disadvantages`_).
-
-Also make products that have a market value (price) already.
+:pproduct: Base fair value-to-work mapping on the product (`continuity`_, `employment disadvantages`_, `legal company`_).
 
 .. _`popen`:
 
-:popen: Use `open development`_ (`continuity`_, `open information`_).
+:popen: Use `open development`_ (`continuity`_, `open information`_, `importance of fairness`_).
 
 .. _`pchoice`:
 
@@ -54,21 +52,14 @@ Also make products that have a market value (price) already.
 
 :powner: Contributors become product owners (`company ownership`_, `work for equality`_).
 
-.. _`pinfo`:
-
-:pinfo: Information is written, with URL and open for efficiency and fairness (`importance of fairness`_).
-
 .. _`pnoboss`:
 
-:pnoboss: The product network has coordinators and mediators, but no boss (`importance of fairness`_).
+:pnoboss: The product network has coordinators and mediators, but no boss (`importance of fairness`_, `problem of the important man`_).
 
 .. _`pnoemployment`:
 
 :pnoemployment: No separate labor market, no employment  (`importance of fairness`_, `employment disadvantages`_).
 
-.. _`pleproduct`:
-
-:pleproduct: One `legal entity`_ per product controlled by the contributors (`legal company`_).
 
 .. _`pnostock`:
 
@@ -394,6 +385,9 @@ because accepting it would further increase inequality.
 Actual value is thus lost for the economy,
 since vaulted by the super rich.
 
+The existence of super rich people is a prove
+that there is a *systemic error* in economic practice and laws.
+
 .. _`pfreedom`:
 
 Freedom
@@ -587,11 +581,6 @@ But then work force would move to the profitable business
 to level it again.
 This is normal healthy competition and not due to power hierarchy.
 
-- The owners have control over the employees.
-
-The idea of one person controlling one or more others
-is against the principle of `liberté-égalité-fraternité`_
-
 - Employees renounce the market value of an established company.
 
 The `value of a company`_ is to a big part of structural nature,
@@ -626,6 +615,11 @@ Without a say in the company via ownership, wages can basically only be influenc
 The owner has more possibilities in an `imperfect competition`_,
 the simplest being to `increase the price`_, which has the extra profit,
 that the ensuing `inflation`_ is not immediately reflected in the `wages`_.
+
+- The owners have control over the employees.
+
+The idea of one person controlling one or more others
+is against the principle of `liberté-égalité-fraternité`_
 
 - Employees cannot `maximize profit`_, while the company owners can.
 - Employees create the company profit, but an owner might still think, s/he pays the wages.
@@ -663,6 +657,14 @@ that the ensuing `inflation`_ is not immediately reflected in the `wages`_.
 - If employees voluntarily or involuntarily leave a company they helped build,
   they loses the `value of the company`_, especially its market position.
   The `owner`_ role protects against such losses.
+
+- An argument for a `labor market`_ sometimes is the risk.
+  But employees are exposed to more risk on the `labor market`_,
+  than the owners off a company in the product market.
+  Owners can calculate and limit their risk (e.g. `LLC`_).
+  Employees have the product market risk, because they get dismissed on product failure,
+  but in addition there is the risk from the arbitrariness of the boss
+  and all the disadvantages listed here.
 
 `Employment`_ is a cooperation with only a few winners and many losers.
 If you take a job, the employer wins, you lose.
@@ -704,6 +706,19 @@ A tech coordinator should be
 
 - a highly skilled technical guy himself and
 - wise and empathetic enough not insinuate hierarchy
+
+Problem of the important man
+----------------------------
+
+An important person, a boss,
+
+- is against equality
+- abuses power to increase inequality
+- throttles self initiative
+- hinders parallelization
+- is a bottleneck in the process
+- produces sycophants
+- spoils communication
 
 .. _`pamorallaw`:
 
@@ -844,7 +859,7 @@ Worker ownership brings more continuity.
 - More companies and better distribution of wealth
 - Better income and more time produces a feedback to the actual genes
   (more attractive to the other sex, better care for offspring, ...)
-- No power hierarchy, no courting a boss, ...
+- No power hierarchy, no bootlicking a boss, ...
 - Decision right where the information is
 - Work according to interest
 

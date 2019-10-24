@@ -14,6 +14,15 @@ Econ Contract
 Summary
 =======
 
+The name *econ* stands for
+
+- ECOnomic interaction Node: a node in the organizational lattice
+- Economic CONtent: a node in the content lattice
+- Economic CONstruction, because efficient
+- Ethical CONtributor not increasing inequality
+- Ethical CONstruction of tech devices, because not increasing inequality
+- "Employless" CONstruction, not separating work from the product value
+
 This contract is between the `contributors`_
 to the `product`_ repository (`repo <#dh>`_)
 that contains this file.
@@ -36,10 +45,6 @@ The repo contains also the information about
 
 When the repo is modified this information must be kept up-to-date.
 
-This file also contains some technical proposals to meet the values.
-These can be modified in a specific repo,
-if not reducing the contributor's overall freedom, control and profit.
-
 Governance
 ==========
 
@@ -51,14 +56,6 @@ Econ
 ----
 
 Motivated by `pproduct`_.
-
-The name *econ* stands for
-
-- to an organizational topology (econ = ECOnomic interaction Node)
-- a map of the content topology (econ = Economic CONtent)
-- a contributor (econ = Economic CONtributor)
-
-Econ also stands for the *ethical values* in this repo.
 
 The perspective to economy is from a person.
 Econ is an **inversion** of the usual economic hierarchy:
@@ -262,8 +259,10 @@ Affected others are consulted and informed about the decision.
 
 A decision needs a proposal.
 The proposal is worked out by the one interested person according `pdt`_.
+Normally that person also does or coordinates the according effort.
 
-If more are concerned, decisions are democratic between those concerned, either
+If more are concerned by a proposal,
+decisions are democratic between those concerned, either
 
 - by direct vote or
 - through elected or otherwise agreed delegation
@@ -271,16 +270,16 @@ If more are concerned, decisions are democratic between those concerned, either
 The *vote weight* is proportional to the contribution of the content concerned.
 
 Compliance to contracts (this file, license) is not for vote, though.
-They are guaranteed by law.
-Here changes can only be done unanimously.
-E.g. the contributors could unanimously end the econ contract
-and transform tributes to stock to sell the `LE`_.
+Changes to contracts can only be done *unanimously*.
+E.g. the contributors can unanimously end the econ contract
+and convert tributes to stock and sell the `LE`_.
 
 .. _`df`:
 
 :df: judicial
 
-Having access to all product information, including `tributes`_ and financial,
+Having access to all product information,
+including `tributes`_ and financial `LE`_ data,
 all contributors can check fairness.
 
 An additional `ombudsman`_
@@ -294,7 +293,7 @@ An additional `ombudsman`_
 Legal
 =====
 
-Motivated by `pleproduct`_, `pnoemployment`_
+Motivated by `pproduct`_, `pnoemployment`_
 
 The econ values are not specific to a government.
 They need to be compatible (legal) with all involved governments.
@@ -345,29 +344,13 @@ The `LE`_ cares about product-specific interaction
 
 The `LE`_ is per product.
 A new version of the product has the same `LE`_,
-even if the project is forked into more repo (see `dx`_),
+even if the project is forked into more repos (see `dx`_),
 but possibly a changed econ lattice.
 
 `LE`_ ownership is summarized over all versions.
 
 Profit distribution is per version.
 A version that is never sold does not produce profit.
-
-.. _`di`:
-
-:di: control
-
-A `LE`_ is only interface (an address)
-
-- for the government
-- for the market
-
-Contributors secure control over the `LE`_
-
-- by this econ contract and/or
-- by registering as member to the `LE`_,
-  if its `legal entity type`_
-  gives control to the members by default (`cooperative`_, `joint-stock company`_)
 
 .. _`dg`:
 
@@ -388,7 +371,9 @@ The major interest of a government is taxes.
 
 :dw: cash
 
-All product-related cash flow goes via the `LE`_.
+All product-related cash flow goes via the `LE`_,
+to account them to the product according government requirements.
+
 The contributors have control over the financial channels (e.g. bank account),
 but it is delegated to the `LE`_ and executed by buyers and sellers,
 which register the money flows in the repo,
@@ -435,7 +420,6 @@ whether the same or different.
 Concentrating the effort of government interaction to saves effort is up to the econs,
 as it is no product specific. Econs can contribute to more products.
 
-
 .. _`dd`:
 
 :dd: founding
@@ -451,23 +435,24 @@ When founding the `LE`_ the `articles of association`_ contain
 - how members are added or removed later (only for `cooperative`_)
 - additional information as required by the government
 
-.. TODO: Providing this information via a reference would allow to change the content unanimously
-   without interacting with the government.
-   Interaction of the government is effort and must be kept minimal.
+.. _`di`:
 
-If the contributors commit to the econ values *by contract*,
-and the founders quit contributing or are forced to do so by vote of the contributors,
-it produces government interactions to update the `LE`_'s registered data
-at the government or bank.
+:di: control
 
-It is therefore better to ensure the econ values via membership in the `LE`_.
+A `LE`_ is only interface (an address)
 
-- The `cooperative`_ seems to be the only `legal entity type`_
-  that only requires a list where members are registered.
-  The list of members is stored in the product repo.
+- for the government
+- for the market
 
-- A `joint-stock company`_ satisfies the econ values
-  if the `articles of association`_ assure that `tributes`_ are the only `stock`_.
+Contributors secure control over the `LE`_
+
+- by this econ contract and possibly
+- by registering as member to the `LE`_,
+  if its `legal entity type`_
+  gives control to the members by default (`cooperative`_, `joint-stock company`_)
+
+A `joint-stock company`_ satisfies the econ values
+if the `articles of association`_ assure that `tributes`_ are the only "stock"
 
 .. _`dy`:
 
@@ -496,12 +481,35 @@ When the product development is finished
 
 The `LE`_ takes the responsibility for the product according `limited liability`_.
 
+.. _`dc`:
+
+:dc: written
+
+All product-related information and communication is
+
+- in a **written** form
+- with **URLs**
+- in the product repo (`dh`_)
+
+to
+
+- spread information
+- link information
+- allow recording of effort
+
+Communication in other channels
+are copied/recorded into the repo afterwards,
+if relevant for the product.
+
+Meetings, if any,
+are enjoyable parties or activities for team building.
+
 .. _`dproduct`:
 
 Product
 =======
 
-Motivated by efficiency, `pproduct`_, `pinfo`_, `pfair`_, `popen`_, `pchoice`
+Motivated by efficiency, `pproduct`_, `popen`_, `pchoice`
 
 The product is the interface between
 
@@ -574,35 +582,22 @@ should form a new separate product,
 i.e. separate repo, separate `LE`_, separate econ lattice.
 The product uses the spin-off product as `cots`_.
 
-.. _`dc`:
-
-:dc:
-
-All product information is
-
-- in a **written** form
-- with **URLs**
-- over an IT network
-
-to
-
-- spread information
-- link information
-- allow recording of effort
-
 .. _`dh`:
 
 :dh: repo
 
 The product produces `cohesion`_ of content.
-All product related content is preferably in one repo.
+All product-related content is in one repo.
 
 Different products have no relation
 other than via shared contributors
 or shared `cots`_ (loose coupling).
 
-Internal information is `pgp`_-encrypted.
-Only the contributors have access to this information.
+The repo is a communication channel.
+All information must be provided
+to allow contributors to act independently.
+Also non-contributors must easily see,
+where they can contribute.
 
 The repo uses `git`_ as `version control system`_.
 
@@ -617,17 +612,14 @@ The product repo contains:
 - production (`SOP`_'s, `DMR`_, `DHF`_, ...)
 - marketing
 
-The repo is also a communication channel.
-
 The repo links profit with work via content.
 It records and provides information about
 
-- effort
+- work `tributes`_
 - profit
 
 Folders that do not depend on product version
 are kept in a separate "unversioned" git branch: e.g. financing and marketing.
-A separate repo is also possible, but has less cohesion.
 
 An example layout could look like this::
 
@@ -636,13 +628,17 @@ An example layout could look like this::
    │  ├ todo_unassigned
    │  │  └ symlink_to_content
    │  ├ contributor
-   │  │  └ contrib1
+   │  │  └ contributor1
    │  │       ├ confidential_data.pgp
-   │  │       ├ todo/
+   │  │       ├ todo
    │  │       │   └ symlink_to_content
    │  │       ├ discussions
    │  │       │   └ symlink_to_content
-   │  │       └ owns
+   │  │       ├ orders
+   │  │       │   └ cots_item
+   │  │       ├ logs
+   │  │       │   └ 2019.rst
+   │  │       └ contributions
    │  │           └ symlink_to_content
    │  ├ tribute
    │  │  ├ kind1
@@ -650,7 +646,9 @@ An example layout could look like this::
    │  │  └ calc_tributes.py
    │  └ mediation
    │     └ issue1.rst
-   ├ accounting
+   ├ account
+   │  ├ internal_orders
+   │  │  └ symlink_to_cots_item
    │  ├ product_version
    │  │  └ version1
    │  │      └ tributes.txt
@@ -658,9 +656,9 @@ An example layout could look like this::
    ├ market
    │  ├ ads
    │  └ orders
-   ├ production
+   ├ prod
    │  ├ SOPs
-   │  └ snxyz
+   │  └ SNxyz
    │     ├ DMR
    │     └ tests
    ├ pdt
@@ -702,7 +700,6 @@ An example layout could look like this::
    ├ LICENSE
    └ readme.rst
 
-
 .. _`d6`:
 
 :d6: access
@@ -714,6 +711,8 @@ It allows them
 - to check the fairness (effort, financing and marketing)
 - interact (governance)
 
+Information can be reserved to contributors by `pgp`_-encryption.
+
 *Non-contributors* have also access to all non-encrypted information
 
 - to allow them to choose to contribute
@@ -721,10 +720,6 @@ It allows them
 - to keep `tributes`_ together with content
   if the repo or even the whole project is forked
   (see `dx`_ and `dj`_).
-
-Encrypted information could be handled by a separate repo,
-with access limited to contributors,
-but the disadvantage is less cohesion.
 
 .. _`ds`:
 
@@ -818,7 +813,7 @@ Until then tributes can still be
 - inherited
 - used as pledge for a loan
 
-Tributes are not for sale, else they would become like `stock`_.
+Tributes are not for sale, else they would become like normal `stock`_.
 Tributes get value in the outside economy only through selling the product.
 
 .. _`dworkunit`:
@@ -937,7 +932,8 @@ The major costs for technical products are development.
 If developers can afford to wait for the revenue via sale of the finished product,
 there is not much money needed.
 
-Smaller expenses can be financed from the contributors.
+Smaller expenses can be financed from the contributors,
+but through the `LE`_ (`dw`_).
 
 Financing through `stock`_ cannot be used,
 because `LE`_ ownership
@@ -988,8 +984,7 @@ Interest rate is for risk and to some extend honoring trust, but not for profit 
 profit = income - expenses within a financial period.
 
 Expenses are only those related to the product.
-Expenses need to be handled by the `LE`_
-to account them to the product.
+Expenses need to be handled by the `LE`_ (`dw`_).
 
 *Work is not an expense*,
 because the profit becomes the reward for the work.
@@ -1042,7 +1037,7 @@ The risk is
 - taken by creditors if financed by bonds and
 - considered via the interest rate on the bonds
 
-The contributors unanimously establish guidelines for advances.
+The contributors unanimously establish rules for advances.
 
 Based on the guidelines,
 the `LE`_ agrees on the amount of advances
@@ -1095,10 +1090,8 @@ The information is placed in the product repo.
 .. _`popen`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#popen
 .. _`pchoice`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pchoice
 .. _`powner`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#powner
-.. _`pinfo`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pinfo
 .. _`pnoboss`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pnoboss
 .. _`pnoemployment`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pnoemployment
-.. _`pleproduct`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pleproduct
 .. _`pnostock`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pnostock
 .. _`pprofit`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pprofit
 .. _`pfair`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pfair
