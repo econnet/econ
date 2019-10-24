@@ -84,6 +84,9 @@ Fairness needs
 This file is the plan.
 The next step: `do <https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst>`_.
 
+Of course everybody is free to engage in unfair relationships.
+But there are undesirable effect for the economy as a whole, if too many do that.
+
 .. _`peconomyofemotions`:
 
 Economy of Emotions
@@ -1265,3 +1268,4 @@ Many companies servicing an open automation infrastructure
 .. _`operations manual`: https://en.wikipedia.org/wiki/Operations_manual
 .. _`liberté-égalité-fraternité`: https://en.wikipedia.org/wiki/Libert%C3%A9,_%C3%A9galit%C3%A9,_fraternit%C3%A9
 .. _`pdt`: https://github.com/rpuntaie/pdt
+.. _`separation of powers`: https://en.wikipedia.org/wiki/Separation_of_powers

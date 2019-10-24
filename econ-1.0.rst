@@ -1079,7 +1079,6 @@ The information is placed in the product repo.
 .. _`legal entity type`: https://en.wikipedia.org/wiki/List_of_legal_entity_types_by_country
 .. _`cooperative`: https://en.wikipedia.org/wiki/Cooperative
 .. _`ombudsman`: https://en.wikipedia.org/wiki/Ombudsman
-.. _`separation of powers`: https://en.wikipedia.org/wiki/Separation_of_powers
 .. _`audit`: https://en.wikipedia.org/wiki/Audit
 .. _`pgp`: https://wiki.archlinux.org/index.php/GnuPG#Encrypt_and_decrypt
 .. _`cots`: https://en.wikipedia.org/wiki/Commercial_off-the-shelf

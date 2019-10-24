@@ -254,20 +254,20 @@ which allows easy sharing of content and work.
 The econ contract is founded on basic (economic) principles, i.e. not `ideological`_  (`peconomyofemotions`_, `principles`_).
 
 The econ contract does not enforce any ideas, nor does it demand loyalty or subordination,
-but offers a fairer cooperation to those interested (`pchoice`).
+but offers a fairer cooperation to those interested (`pchoice`_).
 
-The econ lattice is no huge organization, but pragmatic per product (`pproduct`).
+The econ lattice is no huge organization, but pragmatic per product (`pproduct`_).
 
 In the econ contract has no central control, no boss (`pnoboss`_).
 
 The econ has no subordinate roles like employees (`pnoemployment`_).
 
 Base ownership on *relevant* work to fit valuation to reality,
-instead of stock `bubbles`_ (`powner`, `pnostock`_).
+instead of stock `bubbles`_ (`powner`_, `pnostock`_).
 
 Open development avoids abuse of information, reduces effort and increases fairness (`popen`_).
 
-The econ contract demands effort on fairness (`pfair`).
+The econ contract demands effort on fairness (`pfair`_).
 
 
 .. _`peconomyofemotions`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#peconomyofemotions
