@@ -60,7 +60,6 @@ Here the results are summarized
 
 :pnoemployment: No separate labor market, no employment  (`importance of fairness`_, `employment disadvantages`_).
 
-
 .. _`pnostock`:
 
 :pnostock: The `legal entity`_ does not use `stock`_ for financing the product effort (`no shares`_).
@@ -909,8 +908,6 @@ Information is
 
 Opening up information is an easy way to make each other's life easier.
 
-It is only a question of organizing the profit distribution,
-e.g. via license or effort recording in the same repo.
 If the information is a byproduct of one's profitable work,
 because one needs to write things down anyway,
 there is no extra effort in sharing,
@@ -926,12 +923,17 @@ Complex Systems
 - consists of pure information
 - is complex
 
-But all technical systems build on information.
+But *all* technical systems build on information.
+Open source can be seen more generally as open information.
 
 Hardware should first be simulated,
 but definitely also needs physical prototyping and testing effort.
 This is considerable effort that should not need to be repeated,
 which can be easily avoided by sharing information.
+
+The invested effort comes back from the community,
+by not having to do the effort on a similar occasion,
+because this time somebody else already did it.
 
 Many complex systems are still hidden.
 This `protectionism`_ is stifling cooperation just like it does between countries.
@@ -942,10 +944,11 @@ So reducing the competition to the level of the final product should be an excep
 An alternative to a company owning a complex system is to use `open development`_:
 the complex system is open source and one offers work on it as a service.
 
-The costs to develop a complex systems alone are prohibitive.
+The effort to develop a complex system alone are prohibitive.
 The consumer will not want to pay the effort more times.
 This demands for cooperation on all levels.
-Complex systems are better not owned.
+Opening up the description of the complex system,
+makes it easy to cooperatively work on it.
 
 Because `open development`_ is less effort,
 those who start will force others to follow to stay competitive.
@@ -953,7 +956,7 @@ those who start will force others to follow to stay competitive.
 There can be economic relationships of servicing on the complex system instead.
 Many small detailed technical contributions have no market to agree on a price, though.
 So there will be many individual contributions everybody can profit from.
-Also those who contribute will get a return of investment
+Also, those who contribute will get a return of investment
 
 - by the contributions of others
 - by the right to use the system
@@ -964,12 +967,13 @@ Also for production there are local and global services (`3d`_, `pcb`_, ...).
 
 Benefits of `open development`_ are many, but can be summarized by
 
-- *information sharing is easy and reduces effort*
+- *Sharing* an information repository *reduces effort* to **create** the information and to *use* (**select**) it.
+  (create-select is evolution: i.e. less evolution effort, less development effort).
 
-More detailed:
+More detailed: Open source (open information)
 
-- Sharing information means overall less effort and thus also less energy waste and less footprint.
-- Open source lowers the threshold to enter the market of complex products
+- means overall less effort and thus also less energy waste and less footprint
+- lowers the threshold to enter the market of complex products
 - produces supply better fitting the demand
   (big companies cannot react to `niche`_ needs)
 - removes the dominance of big companies, which stand for inequality
@@ -978,16 +982,15 @@ More detailed:
 - more developer independence
 - creates freedom and continuity for the product and the developer
 - speeds up technological evolution as a whole
-- If joining due to technical interest, this interest can be developed,
-  because the invested time is payed
-- New different products can benefit from existing products
-- Investment into research can be valuable for different products,
-  even if the product turns out not yet feasible with existing technology
-- Cooperation produces cheaper and better products.
-- Appreciation for contribution is rewarding while unfair competition is frustrating.
-- Cooperatively competing solutions are different solutions allowing to select the best solution
-- fairer distribution of wealth
-- crowd sourcing, many little contributions add up
+- allows tech people to develop interest on it
+- allows different products to benefit from existing products
+- allows work investment to be valuable
+  even if the endeavor out not yet feasible with existing technology
+- produces cheaper and better products
+- makes contributions rewarding compared frustrating unfair competition
+- allows to choose the best of cooperatively competing solutions
+- produces fairer distribution of wealth
+- allows crowd sourcing (many little contributions add up)
 
 - Customers do get
 

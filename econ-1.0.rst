@@ -27,7 +27,7 @@ This contract is between the `contributors`_
 to the `product`_ repository (`repo <#dh>`_)
 that contains this file.
 
-`product`_ refers to a technical device.
+`product`_ refers to what is sold on the market, gratis or not.
 
 The goal of the econ contract is to assure
 that all profit from marketing the product
@@ -35,7 +35,7 @@ is distributed to the `contributors`_ of the product.
 
 The repo's purpose is to hold
 all information associated with the product
-from inception to marketing, technical and organizational.
+from inception to production and marketing, technical and organizational.
 
 The repo contains also the information about
 
@@ -163,10 +163,6 @@ Micro-contributors are those that contribute below this effort.
 Micro-contributors are not registered contributors
 and therefore not considered in the profit distribution.
 
-A product with only micro-contributors created by a community
-is a byproduct of their work.
-Such a product can do without marketing and profit distribution effort.
-
 .. _`dl`:
 
 :dl: reliability
@@ -226,12 +222,6 @@ to do without coordination.
 
 :dk: choice
 
-The content is created according `pdt`_ in all layer
-
-- plan: motivate
-- do: fix specification (spec)
-- test: check actual result with spec
-
 The product to a large part determines the work that needs to be done.
 
 Based on the existing plans in the repo,
@@ -239,7 +229,7 @@ Based on the existing plans in the repo,
 from a list of unassigned work in the repo.
 
 If there is no unassigned work listed,
-aspirant contributors can suggest new work via `pdt`_.
+aspirant contributors can make a work proposal (e.g. according `pdt`_).
 
 There are no predefined roles.
 
@@ -249,25 +239,21 @@ There are no predefined roles.
 
 Decision making is based on the principle:
 
-- *Those decide that have most information*.
+- Those decide who are most concerned.
 
-Affected others are consulted and informed about the decision.
+If more are concerned, there needs to be a proposal.
+The proposal is worked out by one person (e.g. according `pdt`_)
+either because of
 
-.. _`dq`:
+- personal interest/stake or
+- expertise
 
-:dq: legislative
+Normally that person also executes or coordinates the according effort.
 
-A decision needs a proposal.
-The proposal is worked out by the one interested person according `pdt`_.
-Normally that person also does or coordinates the according effort.
+Decisions are democratic between those concerned,
+either by direct or delegated vote.
 
-If more are concerned by a proposal,
-decisions are democratic between those concerned, either
-
-- by direct vote or
-- through elected or otherwise agreed delegation
-
-The *vote weight* is proportional to the contribution of the content concerned.
+The *vote weight* is proportional to `tributes`_.
 
 Compliance to contracts (this file, license) is not for vote, though.
 Changes to contracts can only be done *unanimously*.
@@ -276,7 +262,7 @@ and convert tributes to stock and sell the `LE`_.
 
 .. _`df`:
 
-:df: judicial
+:df: fairness
 
 Having access to all product information,
 including `tributes`_ and financial `LE`_ data,
@@ -344,8 +330,9 @@ The `LE`_ cares about product-specific interaction
 
 The `LE`_ is per product.
 A new version of the product has the same `LE`_,
-even if the project is forked into more repos (see `dx`_),
-but possibly a changed econ lattice.
+even if the project is forked into more repos (see `ds`_).
+
+A new version of the product possibly has a changed econ lattice.
 
 `LE`_ ownership is summarized over all versions.
 
@@ -375,10 +362,15 @@ All product-related cash flow goes via the `LE`_,
 to account them to the product according government requirements.
 
 The contributors have control over the financial channels (e.g. bank account),
-but it is delegated to the `LE`_ and executed by buyers and sellers,
+but it is delegated to the `LE`_,
 which register the money flows in the repo,
 for everybody to check,
 with possible additional checks from specialized fairness checkers.
+
+There can be more econs that concentrate on marketing (e.g. according region).
+They register their effort in the repo.
+The customer pays to the `LE`_ account.
+The seller gets the profit proportional to the `tributes`_.
 
 .. _`dv`:
 
@@ -511,12 +503,10 @@ Product
 
 Motivated by efficiency, `pproduct`_, `popen`_, `pchoice`
 
-The product is the interface between
+The product is a finished (tested, readily usable) item by which
 
-- the inside market (contributors) and
-- the outside market (customers)
-
-Product refers to a physical device with a construction effort.
+- contributors interact with the
+- the market (customers)
 
 .. _`d8`:
 
@@ -524,7 +514,7 @@ Product refers to a physical device with a construction effort.
 
 Information about the product is not the product.
 
-The product repo has free `access`_.
+The product `repo <#dh>`_ has open `access`_.
 
 The repo and thus the information in the repo
 can be used according the license.
@@ -534,7 +524,7 @@ can be used according the license.
 :da: existing
 
 The product does not need to be a new product type.
-An existing price and market is valuable for planning.
+An existing product price and market is valuable for planning.
 The new open development method
 
 - can make a difference on the market
@@ -563,14 +553,15 @@ because it is not prolonged work.
 
 :d7: software byproducts
 
-Software created or improved along the product development,
+New software created along the product development,
 but not directly linked to the product
-is released separately with GPL-3.0 license.
-The efforts can still be recorded to the product repo,
-because needed by the product.
-This procedures produces more free software
-which means less organizational overhead
-for future products under the econ contract.
+is released as separate product with GPL license.
+
+Effort spent on GPL software needed by the product
+is accounted to the product.
+
+This procedures produces more reusability and more open software,
+which means less organizational overhead for future products.
 
 .. _`de`:
 
@@ -704,22 +695,30 @@ An example layout could look like this::
 
 :d6: access
 
-The registered *contributors* have access to all information.
+The registered *contributors* have access to the repo
 It allows them
 
 - to do their work (development and production)
 - to check the fairness (effort, financing and marketing)
 - interact (governance)
 
-Information can be reserved to contributors by `pgp`_-encryption.
-
-*Non-contributors* have also access to all non-encrypted information
+*Non-contributors* have access to the repo
 
 - to allow them to choose to contribute
 - to avoid repeating effort
 - to keep `tributes`_ together with content
-  if the repo or even the whole project is forked
-  (see `dx`_ and `dj`_).
+
+Open information is to share effort.
+The econ contract demands profit distribution proportional to `tributes`_.
+Forking, even project forking,
+
+- does not lose the `tributes`_ and thus 
+- still leads to profit for the contributors
+
+See also `ds`_ and `dj`_.
+
+Some information in the repo
+can be reserved to contributors by `pgp`_-encryption.
 
 .. _`ds`:
 
@@ -733,13 +732,37 @@ Access includes forking and creating pull requests.
 
 The bottom econ needs to react timely to such pull requests.
 
+All pull requests get merged into the original repo at least after mediation.
+If there is a conflict, e.g. out of differing technical opinions,
+a new repo branch is created for the new product version with.
+
 .. _`dx`:
 
-:dx: merge
+:dx: pricing
 
-All pull requests get merged at least after mediation.
-If there is a conflict, e.g. out of differing technical opinions,
-a new product version with a new repo branch is created.
+The product is *not gratis*, but produces a profit,
+which requires recording `tributes`_ for fair distribution of profit.
+
+The pricing needs to consider several aspects and all the data in the repo.
+The product price is proposed by one person and internally `decided <#dp>`_.
+
+A gratis product is normally
+
+- a product with only micro-contributors created by a community (of users)
+- a byproduct of work otherwise rewarded
+
+Information, including software, should be gratis,
+
+- because those using the information should be able to change it, if not applicable as provided
+- because there is *no construction cost* (`variable cost`_) and so
+  - everybody can construct for personal use and
+  - there is no loss if someone else also uses it
+- because using information is sometimes more effort than creating it
+
+Experts
+
+- get payed to consult pure users of the product
+- so their contribution to the product is directly rewarded from the users (no need to record `tributes`_)
 
 .. _`dwork`:
 
@@ -750,16 +773,15 @@ Motivated by `pnoemployment`_, `pnostock`_.
 
 .. _`d2`:
 
-:d2: priceless
+:d2: invaluable
 
 The actual value of product-related work
 is only determined by the success of the product on the market.
 To stop inequality from growing, it is essential
 
-- *not to give a price to product-related work using an outside currency*
+- *not to value product-related work using an outside currency*
 
-The outside price of work is decoupled from the actual value of work
-and cannot be a reference.
+A separate labor market, decoupled from the produced value, cannot be a reference.
 
 *Work* does not only refer to technical development of the product,
 but to all aspects to make a finished product successful on the market.
@@ -796,7 +818,7 @@ The **econ contract** requires the `LE`_ to care to
 - *distribute* profit proportionally
 
 All these words contain "tribute".
-Therefore the product-related unit of work result is called tribute.
+Therefore the effort to provide the product is called tribute.
 
 Tributes
 
@@ -870,17 +892,16 @@ The tribute unit has no exchange rate to an outside currency.
 
 :d1: tribute algorithm
 
-The repo contains an algorithm that 
+The repo contains an algorithm that
 *automatically* calculates the contributor's tributes from the repo.
 
-This *tribute algorithm* needs to be finalized
-latest when pricing the product for the outside market.
-
-Files are ordered by content,
+In the product repo files are ordered by content,
 but can be associated by *symbolic links* to
 
 - kind of work
 - contributor
+
+to provide input for the algorithm.
 
 Review/change on file(s) of other contributor
 is considered by a report file
@@ -902,7 +923,7 @@ This is true for accounting in general.
 Tools
 -----
 
-Tools have an outside economy price.
+Tools have a market price.
 They can therefore be accounted with that currency.
 
 Product-specific tools are completely accounted to the product.
@@ -913,13 +934,11 @@ cheap and obvious non-product-specific tools can be subsumed by either
 - work kind or
 - contributor
 
-More expensive non-product-specific tools are accounted separately with the market price.
-E.g. a car can considered by the price of renting the car,
+More expensive non-product-specific tools not exclusively for the product,
+are outsourced to a separate entity.
+E.g. a car can be considered by the renting cost,
 even if it is owned by the contributor
 when using it for a product-specific work.
-
-Investment in big machines not exclusively for the product,
-are outsourced to a separate company.
 
 .. _`dfinancing`:
 
@@ -950,7 +969,7 @@ Money *cannot* be used to change ownership of the `LE`_.
 Bonds don't change ownership.
 The profit through ownership is higher than
 the interest on bonds. Also,
-the interest on bonds can be considered in the pricing of the product.
+the interest on bonds can be considered in the product price.
 
 .. _`du`:
 
@@ -1037,7 +1056,7 @@ The risk is
 - taken by creditors if financed by bonds and
 - considered via the interest rate on the bonds
 
-The contributors unanimously establish rules for advances.
+The contributors unanimously `decide <#dp>`_ on a contract for advances.
 
 Based on the guidelines,
 the `LE`_ agrees on the amount of advances
@@ -1083,6 +1102,7 @@ The information is placed in the product repo.
 .. _`pgp`: https://wiki.archlinux.org/index.php/GnuPG#Encrypt_and_decrypt
 .. _`cots`: https://en.wikipedia.org/wiki/Commercial_off-the-shelf
 .. _`risk assessment`: https://en.wikipedia.org/wiki/Risk_assessment
+.. _`variable cost`: https://en.wikipedia.org/wiki/Variable_cost
 
 
 .. _`pproduct`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pproduct
@@ -1095,3 +1115,4 @@ The information is placed in the product repo.
 .. _`pprofit`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pprofit
 .. _`pfair`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pfair
 
+.. dq
