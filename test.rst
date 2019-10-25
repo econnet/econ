@@ -1,10 +1,6 @@
 .. encoding: utf-8
 .. vim: syntax=rst
 
-####
-ECON
-####
-
 ******************
 Econ Contract Test
 ******************

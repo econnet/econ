@@ -1,11 +1,6 @@
 .. encoding: utf-8
 .. vim: syntax=rst
 
-####
-ECON
-####
-
-
 ********************************
 Motivations: Economic Inequality
 ********************************
