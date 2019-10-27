@@ -259,7 +259,7 @@ In the econ contract has no central control, no boss (`pnoboss`_).
 The econ has no subordinate roles like employees (`pnoemployment`_).
 
 Base ownership on *relevant* work to fit valuation to reality,
-instead of stock `bubbles`_ (`powner`_, `pnostock`_).
+instead of stock `bubbles`_ (`pchoice`_, `pnostock`_).
 
 Open development avoids abuse of information, reduces effort and increases fairness (`popen`_).
 
@@ -270,7 +270,6 @@ The econ contract demands effort on fairness (`pfair`_).
 .. _`pproduct`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pproduct
 .. _`popen`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#popen
 .. _`pchoice`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pchoice
-.. _`powner`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#powner
 .. _`pinfo`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pinfo
 .. _`pnoboss`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pnoboss
 .. _`pnoemployment`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pnoemployment

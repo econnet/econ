@@ -29,11 +29,11 @@ Below follows broad and deep argumentation
 - how things are but should not be
 - i.e. motivating to do things differently
 
-Here the results are summarized
+Here the consequences are summarized
 
 .. _`pproduct`:
 
-:pproduct: Base fair value-to-work mapping on the product (`continuity`_, `employment disadvantages`_, `legal company`_).
+:pproduct: Base value of work on the product value (`continuity`_, `employment disadvantages`_, `legal company`_).
 
 .. _`popen`:
 
@@ -41,11 +41,8 @@ Here the results are summarized
 
 .. _`pchoice`:
 
-:pchoice: Contributors choose to work on a product (`personality`_).
-
-.. _`powner`:
-
-:powner: Contributors become product owners (`company ownership`_, `work for equality`_).
+:pchoice: Contributors *choose* the product to work on (`personality`_) and
+          become product owners by contributing (`company ownership`_, `work for equality`_).
 
 .. _`pnoboss`:
 
@@ -77,9 +74,6 @@ Fairness needs
 
 This file is the plan.
 The next step: `do <https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst>`_.
-
-Of course everybody is free to engage in unfair relationships.
-But there are undesirable effect for the economy as a whole, if too many do that.
 
 .. _`peconomyofemotions`:
 
@@ -375,7 +369,7 @@ Real economy is also reduced with `shares`_:
   - waste time gathering information about the company they hold a few shares of or
   - delegate to `bullshit-jobs`_ in `managed`_ `funds`_.
 
-- Majority `stock`_ holders or direct owners get too rich.
+- Majority `stock`_ holders or direct owners have too much control and get too rich.
 
 The money of the super rich is lost,
 because accepting it would further increase inequality.
@@ -392,7 +386,7 @@ Freedom
 
 A person with own thoughts needs freedom for own plans.
 
-Free choices are not possible without resouces,
+Free choice is not possible without resouces,
 without alternatives to choose from.
 Free choice depends on money.
 
@@ -511,7 +505,10 @@ because a fairer distribution makes an economy grow.
 
 A financial crises is reached when the limit of exploitation is reached.
 A good example is the `2007-2008 crisis`_.
-The rich need to invest, which means that the poor need to incur debt.
+The rich need to invest and the poor need to incur debt,
+but, since poor, the creditworthiness is low.
+So, the more inequality the riskier the financial market.
+Inequality is a bubble to burst at some point (crash).
 
 The way via fairer laws is often not taken,
 because the minority, that profits from `inequality`_,
