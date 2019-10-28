@@ -11,27 +11,20 @@ Econ Contract
 Summary
 =======
 
-The econ contract are *additional terms* (7) to GPL-3.0 at the end of this file.
+These are *additional terms* (7) to GPL-3.0 at the end of this file for a commercial product.
+`product <#dproduct>`_ refers to what is sold on the market.
 
-The name *econ* stands for
+| This is a contract between `contributors <#dcontributors>`_ to the `product <#dproduct>`_.
+| This is a license to non-contributors to the `product <#dproduct>`_.
+| This specifies when a non-contributor becomes a contributor.
 
-- ECOnomic interaction Node: a node in the organizational lattice
-- Economic CONtent: a node in the content lattice
-- Economic/Ethical/"Employless" CONtribution/CONstruction of tech devices, because efficient and counteracting inequality
+The econ contract defines rules by which
+product profit is distributed to the `contributors <#contributors>`_
+without sacrificing `open development`_.
 
-The econ contract is between `contributors`_ to the `product`_.
-
-`product`_ refers to what is sold on the market.
-
-`Repo`_ is the `product`_ repository contains this file.
-
-The goal of the econ contract is to assure
-that all profit from marketing the product
-is distributed to the `contributors`_ of the product.
-
+`Repo`_ refers to the `product <#dproduct>`_ repository containing this file.
 The `repo`_'s purpose is to hold
-all information associated with the product
-
+all information associated with the product.
 The `repo`_ contains also the information about
 
 - who contributed
@@ -39,6 +32,13 @@ The `repo`_ contains also the information about
 - how the profit is accordingly distributed
 
 When the `repo`_ is modified this information must be kept up-to-date.
+
+The name *econ* stands for
+
+- ECOnomic interaction Node: a node in the organizational lattice
+- Economic CONtent: a node in the content lattice
+- Economic/Ethical/"Employless" CONtribution/CONstruction of tech devices,
+  because efficient and counteracting inequality
 
 Governance
 ==========
@@ -621,75 +621,42 @@ Modifications (`forks <#ds>`_) do the same.
 The product repo contains:
 
 - governance (`LE`_ contact data, values, contributors, `work kinds <#dn>`_, ...)
-- financing (expenses, income, `liabilities`_, ...)
+- accounting (expenses, income, `liabilities`_, ...)
 - development (hardware, software, test, development docs, usage docs, license, ...)
 - production (`SOP`_'s, `DMR`_, `DHF`_, ...)
 - marketing
 
-The repo links profit with work via content.
-It records and provides information about
-
-- work `tributes <#dtributes>`_
-- profit
-
-`Forks <#ds>`_ must keep this information up-to-date.
-
-Folders that do not depend on product version
-are kept in a separate "unversioned" git branch: e.g. financing and marketing.
-
-An example layout could look like this::
+An example layout of product version branches could look like this::
 
   repo
-   ├ gov
-   │  ├ le/
+   ├ tribute
    │  ├ todo_unassigned
-   │  │  └ symlink_to_content
+   │  │   └ symlinked content
    │  ├ contributor
-   │  │  └ contributor1
-   │  │       ├ confidential_data.pgp
+   │  │   └ contributor1
    │  │       ├ todo
-   │  │       │   └ symlink_to_content
+   │  │       │   └ symlinked content
    │  │       ├ discussions
-   │  │       │   └ symlink_to_content
-   │  │       ├ orders
-   │  │       │   └ cots_item
+   │  │       │   └ symlinked content
    │  │       ├ logs
-   │  │       │   └ 2019.rst
+   │  │       │   └ 2019.rest
    │  │       └ contributions
-   │  │           └ symlink_to_content
-   │  ├ tribute
-   │  │  ├ kind1
-   │  │  │    └ symlink_to_content
-   │  │  └ calc_tributes.py
-   │  └ mediation
-   │     └ issue1.rst
-   ├ account
-   │  ├ internal_orders
-   │  │  └ symlink_to_cots_item
-   │  ├ product_version
-   │  │  └ version1
-   │  │      └ tributes.txt
-   │  └ 2019_ledger.journal.pgp
-   ├ market
-   │  ├ ads
-   │  └ orders
-   ├ prod
-   │  ├ SOPs
-   │  └ SNxyz
-   │     ├ DMR
-   │     └ tests
+   │  │           └ symlinked content
+   │  └ kind
+   │      └ kind1
+   │          └ symlinked content
+   ├ doc
+   │  ├ index.rest
+   │  └ tutorial.rest
    ├ pdt
    │  └ 000
    │      ├ info.rest
    │      ├ plan.rest
    │      ├ do.rest
    │      └ test.rest
-   ├ doc
-   │  ├ index.rest
-   │  └ tutorial.rest
    ├ dev
    │  ├ bugs
-   │  │  └ issue1.rst
+   │  │  └ issue1.rest
    │  ├ hw
    │  │  ├ part1
    │  │  │   ├ plan.rest
@@ -715,6 +682,39 @@ An example layout could look like this::
    ├ LICENSE-econ-1.0.txt
    └ readme.rst
 
+An example layout of the "LE" branch could look like this::
+
+  repo
+   ├ le
+   │  └ data.yaml
+   ├ tribute
+   │  └ calc_tributes.py
+   ├ process
+   │  └ SOP
+   │     └ procurement.rest
+   ├ contributor
+   │  └ contributor1
+   │     └ orders
+   │         └ cots_item
+   ├ mediation
+   │  └ issue1.rest
+   ├ account
+   │  ├ internal_orders
+   │  │  └ symlinked cots_item
+   │  ├ product_version
+   │  │  └ version1
+   │  │      └ tributes.txt
+   │  └ 2019_ledger.journal.pgp
+   ├ market
+   │  ├ ads
+   │  └ orders
+   ├ prod
+   │  └ SNxyz
+   │     ├ DMR
+   │     └ tests
+   ├ LICENSE-econ-1.0.txt
+   └ readme.rst
+
 .. _`d6`:
 
 :d6: access
@@ -723,7 +723,7 @@ The registered *contributors* have access to the repo
 It allows them
 
 - to do their work (development and production)
-- to check the fairness (effort, financing and marketing)
+- to check the fairness (tributes, accounting and marketing)
 - interact (governance)
 
 *Non-contributors* have access to the repo
@@ -759,9 +759,21 @@ to *avoid product forks*.
 A product fork is a product version.
 It is preferred to keep product versions as branches in the orginal repo.
 
-All contributions promising to be `relevant <#drelevant>`_
-get merged into the original repo at least after mediation.
-Existing contributors provide/allow/grant `choice <#dk>`_ to contribute.
+The `repo <#drepo>`_ links profit with work by recording and providing information about
+
+- work `tributes <#dtributes>`_
+- profit
+
+`Forks <#ds>`_ must keep this information up-to-date.
+
+Folders that do not depend on product version
+are kept in a separate "LE" git branch of the *original repo*,
+this includes accounting and marketing.
+Tributes are calculated per product version,
+but the algorithm is in the LE branch.
+
+All contributions promising to be `relevant <#drelevant>`_ get merged into the original repo.
+Existing contributors provide/allow/grant `choice <#dk>`_ to contribute to new contributors.
 
 .. _`dwork`:
 
@@ -805,7 +817,7 @@ Previous contributors
 Work is measured by its result.
 
 *Relevancy* requires work to be associated with product parts and thus econs.
-When the part is replaced that work becomes irrelevant.
+When the part is replaced, that work becomes irrelevant.
 For `diversification`_ people should contribute to more parts.
 
 Work that is not exclusively for the specific product is its own product,
@@ -868,13 +880,13 @@ therefore fast results of low quality will still take longer to reach accepted q
 
 Every kind of work has its own result unit.
 
-*Work kinds* units can be
+*Work kind* units can be
 
 - lines of a report (steps taken,...)
 
 - lines of a plan (why, requirements, testing, ...)
 
-- number of records per type (account journal, contributors recruited, customers acquired, ...)
+- number of records per type (postings accounted, contributors recruited, customers acquired, ...)
 
 - lines of code (described as much as possible with a language, general is preferred over `DSL`_)
 
@@ -911,8 +923,7 @@ which is associated to the reviewer or bug fixer.
 How and how precise work is recorded needs to be agreed upon.
 There should be an effort in the fair attribution of work,
 but how much is decided by the contributors by proposal and vote.
-Micro-recording and micro-payments produce more effort than value
-and thus produce deficit.
+Micro-recording and micro-payments produce more effort than value.
 This is true for accounting in general.
 
 .. _`dtools`:
@@ -1041,11 +1052,6 @@ Finished work contributions constitute `tributes <#dtributes>`_,
 which have an internal value (if staying `relevant <#drelevant>`_),
 and can be used as internal security for advances.
 
-Advances must be payed back to the `LE`_
-if the product does never make a profit (e.g. because not completed).
-If not recoverable as cash,
-work to produce product profit can be legally enforced (complete product, market product, ...).
-
 The `LE`_ raises advances by donations and `bonds`_.
 If the `LE`_ gets bankrupt, `bonds`_ might be lost.
 The risk is
@@ -1056,8 +1062,7 @@ The risk is
 The contributors unanimously `decide <#dp>`_ on a contract for advances.
 
 Based on the guidelines,
-the `LE`_ agrees on the amount of advances
-separately with every contributor.
+the `LE`_ agrees on the amount of advances separately with every contributor.
 The information is placed in the product `repo`_.
 
 *******
@@ -1783,6 +1788,7 @@ GPL-3.0
 .. _`risk assessment`: https://en.wikipedia.org/wiki/Risk_assessment
 .. _`variable cost`: https://en.wikipedia.org/wiki/Variable_cost
 .. _`bond rating`: https://en.wikipedia.org/wiki/Bond_credit_rating
+.. _`open development`: https://en.wikipedia.org/wiki/Open-source_model
 
 .. _`pproduct`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pproduct
 .. _`popen`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#popen
