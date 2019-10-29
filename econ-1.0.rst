@@ -259,14 +259,14 @@ The *vote weight* is proportional to `tributes <#dtributes>`_.
 Compliance to contracts (this file, license) is not for vote, though.
 Changes to contracts can only be done *unanimously*.
 E.g. the contributors can unanimously end the econ contract
-and convert tributes to stock and sell the `LE`_.
+and convert tributes to normal stock.
 
 .. _`df`:
 
 :df: fairness
 
 Having access to all product information,
-including `tributes <#dtributes>`_ and financial `LE`_ data,
+including `tributes <#dtributes>`_ and financial data,
 all contributors can check fairness.
 
 An additional `ombudsman`_
@@ -274,6 +274,29 @@ An additional `ombudsman`_
 - actively checks practices against this contract
 - handles reported fairness issues or
 - mediates other conflicts
+
+.. _`dc`:
+
+:dc: written
+
+All product-related information and communication is in the product `repo <#dh>`_.
+
+- in a **written** form
+- with **URL**
+
+to
+
+- spread information
+- link information
+- allow recording of effort
+
+Communication in other channels
+are copied/recorded into the repo afterwards,
+if `relevant <#drelevant>`_ for the product.
+
+Meetings, if any,
+are enjoyable parties or activities for team building,
+normally not related and attributed to the product.
 
 .. _`dlegal`:
 
@@ -283,11 +306,12 @@ Legal
 Motivated by `pproduct`_, `pnoemployment`_
 
 The econ values are not specific to a government.
-They need to be compatible (legal) with all involved governments.
+They need to be compatible with all involved governments.
 
 The fact that the econ lattice consists of econs,
 allows each econ to be in a different government.
-The econ, natural person or legal person, cares to interact with its government.
+The *econ*, natural person or legal person,
+*cares to interact with its government*.
 
 .. _`d0`:
 
@@ -302,12 +326,18 @@ bound by this econ contract.
 
 :le: legal entity
 
-The bottom econ founds a company
+Founding an `legal entity`_  (LE)
+is not a requirement of the government,
+because the econs are separately registered.
+But an `LE`_ can act as a single entity legally
+and can take over `liability <#dy>`_.
+
+The bottom econ founds the `LE`_
 already during development,
 if money flow is involved during the development of the product,
 else before marketing.
 
-`legal entity`_ (LE) refers to the bottom econ as a company,
+`LE`_ refers to the bottom econ as a company representing the product,
 else *bottom econ* is used (which can still be a person or a group of people).
 
 The `LE`_ cares about product-specific interaction
@@ -315,6 +345,67 @@ The `LE`_ cares about product-specific interaction
 - with its government
 - creditors
 - contributors
+
+.. _`dd`:
+
+:dd: founding
+
+Founding an `LE`_ must not produce `LE`_/product ownership.
+Only subsequent product-relevant work produces `LE`_/product ownership.
+
+When founding the `LE`_ the `articles of association`_ contain
+
+- a description of the product the `LE`_ is for
+- the econ contract
+- the representatives
+- how members are added or removed later (only for `cooperative`_)
+- additional information as required by the government
+
+.. _`di`:
+
+:di: control
+
+An `LE`_ is only interface (an address)
+
+- for the government
+- for the market
+
+Contributors secure control over the `LE`_
+
+- by this econ contract and possibly
+- by registering as member to the `LE`_,
+  if its `legal entity type`_
+  gives control to the members by default (`cooperative`_, `joint-stock company`_)
+
+A `joint-stock company`_ satisfies the econ values
+if the `articles of association`_ assure that `tributes <#dtributes>`_ are the only "stock"
+
+.. _`dy`:
+
+:dy: limited liability
+
+An initial `LE`_ cannot be a `limited liability`_ `LE`_,
+unless the founders forward `liable capital`_.
+`Liable capital`_ emphasize its purpose as risk capital without defining ownership.
+
+There is also probably no need for `limited liability`_
+before actually interacting with the outside economy.
+
+It is better therefore to found a  `limited liability`_ `LE`_
+only before selling the product,
+
+- by conversion from an existing `LE`_
+- by creating an additional production and marketing `LE`_ joining the product econ lattice
+- by creating an `LE`_ only when actually producing and marketing
+
+When the product development is finished
+
+- most product owners are known by their contributions
+- the `liable capital`_ can be raised by these contributors
+- `liable capital`_ overlaps with outside economy's definition of `equity`_,
+  but we keep the distinction by continuing to use `liable capital`_.
+
+The `LE`_ takes the responsibility for the product according `limited liability`_.
 
 .. _`dj`:
 
@@ -402,90 +493,6 @@ whether the same or different.
 
 Concentrating the effort of government interaction to saves effort is up to the econs,
 as it is no product specific, since econs can contribute to more products.
-
-.. _`dd`:
-
-:dd: founding
-
-Founding a `LE`_ must not produce `LE`_/product ownership.
-Only subsequent product-relevant work produces `LE`_/product ownership.
-
-When founding the `LE`_ the `articles of association`_ contain
-
-- a description of the product the `LE`_ is for
-- the econ contract
-- the representatives
-- how members are added or removed later (only for `cooperative`_)
-- additional information as required by the government
-
-.. _`di`:
-
-:di: control
-
-A `LE`_ is only interface (an address)
-
-- for the government
-- for the market
-
-Contributors secure control over the `LE`_
-
-- by this econ contract and possibly
-- by registering as member to the `LE`_,
-  if its `legal entity type`_
-  gives control to the members by default (`cooperative`_, `joint-stock company`_)
-
-A `joint-stock company`_ satisfies the econ values
-if the `articles of association`_ assure that `tributes <#dtributes>`_ are the only "stock"
-
-.. _`dy`:
-
-:dy: limited liability
-
-An initial `LE`_ cannot be a `limited liability`_ `LE`_,
-unless the founders forward `liable capital`_.
-`Liable capital`_ emphasize its purpose as risk capital without defining ownership.
-
-There is also probably no need for `limited liability`_
-before actually interacting with the outside economy.
-
-It is better therefore to found a  `limited liability`_ `LE`_
-only before selling the product,
-
-- by conversion from an existing `LE`_
-- by creating an additional production and marketing `LE`_ joining the product econ lattice
-- by creating an `LE`_ only when actually producing and marketing
-
-When the product development is finished
-
-- most product owners are known by their contributions
-- the `liable capital`_ can be raised by these contributors
-- `liable capital`_ overlaps with outside economy's definition of `equity`_,
-  but we keep the distinction by continuing to use `liable capital`_.
-
-The `LE`_ takes the responsibility for the product according `limited liability`_.
-
-.. _`dc`:
-
-:dc: written
-
-All product-related information and communication is in the product `repo <#dh>`_.
-
-- in a **written** form
-- with **URL**
-
-to
-
-- spread information
-- link information
-- allow recording of effort
-
-Communication in other channels
-are copied/recorded into the repo afterwards,
-if `relevant <#drelevant>`_ for the product.
-
-Meetings, if any,
-are enjoyable parties or activities for team building,
-normally not related and attributed to the product.
 
 .. _`dproduct`:
 
