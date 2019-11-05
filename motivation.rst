@@ -1,11 +1,14 @@
 .. encoding: utf-8
 .. vim: syntax=rst
 
+.. rst2html motivation.rst motivation.html
+.. pandoc -f rst -t html motivation.rst -o motivation.html --standalone --metadata pagetitle="econ motivation"
+
 ********************************
 Motivations: Economic Inequality
 ********************************
 
-The original version was a `blog`_.
+:Author: Roland Puntaier
 
 Summary
 =======
@@ -904,6 +907,14 @@ If the information is a byproduct of one's profitable work,
 because one needs to write things down anyway,
 there is no extra effort in sharing,
 and therefore no need for all the useless effort going into agreeing on a price.
+
+Open information refers to information on a product/project: technical details
+
+- to allow contribution/collaboration
+- to allow adaptations
+- to avoid extra communication effort to discover the information
+
+Open information does not refer to information private to an organizational encapsulation (including personal).
 
 .. _`pcomplexsystems`:
 

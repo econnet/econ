@@ -1,9 +1,14 @@
 .. encoding: utf-8
 .. vim: syntax=rst
 
+.. rst2html test.rst test.html
+.. pandoc -f rst -t html test.rst -o test.html --standalone --metadata pagetitle="econ test"
+
 ******************
 Econ Contract Test
 ******************
+
+:Author: Roland Puntaier
 
 Todo
 ====
@@ -243,9 +248,9 @@ and thus still concentrate on their field of expertise.
 This is made possible by the `cloud`_,
 which allows easy sharing of content and work.
 
-.. _`t9`:
+.. _`t8`:
 
-:t9: fairness → `no employees`_
+:t8: fairness → `no employees`_
 
 The econ contract is founded on basic (economic) principles, i.e. not `ideological`_  (`peconomyofemotions`_, `principles`_).
 
@@ -276,6 +281,7 @@ The econ contract demands effort on fairness (`pfair`_).
 .. _`pnostock`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pnostock
 .. _`pprofit`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pprofit
 .. _`pfair`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pfair
+.. _`evolutionary systems`: https://rolandpuntaier.blogspot.com/2019/01/evolution.html
 
 
 .. _`fiat money`: https://en.wikipedia.org/wiki/Fiat_money
