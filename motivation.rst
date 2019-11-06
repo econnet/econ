@@ -901,18 +901,44 @@ Information is
 - easy to give
 - valuable to get
 
-Opening up information is an easy way to make each other's life easier.
+Opening up information for free (gratis) is an easy way to make each other's life easier.
 
 If the information is a byproduct of one's profitable work,
 because one needs to write things down anyway,
 there is no extra effort in sharing,
 and therefore no need for all the useless effort going into agreeing on a price.
 
-Open information refers to information on a product/project: technical details
+A gratis product is normally
 
-- to allow contribution/collaboration
+- a product with only micro-contributors created by a community
+- a byproduct of work otherwise rewarded, without loss if someone else also uses it
+- a product with *no construction cost* (`variable cost`_) and so
+- a product everybody can construct for personal use
+
+Information/software is such a product.
+
+Sometimes using information is more effort than creating it.
+Experts are needed. Experts contributing to information/software
+
+- form a community
+- get directly payed to consult/service pure users of the product
+
+There is no need to make product-related recordings of effort,
+but rather service-related recordings, separate for every expert.
+Experts needs to create links to customers and
+be reliable in their service to maintain the links.
+
+Open information also refers to information on a product *with construction cost*.
+These are technical details
+
+- to allow cooperation between experts
 - to allow adaptations
-- to avoid extra communication effort to discover the information
+- to avoid extra effort to discover the information,
+  e.g. by requiring to contact an expert,
+  i.e. disallowing others to become experts, too
+
+Not being allowed to learn and change information/software
+is like not being allowed to have one's own (expert) development and thoughts.
 
 Open information does not refer to information private to an organizational encapsulation (including personal).
 
@@ -982,7 +1008,7 @@ More detailed: Open source (open information)
 - removes the dominance of big companies, which stand for inequality
 - creates a community of cooperating equals
 - requires less communication
-- more developer independence
+- produces more independence
 - creates freedom and continuity for the product and the developer
 - speeds up technological evolution as a whole
 - allows tech people to develop interest on it

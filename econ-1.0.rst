@@ -584,31 +584,13 @@ The product uses the spin-off product as `cots`_.
 
 :dx: pricing
 
-The product is *not gratis*, but produces a profit,
-which requires recording `tributes <#dtributes>`__ for fair distribution of profit.
+The product has a per unit construction cost.
+Therefore the product is *not gratis*.
+This requires a product-related recording of `tributes <#dtributes>`__
+for fair distribution of profit.
 
 The pricing needs to consider several aspects and all the data in the repo.
 The product price is proposed by one person and internally `decided <#dp>`__.
-
-A gratis product is normally
-
-- a product with only micro-contributors created by a community (of users)
-- a byproduct of work otherwise rewarded
-
-Information, including software, should be gratis,
-
-- because those using the information should be able to change it, if not applicable as provided
-- because there is *no construction cost* (`variable cost`_) and so
-  - everybody can construct for personal use and
-  - there is no loss if someone else also uses it
-- because using information is sometimes more effort than creating it
-
-Experts
-
-- get payed to consult pure users of the product
-- so their contribution to the product is directly rewarded from the users 
-  (no need to record `tributes <#dtributes>`__)
-
 
 .. _`drepo`:
 
