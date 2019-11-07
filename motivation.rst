@@ -671,6 +671,14 @@ One can hide from employment, if one is able to
 - think of alternatives and
 - offer alternatives
 
+Companies prefer employees over partners,
+because it allows them to have all the advantages
+corresponding to the employee's disadvantages.
+An *alternative network avoiding employment*
+will have to compete on the product market,
+because existing companies will distribute work on employees,
+instead of fairly cooperationg with partners.
+
 Tech people
 -----------
 
