@@ -15,26 +15,26 @@ Summary
 =======
 
 These are *additional terms* (7) to GPL-3.0 at the end of this file for a commercial product.
-`product <#dproduct>`__ refers to what is sold on the market.
+`product`_ refers to what is sold on the market.
 
-| This is a contract between `contributors <#dcontributors>`__ to the `product <#dproduct>`__.
-| This is a license to non-contributors to the `product <#dproduct>`__.
+| This is a contract between `contributors`_ to the `product`_.
+| This is a license to non-contributors to the `product`_.
 | This specifies when a non-contributor becomes a contributor.
 
 The econ contract defines rules by which
-product profit is distributed to the `contributors <#contributors>`__
+product profit is distributed to the `contributors`_
 without sacrificing `open development`_.
 
-`repo <#drepo>`__ refers to the `product <#dproduct>`__ repository containing this file.
-The `repo <#drepo>`__'s purpose is to hold
+`repo`_ refers to the `product`_ repository containing this file.
+The `repo`_'s purpose is to hold
 all information associated with the product.
-The `repo <#drepo>`__ contains also the information about
+The `repo`_ contains also the information about
 
 - who contributed
 - how much and
 - how the profit is accordingly distributed
 
-When the `repo <#drepo>`__ is modified this information must be kept up-to-date.
+When the `repo`_ is modified this information must be kept up-to-date.
 
 The name *econ* stands for
 
@@ -48,12 +48,14 @@ Governance
 
 .. epigraph:: A society is not democratic unless in all interactions.
 
-.. _`decon`:
-
 Econ
 ----
 
 Motivated by `pproduct`_.
+
+.. _`dq`:
+
+:dq: econ
 
 The perspective to economy is from a person.
 Econ is an **inversion** of the usual economic hierarchy:
@@ -113,18 +115,20 @@ siblings
     Sideward, nodes linked via contributors
 
 
-.. _`dcontributors`:
-
 Contributors
 ------------
 
 Motivated by `pchoice`_.
 
+.. _`dh`:
+
+:dh: contributors
+
 Contributors are defined by contributions of `relevant work`_ to the product,
 from inception to production, marketing and support, technical and organizational.
 
-Contributors need to document their contribution in the product `repo <#drepo>`__.
-A work result in the `repo <#drepo>`__ is implicitly documentation of contribution.
+Contributors need to document their contribution in the product `repo`_.
+A work result in the `repo`_ is implicitly documentation of contribution.
 
 Contributors to the product are
 the owners (of the profit) of the product.
@@ -140,7 +144,7 @@ People choose to engage in econs because of
 By contributing (new) contributors commit
 
 - to comply to the rules in this econ contract
-- to accept further current practices defined in the `repo <#drepo>`__ (e.g. `tribute algorithm <#d1>`__),
+- to accept further current practices defined in the `repo`_ (e.g. `tribute algorithm <#d1>`__),
   with influence proportional to `tributes <#tributes>`__ (`decide <#dp>`)
 
 A new contributor (not `micro-contributor <#db>`__) needs to register
@@ -159,9 +163,9 @@ People need to
 
 - find each other
 - get the same understanding of the econ process and values (functioning well together)
-- understand the current `repo <#drepo>`__
+- understand the current `repo`_
 - choose or agree on who works on which product part
-- create communication channels (`repo <#drepo>`__, html sites, chat channels, ...)
+- create communication channels (`repo`_, html sites, chat channels, ...)
 
 The formation effort is recorded to the final product
 e.g. by product initiators, coordinators and/or recruiters.
@@ -204,8 +208,6 @@ Not being reliable
 - gives the bottom econ a bigger share of profit
 - reduces the overall profit/work ratio
 
-.. _`dprocess`:
-
 Process
 -------
 
@@ -222,7 +224,7 @@ Control may refer to controlling the product-related content.
 
 Someone initiating or coordinating does not decide, but mediates an agreement.
 The less coordination needed, the better.
-The `repo <#drepo>`__ should contain all the information
+The `repo`_ should contain all the information
 to do without coordination.
 
 .. _`dk`:
@@ -231,9 +233,9 @@ to do without coordination.
 
 The product to a large part determines the work that needs to be done.
 
-Based on the existing plans in the `repo <#drepo>`__,
+Based on the existing plans in the `repo`_,
 contributors or aspiring contributors *choose work*
-from a list of unassigned work in the `repo <#drepo>`__.
+from a list of unassigned work in the `repo`_.
 
 If there is no unassigned work listed,
 one can make a work proposal (e.g. according `pdt`_).
@@ -260,7 +262,7 @@ Normally that person also executes or coordinates the according effort.
 Decisions are democratic between those concerned,
 either by direct or delegated vote.
 
-The *vote weight* is proportional to `tributes <#dtributes>`__.
+The *vote weight* is proportional to `tributes`_.
 
 Compliance to contracts (this file, license) is not for vote, though.
 Changes to contracts can only be done *unanimously*.
@@ -272,7 +274,7 @@ and convert tributes to normal stock.
 :df: fairness
 
 Having access to all product information,
-including `tributes <#dtributes>`__ and product revenue data,
+including `tributes`_ and product revenue data,
 all contributors can check fairness.
 
 An additional `ombudsman`_
@@ -285,7 +287,7 @@ An additional `ombudsman`_
 
 :dc: written
 
-All product-related information and communication is in the product `repo <#drepo>`__.
+All product-related information and communication is in the product `repo`_.
 
 - in a **written** form
 - with **URL**
@@ -298,18 +300,20 @@ to
 
 Communication in other channels
 are copied/recorded into the repo afterwards,
-if `relevant <#drelevant>`__ for the product.
+if `relevant <#dm>`__ for the product.
 
 Meetings, if any,
 are enjoyable parties or activities for team building,
 normally not related and attributed to the product.
 
-.. _`dlegal`:
-
 Legal
 =====
 
 Motivated by `pproduct`_, `pnoemployment`_
+
+.. _`d4`:
+
+:d4: legal
 
 The econ values are not specific to a government.
 They need to be compatible with all involved governments.
@@ -386,7 +390,7 @@ Contributors secure control over the `LE`_
   gives control to the members by default (`cooperative`_, `joint-stock company`_)
 
 A `joint-stock company`_ satisfies the econ values
-if the `articles of association`_ assure that `tributes <#dtributes>`__ are the only "stock"
+if the `articles of association`_ assure that `tributes`_ are the only "stock"
 
 .. _`dy`:
 
@@ -461,7 +465,7 @@ with possible additional checks from specialized fairness checkers.
 There can be more econs that concentrate on marketing (e.g. according region).
 They register their effort in the repo.
 The customer pays to the `LE`_ account.
-The seller gets the profit proportional to the `tributes <#dtributes>`__.
+The seller gets the profit proportional to the `tributes`_.
 
 .. _`dv`:
 
@@ -502,25 +506,23 @@ whether the same or different.
 Concentrating the effort of government interaction to saves effort is up to the econs,
 as it is no product specific, since econs can contribute to more products.
 
-.. _`dproduct`:
-
 Product
 =======
 
 Motivated by efficiency, `pproduct`_, `popen`_, `pchoice`
+
+.. _`d8`:
+
+:d8: open product development
 
 The product is a finished (tested, readily usable) item by which
 
 - contributors interact with the
 - the market (customers)
 
-.. _`d8`:
-
-:d8: open development
-
 Information about the product is not the product.
 
-The product `repo <#drepo>`__ has open `access <#d6>`__.
+The product `repo`_ has open `access <#d6>`__.
 
 The repo and thus the information in the repo
 can be used according the license.
@@ -586,13 +588,11 @@ The product uses the spin-off product as `cots`_.
 
 The product has a per unit construction cost.
 Therefore the product is *not gratis*.
-This requires a product-related recording of `tributes <#dtributes>`__
+This requires a product-related recording of `tributes`_
 for fair distribution of profit.
 
 The pricing needs to consider several aspects and all the data in the repo.
 The product price is proposed by one person and internally `decided <#dp>`__.
-
-.. _`drepo`:
 
 Repo
 ----
@@ -728,12 +728,12 @@ It allows them
 
 - to allow them to choose to contribute
 - to avoid repeating effort
-- to keep `tributes <#dtributes>`__ together with content
+- to keep `tributes`_ together with content
 
 Open information is to share effort.
-The econ contract demands profit distribution proportional to `tributes <#dtributes>`__.
+The econ contract demands profit distribution proportional to `tributes`_.
 
-- `Forking <#ds>`__ does not lose the `tributes <#dtributes>`__ and thus 
+- `Forking <#ds>`__ does not lose the `tributes`_ and thus 
 - `Forking <#ds>`__ still leads to profit for the contributors via the `LE`_.
 
 Some information in the repo
@@ -757,9 +757,9 @@ to *avoid product forks*.
 A product fork is a product version.
 It is preferred to keep product versions as branches in the orginal repo.
 
-The `repo <#drepo>`__ links profit with work by recording and providing information about
+The `repo`_ links profit with work by recording and providing information about
 
-- work `tributes <#dtributes>`__
+- work `tributes`_
 - profit
 
 `Forks <#ds>`__ must keep this information up-to-date.
@@ -770,10 +770,8 @@ this includes accounting and marketing.
 Tributes are calculated per product version,
 but the algorithm is in the LE branch.
 
-All contributions promising to be `relevant <#drelevant>`__ get merged into the original repo.
+All contributions promising to be `relevant <#dm>`__ get merged into the original repo.
 Existing contributors provide/allow/grant `choice <#dk>`__ to contribute to new contributors.
-
-.. _`dwork`:
 
 Work
 ====
@@ -795,10 +793,12 @@ A separate labor market, decoupled from the produced value, cannot be a referenc
 *Work* does not only refer to technical development of the product,
 but to all aspects to make a finished product successful on the market.
 
-.. _`drelevant`:
-
 Relevant Work
 -------------
+
+.. _`dm`:
+
+:dm: relevant
 
 Product contributions include all product-related activities
 up to the shipping of the final product to the customer.
@@ -821,8 +821,6 @@ For `diversification`_ people should contribute to more parts.
 Work that is not exclusively for the specific product is its own product,
 that comes from the outside economy.
 
-.. _`dtributes`:
-
 Tributes
 --------
 
@@ -843,12 +841,10 @@ Tributes produce delayed income in an outside currency when the product is sold.
 Until then tributes can still be
 
 - inherited
-- used as security for a loan (see `advances <#dadvances>`__)
+- used as security for a loan (see `advances`_)
 
 Tributes are not for sale, else they would become like normal `stock`_.
 Tributes get value in the outside economy only through selling the product.
-
-.. _`dworkunit`:
 
 Work Units
 ----------
@@ -899,10 +895,10 @@ The tribute unit has no exchange rate to an outside currency.
 
 :d1: tribute algorithm
 
-The `repo <#drepo>`__ contains an algorithm that
-*automatically* calculates the contributor's tributes from the `repo <#drepo>`__.
+The `repo`_ contains an algorithm that
+*automatically* calculates the contributor's tributes from the `repo`_.
 
-In the product `repo <#drepo>`__ files are ordered by content,
+In the product `repo`_ files are ordered by content,
 but can be associated by *symbolic links* to
 
 - kind of work
@@ -924,8 +920,6 @@ but how much is decided by the contributors by proposal and vote.
 Micro-recording and micro-payments produce more effort than value.
 This is true for accounting in general.
 
-.. _`dtools`:
-
 Tools
 -----
 
@@ -946,8 +940,6 @@ E.g. a car can be considered by the renting cost,
 even if it is owned by the contributor
 when using it for a product-specific work.
 
-.. _`dfinancing`:
-
 Financing
 =========
 
@@ -963,13 +955,13 @@ but through the `LE`_ (`dw`_).
 Financing through `stock`_ cannot be used,
 because `LE`_ ownership
 
-- is defined by work (`tributes <#dtributes>`__)
+- is defined by work (`tributes`_)
 - not via capital
 
 Money can also not change `LE`_ ownership indirectly.
 A contributor can be payed to produce tributes,
-but the tributes cannot be forwarded to the paying party (see `tributes <#dtributes>`__).
-The pay therefore is either donation or debt (e.g. `advances <#dadvances>`__).
+but the tributes cannot be forwarded to the paying party (see `tributes`_).
+The pay therefore is either donation or debt (e.g. `advances`_).
 
 .. _`du`:
 
@@ -1016,15 +1008,13 @@ because the profit becomes the reward for the work.
 
 Profit from the product sales of the period
 is attributed to contributors
-separate for every *product version* (`tributes <#dtributes>`__)
+separate for every *product version* (`tributes`_)
 
 The profit
 
 - is buffered in the `LE`_ (`retained earnings`_)
 - is forwarded to the owners according tributes
 - can be reinvested as `bonds`_
-
-.. _`dadvances`:
 
 Advances
 --------
@@ -1046,8 +1036,8 @@ A contributor asking or accepting an advance for a *promised contribution*
 is obliged to finish the promised contribution
 if unable to pay back the advances.
 
-Finished work contributions constitute `tributes <#dtributes>`__,
-which have an internal value (if staying `relevant <#drelevant>`__),
+Finished work contributions constitute `tributes`_,
+which have an internal value (if staying `relevant <#dm>`__),
 and can be used as internal security for advances.
 
 The `LE`_ raises advances by donations and `bonds`_.
@@ -1061,7 +1051,7 @@ The contributors unanimously `decide <#dp>`__ on a contract for advances.
 
 Based on the guidelines,
 the `LE`_ agrees on the amount of advances separately with every contributor.
-The information is not placed in the product `repo <#drepo>`__, because
+The information is not placed in the product `repo`_, because
 
 - not related to the product
 - of organizational nature of legal relevance
@@ -1798,6 +1788,3 @@ GPL-3.0
 .. _`pprofit`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pprofit
 .. _`pfair`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pfair
 
-
-
-.. dq,dh,d4,dm unused
