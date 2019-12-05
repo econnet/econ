@@ -1,8 +1,8 @@
 .. encoding: utf-8
 .. vim: syntax=rst
 
-.. rst2html econ-1.0.rst econ-1.0.html
-.. pandoc -f rst -t html econ-1.0.rst -o econ-1.0.html --standalone --metadata pagetitle="econ 1.0"
+.. rst2html econ.rst econ.html
+.. pandoc -f rst -t html econ.rst -o econ.html --standalone --metadata pagetitle="econ"
 
 *************
 Econ Contract

@@ -15,12 +15,10 @@ All of them need conversion to be usable in python or buffered in an SQL databas
 
 Since the programming language here is Python,
 also data shall be represented in Python.
-A language is a good tool to describe also data, especially if interpreted.
+A language is a good tool to describe also data.
 One can use its inherent lookup for identifiers.
 
 Data files are recognized by ``*.db.py``.
-
-Text data is checked into git to track changes over time.
 
 .. _`e3`:
 :e3: data language
@@ -55,9 +53,38 @@ there must be a conversion from the database to the text files before checking i
 | The ID is also a valid python identifier usable in code.
 | The ID is unique throughout the repo.
 
+Text data is checked into git to track changes over time.
+
+.. _`e2`:
+:e2: history
+
+Text data is checked into git to track changes over time.
+The git history text is a journal entry.
+
+In accounting, postings go from n to m categories.
+The historic development of a category (account)
+is a function of the posting journal and does not need to be stored.
+It can be calculated.
+https://www.ledger-cli.org/ does it that way.
+
+In the git repo the git history can be used as posting journal.
+The current state is not calculated but stored in a git branch head.
+For this to work, every posting
+
+- must have a separate commit
+- must be formalized: a python code fragment executed
+
+The code fragment
+
+- does the posting between the data files
+- makes a git commit with itself as commit message
+
+This can be done via command line or by an http POST.
+
+
 """
 
-from rstdoc.dcx import mkdir, mktree, cwd, new_cwd, up_dir
+from txdir import mkdir, view_to_tree, cwd, with_cwd, up_dir
 from git import Repo
 import os
 import sys
@@ -71,7 +98,7 @@ from sqlalchemy.ext.declarative.api import declared_attr
 from sqlalchemy import *
 C = Column
 
-__version__ = '0.0.1.dev0'
+__version__ = '0.0.1'
 
 @as_declarative()
 class Model(object):
@@ -322,7 +349,7 @@ sample_repo_tree = '''
     │  │   ├ testapp/
     │  └ test/
     └ test/
-  LICENSE-econ-1.0.txt << https://raw.githubusercontent.com/rpuntaie/econ/master/econ-1.0.rst
+  LICENSE-econ.txt << https://raw.githubusercontent.com/rpuntaie/econ/master/econ.rst
   contribution.rest
      .. _`how_to_contribute`:
 
@@ -425,8 +452,8 @@ def init_repo(repopath):
 
     """
     mkdir(repopath)
-    with new_cwd(repopath):
-        mktree(sample_repo_tree.splitlines())
+    with with_cwd(repopath):
+        view_to_tree(sample_repo_tree.splitlines())
         r = Repo.init(cwd())
         r.git.add('.')
         r.git.commit('-m', 'initial commit')

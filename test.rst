@@ -295,12 +295,12 @@ The econ contract demands effort on fairness (`pfair`_).
 .. _`bubbles`: https://en.wikipedia.org/wiki/Economic_bubble
 
 
-.. _`decon`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#decon
-.. _`no employees`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#d9
-.. _`drepo`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#dh
-.. _`dfinancing`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#dfinancing
-.. _`dwork`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#dwork
-.. _`dprocess`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#dprocess
-.. _`dproduct`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#dproduct
-.. _`dcontributors`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#dcontributors
-.. _`dtribute`: https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst#dtribute
+.. _`decon`: https://github.com/rpuntaie/econ/blob/master/econ.rst#decon
+.. _`no employees`: https://github.com/rpuntaie/econ/blob/master/econ.rst#d9
+.. _`drepo`: https://github.com/rpuntaie/econ/blob/master/econ.rst#dh
+.. _`dfinancing`: https://github.com/rpuntaie/econ/blob/master/econ.rst#dfinancing
+.. _`dwork`: https://github.com/rpuntaie/econ/blob/master/econ.rst#dwork
+.. _`dprocess`: https://github.com/rpuntaie/econ/blob/master/econ.rst#dprocess
+.. _`dproduct`: https://github.com/rpuntaie/econ/blob/master/econ.rst#dproduct
+.. _`dcontributors`: https://github.com/rpuntaie/econ/blob/master/econ.rst#dcontributors
+.. _`dtribute`: https://github.com/rpuntaie/econ/blob/master/econ.rst#dtribute

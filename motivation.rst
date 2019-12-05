@@ -76,7 +76,7 @@ Fairness needs
   (`separation of powers`_)
 
 This file is the plan.
-The next step: `do <https://github.com/rpuntaie/econ/blob/master/econ-1.0.rst>`_.
+The next step: `do <https://github.com/rpuntaie/econ/blob/master/econ.rst>`_.
 
 .. _`peconomyofemotions`:
 
