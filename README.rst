@@ -34,18 +34,6 @@ Important points:
 - All money flow during development are *loans*
 - *No boss*, but democratic decision making
 
-Todo
-====
-
-- Common technical standards of econ projects
-  make it easier to contribute to different projects.
-
-- Econ projects need a community that shares the same values
-  and drives the projects.
-
-- Econ projects need a common site
-  that allows searching for projects with unassigned work.
-
 
 .. _`info`: https://github.com/rpuntaie/econ/blob/master/README.rst
 .. _`plan`: https://github.com/rpuntaie/econ/blob/master/motivation.rst

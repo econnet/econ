@@ -1,0 +1,82 @@
+#####
+PDT A
+#####
+
+****
+Test
+****
+
+.. _`ta0`:
+:ta0: text data (|pa0| -> |da0|)
+
+To have text data in the repo one could use SQLLite dumps
+https://www.sqlitetutorial.net/sqlite-dump/::
+
+  .output some.db.sql
+  .dump
+  .read some.db.sql
+
+But with Python SqlAlchemy (or PonyORM)
+one is independent from the specific SQLLite.
+A ``some.db.py`` can also be served immediately via HTTP.
+
+.. _`ta1`:
+:ta1: data ID (|pa1| -> |da1|)
+
+Databases normally use numbers as auto-generated primary keys.
+These cannot be used in code.
+Therefore the primary key is not generated.
+
+This way the ID can also be made to satisfy the requirements of a programming language identifier.
+
+Uniqueness can be achieved by 
+
+- a name prefix
+- a common namespace
+
+But according the principle "one concept, one name" and to be unique also in texts
+a fully qualified name per record via a prefix is better (flat naming).
+
+.. _`ta2`:
+:ta2: history (|pa2| -> |da2|)
+
+In accounting, postings go from n to m categories.
+The historic development of a category (account)
+is a function of the posting journal and does not need to be stored.
+It can be calculated.
+https://www.ledger-cli.org/ does it that way.
+
+In the git repo the current state is not calculated but stored in a git branch head.
+Since the current state is of most value,
+it is advantageous to have the current state available without calculation.
+
+For reporting https://www.ledger-cli.org/ is a good tool.
+If the ledger postings are in the git history messages
+they can be filtered from the git history via the *posting marker*
+and made available to *ledger-cli*.
+
+For this to work, every posting
+
+- must have a separate commit
+- must use the ledger-cli format.
+
+.. _`ta4`:
+:ta4: data language (|pa0| -> |da4|)
+
+A data query language like SQL is more cumbersome for retrieval, than Python.
+SQL though
+
+- is able to selectively retrieve and edit data not fitting into memory
+- is a data domain specific language usable by all general languages
+
+To have
+
+- buffering of text data as an SQL database and
+- conversion back to python
+
+mitigates.
+
+- It allows selective editing via HTTP
+- It allows also using other languages, like nodes.js,
+  but language proliferation is the wrong way
+
