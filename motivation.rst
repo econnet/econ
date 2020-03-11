@@ -1,6 +1,9 @@
 .. encoding: utf-8
 .. vim: syntax=rst
 
+.. This was first a blog: employment=inequality
+.. https://rolandpuntaier.blogspot.com/2019/05/employmentinequality.html
+
 .. rst2html motivation.rst motivation.html
 .. pandoc -f rst -t html motivation.rst -o motivation.html --standalone --metadata pagetitle="econ motivation"
 
@@ -49,7 +52,7 @@ Here the consequences are summarized
 
 .. _`pnoboss`:
 
-:pnoboss: The product network has coordinators and mediators, but no boss (`importance of fairness`_, `problem of the important man`_).
+:pnoboss: The product network has coordinators and mediators, but no boss (`importance of fairness`_, `problem of the powerful man`_).
 
 .. _`pnoemployment`:
 
@@ -712,18 +715,35 @@ A tech coordinator should be
 - a highly skilled technical guy himself and
 - wise and empathetic enough not insinuate hierarchy
 
-Problem of the important man
-----------------------------
+Problem of the powerful man
+---------------------------
 
-An important person, a boss,
+The existence of a powerful person, a boss,
 
 - is against equality
 - abuses power to increase inequality
 - throttles self initiative
 - hinders parallelization
-- is a bottleneck in the process
+- is a bottleneck in the system and normally to slow to react
 - produces sycophants
 - spoils communication
+
+Democratic systems that allow powerful roles,
+produce `facade democracies`_.
+Actually this happens also, if the power is by
+wealth concentration outside the political ranks,
+by bribing the politicians.
+
+`Powerful men`_ produced so much pain in human history.
+They decided to yield wars that otherwise would not have happened.
+
+In economy this corresponds to a `hostile takeover`_.
+The super rich wield money like a sword.
+
+`Powerful men`_ are not a success story, but the result of a system error.
+In economy employment is the system error,
+because all the employees work hard to produce inequality,
+to produce `powerful men`_.
 
 .. _`pamorallaw`:
 
@@ -829,6 +849,8 @@ instead of only through taxes and `redistribution`_.
 Continuity
 ==========
 
+Employment is not a stable relationship, because unfair.
+
 The tension in the company-employee relationship produces `employment turnover`_
 which produces discontinuity
 
@@ -850,6 +872,16 @@ complex systems are built and maintained.
 This demands continuity to develop actual improvements of components
 instead of random alterations from every new employee working on it.
 Even a new approach is better done by someone that has experienced all the shortcomings.
+
+- Employment is not energy-efficient.
+  which aggravates the climate problem.
+
+  Because the extra time spent to relearn due to `employment turnover`_,
+  thus producing less advancement with the available resources.
+
+  Because employers, by demanding an unnecessary physical presence for brain work,
+  just to check on the employee,
+  waste an immense amount of energy for the commute.
 
 Worker ownership brings more continuity.
 
@@ -1309,3 +1341,6 @@ Many companies servicing an open automation infrastructure
 .. _`liberté-égalité-fraternité`: https://en.wikipedia.org/wiki/Libert%C3%A9,_%C3%A9galit%C3%A9,_fraternit%C3%A9
 .. _`pdt`: https://github.com/rpuntaie/pdt
 .. _`separation of powers`: https://en.wikipedia.org/wiki/Separation_of_powers
+.. _`hostile takeover`: https://en.wikipedia.org/wiki/Takeover#Hostile
+.. _`powerful men`: https://en.wikipedia.org/wiki/Forbes_list_of_The_World%27s_Most_Powerful_People#Listed_every_time
+.. _`facade democracies`: https://en.wikipedia.org/wiki/Democracy
