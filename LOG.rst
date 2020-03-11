@@ -44,13 +44,20 @@ The dump
 
 There is `automap`_ to do without ORM code.
 
+A web interface would need to be made.
+One could refer to `odoo OCA`_ regarding tables and web interface.
+It is `not possible to use sqlite <https://github.com/odoo/odoo/issues/22636>`__ with odoo,
+but, it seems with `OCA <https://odoo-community.org/shop/product/external-database-source-sqlite-621>`__.
+
+.. _`odoo OCA`: https://github.com/OCA
 .. _`automap`: https://docs.sqlalchemy.org/en/13/orm/extensions/automap.html
 
 Option 2: leger-cli
 
 There is no need to convert to db for query here.
 There is also a html interface.
-So this should works do *without further effort*.
+So no need for temporary ``.sqlite`` files.
+So this should work do *without further effort*.
 
 https://github.com/ledger/ledger
 https://www.ledger-cli.org/3.0/doc/ledger3.html
