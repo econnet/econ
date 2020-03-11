@@ -6,8 +6,8 @@ PDT A
 Do
 ****
 
-.. _`da0`:
-:da0: data text (|pa0|)
+.. _`2a0`:
+:2a0: data text (|pa0|)
 
 There are several text serialization formats:
 https://en.wikipedia.org/wiki/Comparison_of_data-serialization_formats
@@ -21,8 +21,8 @@ One can use its inherent lookup for identifiers.
 
 Data files are recognized by ``*.db.py``.
 
-.. _`da4`:
-:da4: conversion
+.. _`2a4`:
+:2a4: conversion
 
 Text data (``*.db.py``) files are converted to a local database for buffering,
 either by a separate command or automatically on an event
@@ -39,16 +39,16 @@ If editing via the database is possible,
 there must be a conversion
 from the database to the text files (``.db.py``) before checking in.
 
-.. _`da1`:
-:da1: data ID (|pa1|)
+.. _`2a1`:
+:2a1: data ID (|pa1|)
 
 - The ID of a data record is NOT sequentially generated from the database.
 - The ID is also a valid python identifier usable in code.
 - The ID is unique throughout the repo.
   This is achieved via a name prefix per class/table.
 
-.. _`da2`:
-:da2: history (|pa2|)
+.. _`2a2`:
+:2a2: history (|pa2|)
 
 Text data is checked into git to track changes over time.
 The git history text is a journal entry

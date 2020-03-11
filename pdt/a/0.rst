@@ -1,0 +1,20 @@
+#####
+PDT A
+#####
+
+****
+Info
+****
+
+.. _`0a0`:
+:0a0: mission
+
+A product is the pivot of interactions: with the code, between people, with a prototype, ...
+Before the actual value of the product is known,
+effort of interactions is meassured with a product-internal currency, the *tribute*.
+Bookkeeping is important in order to match
+
+- the share of effort with
+- the share of actual but delayed value.
+
+The bookkeeping must be within the same repository to link it with the artefacts.
