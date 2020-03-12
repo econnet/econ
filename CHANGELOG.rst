@@ -6,7 +6,7 @@ Top entry is `[TODO]`.
 Entries have a short description and
 possibly a link to documents with further detail.
 
-Todo
+TODO
 ====
 
 - Common technical standards of econ projects

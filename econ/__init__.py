@@ -1,4 +1,107 @@
+
 """
+
+Just sandbox.
+
+20200312: ON HOLD until a project arises which it could support.
+
+Purpose
+=======
+
+The econ Python module automates activities around an econ repo.
+
+Requirements
+============
+
+- Data is stored as **text**,
+  because text is the most accessible format.
+
+- Financial according demands a journal:
+  - every entry has a receipt,
+  - no changes, but corrective postings
+
+
+Discussion
+==========
+
+Data
+----
+
+For data in general there are several text serialization formats:
+https://en.wikipedia.org/wiki/Comparison_of_data-serialization_formats
+
+One could also use checked in Python ORM (see Model)
+that fills a temporary sqlite db on the fly.
+Such data files should be recognized by ``*.db.py``.
+Changes on the sqlite db would need to be dumped to the ``*.db.py`` files before checking in.
+
+Accounting
+----------
+
+:Option 1: sqlite dump
+
+One could use `odoo OCA`_ regarding tables and web interface.
+It is `not possible to use sqlite <https://github.com/odoo/odoo/issues/22636>`__ with odoo,
+but, it seems with `OCA <https://odoo-community.org/shop/product/external-database-source-sqlite-621>`__.
+
+``Sqlite3`` has::
+
+  .output some.db.sql
+  .dump
+  .read some.db.sql
+
+The dump fulfills the requirements.
+The dump is a text file and gets checked in.
+
+There is `automap`_ to do without ORM code.
+
+.. _`odoo OCA`: https://github.com/OCA
+.. _`automap`: https://docs.sqlalchemy.org/en/13/orm/extensions/automap.html
+
+:Option 2: ledger-cli
+
+The ledger journals are text.
+
+There is no need to convert to db for query here,
+because ledger can do all kind of queries.
+
+There is also a html interface for ledger.
+
+So no need for temporary ``.sqlite`` files.
+This should work *without further effort*.
+
+| https://github.com/ledger/ledger
+| https://www.ledger-cli.org/3.0/doc/ledger3.html
+| https://github.com/lipidity/ledgible
+
+There would be other options, too:
+https://plaintextaccounting.org/
+
+Logging
+-------
+
+A git repo has its own logging.  But
+
+- not all activities are associated with repo artefacts
+- at least not immediately
+
+Logging is basically loud thinking for the product,
+which should also lead to *tributes*,
+since tributes are automatically calculated from the repo.
+
+A *contributor* constitutes a logging *thread*.
+The logging is done in the contributor's folder,
+and not at the project root.
+Logging is not a version log (``CHANGELOG``),
+but logs *activities* of the contributor as they happen.
+
+The log represents a time line of the development,
+that links together other files for the details.
+The logs keeps outdated thoughts and solution attempts.
+Als linked file paths can become outdated and
+their is no need to update them.
+
+.. _`pdt`: https://github.com/rpuntaie/pdt#test
 
 """
 
@@ -45,6 +148,11 @@ class Model(object):
     'user two'
     >>> User.metadata.tables['user'].columns
     ['user.ID', 'user.name']
+
+    - The ID of a data record is NOT sequentially generated from the database.
+    - The ID is also a valid python identifier usable in code.
+    - The ID is unique throughout the repo.
+      This is achieved via a name prefix per class/table.
 
     """
 
@@ -95,8 +203,7 @@ sample_repo_tree = '''
     │
     │     .. include:: /_links_sphinx.rst
     ├ account
-    │  ├ purchase
-    │  │   └ /dev/cots/ATmega328
+    │  ├ next_purchase.rst
     │  ├ model
     │  │   └ MX1
     │  │       ├ tributes.db.py
@@ -106,7 +213,7 @@ sample_repo_tree = '''
     │              from dev.cots.cots.db import cots
     │              from econ import bom
     │              bom(cots[0],21,1)
-    │  └ 2019_ledger.db.py
+    │  └ 2019_ledger.journal
     ├ market
     │  ├ ads
            └ ad1/
@@ -119,8 +226,8 @@ sample_repo_tree = '''
     ├ tribute
     │  ├ contributor
     │      └ c1
-    │         ├ assigned
-    │         │   └ /pdt/000
+    │         ├ assigned.rst
+    │         │   /pdt/000
     │         ├ log
     │         │   └ 2019.rest
     │                .. _`c1_20191101`
@@ -133,8 +240,8 @@ sample_repo_tree = '''
     │                It was necessary to refactor ...
     │
     │                .. include:: /_links_sphinx.rst
-    │         └ responsibility
-    │             └ /dev/sw/fw
+    │         └ responsibility.rst
+    │             /dev/sw/fw
   doc
     ├ index.rest
     │    .. toc::
@@ -303,8 +410,6 @@ sample_repo_tree = '''
      .. include:: /_links_sphinx.rst
   wscript
      #vim: ft=python
-     from waflib import Logs
-     Logs.colors_lst['BLUE']='\x1b[01;36m'
      top='.'
      out='../build'
      def options(opt):

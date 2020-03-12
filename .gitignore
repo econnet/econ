@@ -1,5 +1,6 @@
 *.html
 *.rest
+.tags
 dist
 build
 *egg-info
@@ -10,3 +11,5 @@ MANIFEST
 *.pyc
 docs/_build
 .noseids
+.lock*
+
