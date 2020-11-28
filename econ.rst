@@ -745,13 +745,20 @@ This econ contract requires the `LE <#d4>`__ to care to
 All these words contain "tribute".
 Therefore the effort to provide the product is called **tribute**.
 
-Tributes produce delayed income in an outside currency when the product is sold.
-Until then tributes can still be
+Tributes produce delayed income in an outside currency,
+when the product is sold.
+Until then, tributes can still be
 
 - inherited
 - used as security for a loan (see `advances`_)
 
-Tributes are not for sale, else they would become like normal `stock`_.
+Selling tributes would make them normal `stock`_,
+
+- allow all kind of speculations and manipulations
+- and get detached from the actual value
+
+Contributers need to get the actual value of their work, not others.
+
 Tributes get value in the outside economy only through selling the product.
 
 Work Units
@@ -771,26 +778,15 @@ When quantifying results internally,
 Measuring the performance of a contributor is depreciative and biased,
 as neither experience nor education nor exams
 need to reflect in the result.
-A less performant contributor will take longer,
-i.e. automatically get less profit per time compared to others.
-The quality of the result is checked,
-therefore fast results of low quality will still take longer to reach accepted quality.
+A contributor's performance is valued by the market only.
+Less performant does not mean slow,
+because someone thinking deeper and producing slow but long-living results
+on the long term is more performant
+than someone with many short-living fast solutions.
 
 .. _`dn`:
 
 :dn: work kinds
-
-Every kind of work has its own result unit.
-
-*Work kind* units can be
-
-- lines of a report (steps taken,...)
-
-- lines of a plan (why, requirements, testing, ...)
-
-- number of records per type (postings accounted, contributors recruited, customers acquired, ...)
-
-- lines of code (described as much as possible with a language, general is preferred over `DSL`_)
 
 To get to a profit distribution key,
 the *work kind* units are internally valued against a standard work unit (tribute unit).
@@ -798,6 +794,28 @@ The *tribute* unit is described
 based on an activity that is frequent for the product.
 
 The tribute unit has no exchange rate to an outside currency.
+
+Every kind of work has its own result unit.
+
+*Work kind* units examples:
+
+- lines of a report (steps taken,...)
+
+- lines of a plan (why, requirements, testing, ...)
+
+- lines of code
+
+- number of records per type
+  (postings accounted, contributors recruited, customers acquired, ...)
+
+Whenever possible the deeper structure should be considered.
+For example
+
+- lines of code can be
+- weighted with number of API functions used
+- which are weighted with the complexity of the library used
+- and so one
+
 
 .. _`d1`:
 
@@ -1673,7 +1691,6 @@ GPL-3.0
 .. _`Gesellschaft bürgerlichen Rechts`: https://de.wikipedia.org/wiki/Gesellschaft_b%C3%BCrgerlichen_Rechts_(Deutschland)
 .. _`General Partnership`: https://en.wikipedia.org/wiki/General_partnership
 .. _`common or civil law`: https://onlinelaw.wustl.edu/blog/common-law-vs-civil-law/
-.. _`DSL`: https://en.wikipedia.org/wiki/Domain-specific_language
 .. _`pdt`: https://github.com/rpuntaie/pdt
 .. _`version control system`: https://en.wikipedia.org/wiki/Version_control
 .. _`git`: https://en.wikipedia.org/wiki/Git
