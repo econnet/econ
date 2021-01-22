@@ -66,7 +66,7 @@ The wealth accumulation by the owners
 
 The business oligarchs control politics and undermine democracy.
 
-Central decision making over many people without ownership
+Central dictation over many people without ownership
 is normally tagged as communism.
 The so-call capitalism is thus the reason for communism.
 In a statistical, natural economy the market would decide about wages
@@ -78,6 +78,8 @@ Employment laws
 - curb normal mutual supervision
 - and thus work against the proven and genetically encoded emotions
   telling about experience reaching far back into our evolutionary line
+
+Lastly, inequality reduces demand and shrinks the economy.
 
 Laws should ban employment
 and instead demand partnership on long-term economic contracts.
