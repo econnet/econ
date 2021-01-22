@@ -9,16 +9,17 @@ ECON
 Economic Nodes Without Employment
 *********************************
 
+
 :Status: drafting
 :Created: 2019-10-09
 
 .. _`infopurpose`:
 
-:purpose:
+:EcoN: Economic Node
 
-Propose an alternative to employment.
+This repos proposes an alternative to employment.
 
-The documents here are according the blog `pdt`_:
+The documents are according the blog `pdt`_:
 
 - `info`_: introduction (this README)
 - `plan`_: ideas and motivations
@@ -32,6 +33,8 @@ Important points of the `do`_ document:
 - Only work on the product can create *ownership*
 - All money flow during development are *loans*
 - *No boss*, but democratic decision making
+
+.. _`infoemploymentbad`:
 
 Why Employment is Bad
 =====================
