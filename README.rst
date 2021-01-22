@@ -35,9 +35,9 @@ Important points:
 - *No boss*, but democratic decision making
 
 
-.. _`info`: https://github.com/rpuntaie/econ/blob/master/README.rst
-.. _`plan`: https://github.com/rpuntaie/econ/blob/master/motivation.rst
-.. _`do`: https://github.com/rpuntaie/econ/blob/master/econ.rst
-.. _`test`: https://github.com/rpuntaie/econ/blob/master/test.rst
+.. _`info`: https://github.com/econnet/econ/blob/master/README.rst
+.. _`plan`: https://github.com/econnet/econ/blob/master/motivation.rst
+.. _`do`: https://github.com/econnet/econ/blob/master/econ.rst
+.. _`test`: https://github.com/econnet/econ/blob/master/test.rst
 .. _`pdt`: https://github.com/rpuntaie/pdt
 .. _`inequality`: https://rolandpuntaier.blogspot.com/2019/05/employmentinequality.html

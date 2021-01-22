@@ -1706,14 +1706,14 @@ GPL-3.0
 .. _`bond rating`: https://en.wikipedia.org/wiki/Bond_credit_rating
 .. _`open development`: https://en.wikipedia.org/wiki/Open-source_model
 
-.. _`pproduct`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pproduct
-.. _`popen`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#popen
-.. _`pchoice`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pchoice
-.. _`pnoboss`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pnoboss
-.. _`pnoemployment`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pnoemployment
-.. _`pnostock`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pnostock
-.. _`pprofit`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pprofit
-.. _`pfair`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pfair
+.. _`pproduct`: https://github.com/econnet/econ/blob/master/motivation.rst#pproduct
+.. _`popen`: https://github.com/econnet/econ/blob/master/motivation.rst#popen
+.. _`pchoice`: https://github.com/econnet/econ/blob/master/motivation.rst#pchoice
+.. _`pnoboss`: https://github.com/econnet/econ/blob/master/motivation.rst#pnoboss
+.. _`pnoemployment`: https://github.com/econnet/econ/blob/master/motivation.rst#pnoemployment
+.. _`pnostock`: https://github.com/econnet/econ/blob/master/motivation.rst#pnostock
+.. _`pprofit`: https://github.com/econnet/econ/blob/master/motivation.rst#pprofit
+.. _`pfair`: https://github.com/econnet/econ/blob/master/motivation.rst#pfair
 
 
 .. dj unused

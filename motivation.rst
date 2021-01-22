@@ -79,7 +79,7 @@ Fairness needs
   (`separation of powers`_)
 
 This file is the plan.
-The next step: `do <https://github.com/rpuntaie/econ/blob/master/econ.rst>`_.
+The next step: `do <https://github.com/econnet/econ/blob/master/econ.rst>`_.
 
 .. _`peconomyofemotions`:
 
@@ -1339,7 +1339,7 @@ Many companies servicing an open automation infrastructure
 .. _`legal industry`: https://en.wikipedia.org/wiki/Practice_of_law
 .. _`operations manual`: https://en.wikipedia.org/wiki/Operations_manual
 .. _`liberté-égalité-fraternité`: https://en.wikipedia.org/wiki/Libert%C3%A9,_%C3%A9galit%C3%A9,_fraternit%C3%A9
-.. _`pdt`: https://github.com/rpuntaie/pdt
+.. _`pdt`: https://github.com/econnet/pdt
 .. _`separation of powers`: https://en.wikipedia.org/wiki/Separation_of_powers
 .. _`hostile takeover`: https://en.wikipedia.org/wiki/Takeover#Hostile
 .. _`powerful men`: https://en.wikipedia.org/wiki/Forbes_list_of_The_World%27s_Most_Powerful_People#Listed_every_time

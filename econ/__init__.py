@@ -374,7 +374,7 @@ sample_repo_tree = '''
     │  │   ├ testapp/
     │  └ test/
     └ test/
-  LICENSE-econ.txt << https://raw.githubusercontent.com/rpuntaie/econ/master/econ.rst
+  LICENSE-econ.txt << https://raw.githubusercontent.com/econnet/econ/master/econ.rst
   contribution.rest
      .. _`how_to_contribute`:
 

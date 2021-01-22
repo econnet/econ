@@ -23,7 +23,7 @@ setup(name='econ',
       license='GPLv3',
       author='Roland Puntaier',
       author_email='roland.puntaier@gmail.com',
-      url='https://github.com/rpuntaie/econ',
+      url='https://github.com/econnet/econ',
       keywords=['Documentation'],
       classifiers=[
           'Development Status :: 1 - Planning',

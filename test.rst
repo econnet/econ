@@ -271,16 +271,16 @@ Open development avoids abuse of information, reduces effort and increases fairn
 The econ contract demands effort on fairness (`pfair`_).
 
 
-.. _`peconomyofemotions`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#peconomyofemotions
-.. _`pproduct`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pproduct
-.. _`popen`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#popen
-.. _`pchoice`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pchoice
-.. _`pinfo`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pinfo
-.. _`pnoboss`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pnoboss
-.. _`pnoemployment`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pnoemployment
-.. _`pnostock`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pnostock
-.. _`pprofit`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pprofit
-.. _`pfair`: https://github.com/rpuntaie/econ/blob/master/motivation.rst#pfair
+.. _`peconomyofemotions`: https://github.com/econnet/econ/blob/master/motivation.rst#peconomyofemotions
+.. _`pproduct`: https://github.com/econnet/econ/blob/master/motivation.rst#pproduct
+.. _`popen`: https://github.com/econnet/econ/blob/master/motivation.rst#popen
+.. _`pchoice`: https://github.com/econnet/econ/blob/master/motivation.rst#pchoice
+.. _`pinfo`: https://github.com/econnet/econ/blob/master/motivation.rst#pinfo
+.. _`pnoboss`: https://github.com/econnet/econ/blob/master/motivation.rst#pnoboss
+.. _`pnoemployment`: https://github.com/econnet/econ/blob/master/motivation.rst#pnoemployment
+.. _`pnostock`: https://github.com/econnet/econ/blob/master/motivation.rst#pnostock
+.. _`pprofit`: https://github.com/econnet/econ/blob/master/motivation.rst#pprofit
+.. _`pfair`: https://github.com/econnet/econ/blob/master/motivation.rst#pfair
 .. _`evolutionary systems`: https://rolandpuntaier.blogspot.com/2019/01/evolution.html
 
 
@@ -295,12 +295,12 @@ The econ contract demands effort on fairness (`pfair`_).
 .. _`bubbles`: https://en.wikipedia.org/wiki/Economic_bubble
 
 
-.. _`decon`: https://github.com/rpuntaie/econ/blob/master/econ.rst#decon
-.. _`no employees`: https://github.com/rpuntaie/econ/blob/master/econ.rst#d9
-.. _`drepo`: https://github.com/rpuntaie/econ/blob/master/econ.rst#dh
-.. _`dfinancing`: https://github.com/rpuntaie/econ/blob/master/econ.rst#dfinancing
-.. _`dwork`: https://github.com/rpuntaie/econ/blob/master/econ.rst#dwork
-.. _`dprocess`: https://github.com/rpuntaie/econ/blob/master/econ.rst#dprocess
-.. _`dproduct`: https://github.com/rpuntaie/econ/blob/master/econ.rst#dproduct
-.. _`dcontributors`: https://github.com/rpuntaie/econ/blob/master/econ.rst#dcontributors
-.. _`dtribute`: https://github.com/rpuntaie/econ/blob/master/econ.rst#dtribute
+.. _`decon`: https://github.com/econnet/econ/blob/master/econ.rst#decon
+.. _`no employees`: https://github.com/econnet/econ/blob/master/econ.rst#d9
+.. _`drepo`: https://github.com/econnet/econ/blob/master/econ.rst#dh
+.. _`dfinancing`: https://github.com/econnet/econ/blob/master/econ.rst#dfinancing
+.. _`dwork`: https://github.com/econnet/econ/blob/master/econ.rst#dwork
+.. _`dprocess`: https://github.com/econnet/econ/blob/master/econ.rst#dprocess
+.. _`dproduct`: https://github.com/econnet/econ/blob/master/econ.rst#dproduct
+.. _`dcontributors`: https://github.com/econnet/econ/blob/master/econ.rst#dcontributors
+.. _`dtribute`: https://github.com/econnet/econ/blob/master/econ.rst#dtribute
