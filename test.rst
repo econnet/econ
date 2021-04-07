@@ -259,11 +259,11 @@ but offers a fairer cooperation to those interested (`pchoice`_).
 
 The econ lattice is no huge organization, but pragmatic per product (`pproduct`_).
 
-In the econ contract has no central control, no boss (`pnoboss`_).
+The econ has no central control, no boss (`pnoboss`_).
 
 The econ has no subordinate roles like employees (`pnoemployment`_).
 
-Base ownership on *relevant* work to fit valuation to reality,
+Ownership on *relevant* work fits valuation to reality,
 instead of stock `bubbles`_ (`pchoice`_, `pnostock`_).
 
 Open development avoids abuse of information, reduces effort and increases fairness (`popen`_).

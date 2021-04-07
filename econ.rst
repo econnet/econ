@@ -84,7 +84,7 @@ The contributors correspond to the econ's intent.
 but the English sense of purpose (to produce content) fits well.
 
 The bottom econ stands for the product (*product econ*)
-It cares to coordinate other econs
+and cares to coordinate other econs
 to make the product successful on the market.
 
 Econ interaction is done via content.
@@ -236,7 +236,8 @@ and improve communication based on the content in the `repo`_.
 Someone initiating (stakeholder) or coordinating does not decide,
 but mediates an agreement.
 The less coordination needed, the better.
-The `repo`_ should contain all the information to do without coordination.
+The `repo`_ should contain all the information,
+to do without coordination.
 Notices, via git commit or tag message, similar to
 
 - interface proposal at ... or
@@ -900,9 +901,8 @@ Before actual income, the money can come from
 
 Money *cannot* be used to change ownership of the `LE <#d4>`__.
 Bonds don't change ownership.
-The profit through ownership is higher than
-the interest on bonds. Also,
-the interest on bonds can be considered in the product price.
+The profit through ownership is higher than the interest on bonds.
+The interest on bonds can be considered in the product price.
 
 .. _`d3`:
 
