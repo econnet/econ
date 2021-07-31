@@ -305,11 +305,10 @@ as they do not help each other to maximize their profit.
 Even the opposite:
 There is a pressure on wages to increase the profit of the owners.
 
-By law, the employee is controlled by the employer.
 Because the majority of people are employees and cannot take part in the profit maximization,
 employment produces inequality.
 
-To improve their lives, i.e. maximize their profit, 
+To improve their lives, i.e. maximize their profit,
 employees need to become owners of their work, of their cooperation.
 
 Work for Equality
@@ -730,7 +729,7 @@ The existence of a powerful person, a boss,
 
 Democratic systems that allow powerful roles,
 produce `facade democracies`_.
-Actually this happens also, if the power is by
+Actually, this happens also, if the power is by
 wealth concentration outside the political ranks,
 by bribing the politicians.
 
@@ -784,7 +783,7 @@ employees can expect `unfair`_ `contracts`_
 - that produce `inequality`_ with respect to the company
 - that put them in a subordinate role
 
-Actually subordination is in the `employment contract`_ by law.
+Actually, subordination is in the `employment contract`_ by law.
 How to make a majority avoid the employment role that is immoral by law?
 How to make a majority more suspicious and political?
 

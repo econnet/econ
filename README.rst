@@ -17,7 +17,7 @@ Economic Nodes Without Employment
 
 :EcoN: Economic Node
 
-This repos proposes an alternative to employment.
+This repo proposes an alternative to employment.
 
 The documents are according the blog `pdt`_:
 
@@ -45,9 +45,9 @@ do not give the contractors even leverage.
 
 Employees
 
-- do not get access to company information,
+- do not get access to company information
 - cannot influence the company decisions
-- and do not work to produce ownership.
+- and do not work to produce ownership
 
 Employment laws do interfere with
 a statistical development of an economy.
