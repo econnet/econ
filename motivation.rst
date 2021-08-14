@@ -16,6 +16,8 @@ Motivations: Economic Inequality
 Summary
 =======
 
+Employment=Inequality.
+
 Economic inequality is bad
 
 - for emotional health
@@ -28,14 +30,14 @@ The reasons for inequality are
 - power hierarchy, because abused for inequality
 - information hiding, because fairness cannot be checked
 
-If those making a product own its profit, work is linked to profit
+If those making a product own its profit, work is linked to profit.
 
 Below follows broad and deep argumentation
 
 - how things are but should not be
 - i.e. motivating to do things differently
 
-Here the consequences are summarized
+Here, the consequences are summarized:
 
 .. _`pproduct`:
 
