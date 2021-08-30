@@ -510,7 +510,10 @@ In this econ contract
 
 Not using employment is the major difference
 between the `econ`_ lattice and traditional companies.
-Profit sharing or advanced payments are usual practices.
+Instead of wages for employees
+
+- existing profit is shared according `tributes`_ or
+- `advances`_ are payed (loans to contributors)
 
 The econs working on product parts
 are separate entities (natural or legal) and
@@ -939,7 +942,7 @@ separately for every *product version* (`tributes`_).
 The profit
 
 - is buffered in the `LE <#d4>`__ (`retained earnings`_)
-- is forwarded to the owners according tributes
+- is forwarded to the owners according `tributes`_
 - can be reinvested as `bonds`_
 
 Advances
